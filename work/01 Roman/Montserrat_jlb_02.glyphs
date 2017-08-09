@@ -1,7 +1,7 @@
 {
-.appVersion = "1043";
+.appVersion = "1049";
 DisplayStrings = (
-"HBP/Placeholder DI/Placeholder E\012HH/Placeholder DHHIII/Placeholder III"
+"/dieresiscomb/dieresiscomb_gravecomb/dieresiscomb_acutecomb/dieresiscomb_macroncomb/dotaccentcomb/dotaccentcomb_macroncomb/gravecomb/gravecomb_macroncomb/acutecomb/acutecomb_dotaccentcomb/acutecomb_macroncomb/hungarumlautcomb/circumflexcomb/caroncomb/caroncomb_dotaccentcomb \012/brevecomb/ringcomb/ringcomb_acutecomb/tildecomb/tildecomb_dieresiscomb/tildecomb_acutecomb/tildecomb_macroncomb/macroncomb/macroncomb_dieresiscomb/macroncomb_gravecomb/macroncomb_acutecomb/hookabovecomb/dblgravecomb/breveinvertedcomb \012/dotbelowcomb/dieresisbelowcomb/cedillacomb/ogonekcomb/brevebelowcomb/macronbelowcomb/brevecomb_acutecomb/brevecomb_gravecomb/brevecomb_hookabovecomb/brevecomb_tildecomb/circumflexcomb_acutecomb/circumflexcomb_gravecomb/circumflexcomb_hookabovecomb/circumflexcomb_tildecomb"
 );
 classes = (
 {
@@ -24495,11 +24495,11 @@ name = J;
 },
 {
 name = acutecomb.case;
-transform = "{1, 0, 0, 1, 122, 0}";
+transform = "{1, 0, 0, 1, 128, 1}";
 }
 );
 layerId = UUID0;
-width = 459;
+width = 474;
 },
 {
 components = (
@@ -24528,11 +24528,11 @@ name = J;
 },
 {
 name = circumflexcomb.case;
-transform = "{1, 0, 0, 1, 32, 0}";
+transform = "{1, 0, 0, 1, 38, 1}";
 }
 );
 layerId = UUID0;
-width = 459;
+width = 474;
 },
 {
 components = (
@@ -24566,7 +24566,7 @@ transform = "{1, 0, 0, 1, 255, 0}";
 }
 );
 layerId = UUID0;
-width = 670;
+width = 672;
 },
 {
 components = (
@@ -24634,11 +24634,11 @@ name = L;
 },
 {
 name = acutecomb.case;
-transform = "{1, 0, 0, 1, 66, 0}";
+transform = "{1, 0, 0, 1, 56, 1}";
 }
 );
 layerId = UUID0;
-width = 491;
+width = 595;
 },
 {
 components = (
@@ -24668,11 +24668,11 @@ name = L;
 },
 {
 name = caroncomb.alt;
-transform = "{1, 0, 0, 1, 441, 0}";
+transform = "{1, 0, 0, 1, 441, 1}";
 }
 );
 layerId = UUID0;
-width = 491;
+width = 595;
 },
 {
 components = (
@@ -24702,11 +24702,11 @@ name = L;
 },
 {
 name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 215, 0}";
+transform = "{1, 0, 0, 1, 277, 0}";
 }
 );
 layerId = UUID0;
-width = 491;
+width = 595;
 },
 {
 components = (
@@ -24740,7 +24740,7 @@ transform = "{1, 0, 0, 1, 296, 36}";
 }
 );
 layerId = UUID0;
-width = 491;
+width = 595;
 },
 {
 components = (
@@ -24770,11 +24770,11 @@ name = L;
 },
 {
 name = dotbelowcomb.case;
-transform = "{1, 0, 0, 1, 219, 0}";
+transform = "{1, 0, 0, 1, 281, 0}";
 }
 );
 layerId = UUID0;
-width = 491;
+width = 595;
 },
 {
 components = (
@@ -24842,11 +24842,11 @@ name = L;
 },
 {
 name = macronbelowcomb;
-transform = "{1, 0, 0, 1, 136, 0}";
+transform = "{1, 0, 0, 1, 198, 0}";
 }
 );
 layerId = UUID0;
-width = 491;
+width = 595;
 },
 {
 components = (
@@ -25127,11 +25127,11 @@ name = N;
 },
 {
 name = acutecomb.case;
-transform = "{1, 0, 0, 1, 333, 0}";
+transform = "{1, 0, 0, 1, 321, 1}";
 }
 );
 layerId = UUID0;
-width = 799;
+width = 806;
 },
 {
 components = (
@@ -25161,11 +25161,11 @@ name = N;
 },
 {
 name = caroncomb.case;
-transform = "{1, 0, 0, 1, 243, 0}";
+transform = "{1, 0, 0, 1, 231, 1}";
 }
 );
 layerId = UUID0;
-width = 799;
+width = 806;
 },
 {
 components = (
@@ -25195,11 +25195,11 @@ name = N;
 },
 {
 name = commaaccentcomb;
-transform = "{1, 0, 0, 1, 315, 0}";
+transform = "{1, 0, 0, 1, 323, 0}";
 }
 );
 layerId = UUID0;
-width = 799;
+width = 806;
 },
 {
 components = (
@@ -25229,11 +25229,11 @@ name = N;
 },
 {
 name = dotaccentcomb.case;
-transform = "{1, 0, 0, 1, 287, 0}";
+transform = "{1, 0, 0, 1, 275, 1}";
 }
 );
 layerId = UUID0;
-width = 799;
+width = 806;
 },
 {
 components = (
@@ -25263,11 +25263,11 @@ name = N;
 },
 {
 name = dotbelowcomb.case;
-transform = "{1, 0, 0, 1, 319, 0}";
+transform = "{1, 0, 0, 1, 327, 0}";
 }
 );
 layerId = UUID0;
-width = 799;
+width = 806;
 },
 {
 components = (
@@ -25443,11 +25443,11 @@ name = N;
 },
 {
 name = macronbelowcomb;
-transform = "{1, 0, 0, 1, 236, 0}";
+transform = "{1, 0, 0, 1, 244, 0}";
 }
 );
 layerId = UUID0;
-width = 799;
+width = 806;
 },
 {
 components = (
@@ -25477,11 +25477,11 @@ name = N;
 },
 {
 name = tildecomb.case;
-transform = "{1, 0, 0, 1, 262, 0}";
+transform = "{1, 0, 0, 1, 250, 1}";
 }
 );
 layerId = UUID0;
-width = 799;
+width = 806;
 },
 {
 components = (
@@ -25511,7 +25511,7 @@ name = O;
 },
 {
 name = acutecomb.case;
-transform = "{1, 0, 0, 1, 327, 0}";
+transform = "{1, 0, 0, 1, 328, 1}";
 }
 );
 layerId = UUID0;
@@ -25545,7 +25545,7 @@ name = O;
 },
 {
 name = brevecomb.case;
-transform = "{1, 0, 0, 1, 284, 0}";
+transform = "{1, 0, 0, 1, 285, 1}";
 }
 );
 layerId = UUID0;
@@ -25579,7 +25579,7 @@ name = O;
 },
 {
 name = circumflexcomb.case;
-transform = "{1, 0, 0, 1, 237, 0}";
+transform = "{1, 0, 0, 1, 238, 1}";
 }
 );
 layerId = UUID0;
@@ -25613,7 +25613,7 @@ name = O;
 },
 {
 name = circumflexcomb_acutecomb.case;
-transform = "{1, 0, 0, 1, 274, 0}";
+transform = "{1, 0, 0, 1, 275, 1}";
 }
 );
 layerId = UUID0;
@@ -25689,7 +25689,7 @@ name = O;
 },
 {
 name = circumflexcomb_gravecomb.case;
-transform = "{1, 0, 0, 1, 265, 0}";
+transform = "{1, 0, 0, 1, 266, 1}";
 }
 );
 layerId = UUID0;
