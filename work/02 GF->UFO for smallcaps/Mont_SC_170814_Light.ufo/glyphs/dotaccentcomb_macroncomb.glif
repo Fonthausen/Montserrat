@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentcomb_macroncomb" format="1">
+  <advance width="485.400009155"/>
+  <outline>
+    <contour>
+      <point x="242.700004578" y="413.802107903" type="move" name="_top"/>
+    </contour>
+    <component base="dotaccentcomb.loclVIET"/>
+    <component base="macroncomb.loclVIET" yOffset="92.2046017609"/>
+  </outline>
+</glyph>

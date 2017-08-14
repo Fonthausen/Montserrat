@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numero.ss01" format="1">
+  <advance width="948.887443931"/>
+  <outline>
+    <component base="ordmasculine" xOffset="614.422567597" yOffset="-44.6401308525"/>
+    <component base="N.ss01"/>
+    <component base="softhyphen" xOffset="630.602567902" yOffset="-7.4147201416"/>
+  </outline>
+</glyph>

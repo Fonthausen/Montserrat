@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="adblgrave.sc.ss01" format="1">
+  <advance width="564"/>
+  <outline>
+    <component base="a.sc.ss01"/>
+    <component base="dblgravecomb" xOffset="29" yOffset="28"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-14 18:56:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

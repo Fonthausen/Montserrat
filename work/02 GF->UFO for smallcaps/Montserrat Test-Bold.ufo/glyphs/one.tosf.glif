@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.tosf" format="1">
+  <advance width="700"/>
+  <outline>
+    <contour>
+      <point x="498" y="0" type="line"/>
+      <point x="498" y="601" type="line"/>
+      <point x="124" y="601" type="line"/>
+      <point x="124" y="418" type="line"/>
+      <point x="367" y="418" type="line"/>
+      <point x="266" y="519" type="line"/>
+      <point x="266" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="588" y="0" type="line"/>
+      <point x="588" y="178" type="line"/>
+      <point x="124" y="178" type="line"/>
+      <point x="125" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>one.osf</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceright.case" format="1">
+  <advance width="327"/>
+  <outline>
+    <component base="braceright" xOffset="-19.729" yOffset="35.889"/>
+  </outline>
+</glyph>

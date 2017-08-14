@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="whiteSquare" format="1">
+  <advance width="485.400009155"/>
+  <outline>
+    <contour>
+      <point x="399.646007538" y="56.7290010834" type="line"/>
+      <point x="399.646007538" y="366.741007004" type="line"/>
+      <point x="85.7540016174" y="366.741007004" type="line"/>
+      <point x="85.7540016174" y="56.7290010834" type="line"/>
+    </contour>
+    <contour>
+      <point x="103.571417989" y="348.555766656" type="line"/>
+      <point x="381.828591166" y="348.555766656" type="line"/>
+      <point x="381.828591166" y="74.9142414307" type="line"/>
+      <point x="103.571417989" y="74.9142414307" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="imacron.sc" format="1">
+  <advance width="216.582248115"/>
+  <outline>
+    <component base="i.sc"/>
+    <component base="macroncomb.narrow" xOffset="-134.40888052" yOffset="33.3902106377"/>
+  </outline>
+</glyph>

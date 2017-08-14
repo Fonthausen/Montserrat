@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idieresis" format="1">
+  <advance width="285"/>
+  <unicode hex="00EF"/>
+  <outline>
+    <component base="dieresiscomb.narrow" xOffset="-110.565"/>
+    <component base="idotless"/>
+  </outline>
+</glyph>

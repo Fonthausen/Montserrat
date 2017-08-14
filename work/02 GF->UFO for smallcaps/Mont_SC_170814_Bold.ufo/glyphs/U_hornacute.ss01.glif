@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhornacute.ss01" format="1">
+  <advance width="671"/>
+  <outline>
+    <component base="Uhorn.ss01"/>
+    <component base="acutecomb.case" xOffset="79"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-14 18:56:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

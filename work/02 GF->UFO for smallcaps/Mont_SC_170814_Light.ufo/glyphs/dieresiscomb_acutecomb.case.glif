@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb_acutecomb.case" format="1">
+  <advance width="485.400009155"/>
+  <outline>
+    <contour>
+      <point x="242.700004578" y="559.323980682" type="move" name="_top"/>
+    </contour>
+    <component base="dieresiscomb_acutecomb" yOffset="119.850002289"/>
+  </outline>
+</glyph>

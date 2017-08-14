@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb.loclVIET" format="1">
+  <advance width="485.400009155"/>
+  <outline>
+    <contour>
+      <point x="242.700004578" y="413.802107903" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="242.700004578" y="505.767009659" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="231.632884392" y="484.993009262" type="line"/>
+      <point x="342.999826504" y="565.612110802" type="line"/>
+      <point x="307.525175768" y="565.612110802" type="line"/>
+      <point x="205.227123848" y="484.993009262" type="line"/>
+    </contour>
+  </outline>
+</glyph>

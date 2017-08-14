@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="downArrow" format="1">
+  <advance width="485.400009155"/>
+  <outline>
+    <component base="upArrow" xScale="-1.0" yScale="-1.0" xOffset="498.059241388" yOffset="432.642528262"/>
+  </outline>
+</glyph>

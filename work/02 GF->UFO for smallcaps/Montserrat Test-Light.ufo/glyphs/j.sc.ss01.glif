@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j.sc.ss01" format="1">
+  <advance width="412"/>
+  <outline>
+    <contour>
+      <point x="245" y="-80"/>
+      <point x="295" y="-24"/>
+      <point x="295" y="78" type="curve"/>
+      <point x="295" y="559" type="line"/>
+      <point x="64" y="559" type="line"/>
+      <point x="64" y="540" type="line"/>
+      <point x="275" y="540" type="line"/>
+      <point x="275" y="79" type="line"/>
+      <point x="275" y="-12"/>
+      <point x="232" y="-60"/>
+      <point x="154" y="-60" type="curve"/>
+      <point x="104" y="-60"/>
+      <point x="59" y="-35"/>
+      <point x="25" y="13" type="curve"/>
+      <point x="12" y="-2" type="line"/>
+      <point x="48" y="-52"/>
+      <point x="99" y="-80"/>
+      <point x="154" y="-80" type="curve"/>
+    </contour>
+    <contour>
+      <point x="183" y="559" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>J.ss01</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

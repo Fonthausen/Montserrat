@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb.narrow" format="1">
+  <advance width="485.400009155"/>
+  <outline>
+    <contour>
+      <point x="242.700004578" y="413.802107903" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="242.700004578" y="521.747009964" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="333.887250328" y="563.231090756" type="curve"/>
+      <point x="316.985621976" y="563.231090756" type="line"/>
+      <point x="316.985621976" y="532.213910164"/>
+      <point x="304.166207737" y="511.631669771"/>
+      <point x="284.839197374" y="511.631669771" type="curve" smooth="yes"/>
+      <point x="255.119772818" y="511.631669771"/>
+      <point x="243.420014589" y="566.642820821"/>
+      <point x="200.258245769" y="566.642820821" type="curve" smooth="yes"/>
+      <point x="168.839921162" y="566.642820821"/>
+      <point x="151.512758828" y="538.901540292"/>
+      <point x="151.512758828" y="495.843429469" type="curve"/>
+      <point x="168.41438718" y="495.843429469" type="line"/>
+      <point x="168.41438718" y="528.458610092"/>
+      <point x="181.233801419" y="549.064820486"/>
+      <point x="200.560811781" y="549.064820486" type="curve" smooth="yes"/>
+      <point x="230.280236337" y="549.064820486"/>
+      <point x="241.979994566" y="494.053669435"/>
+      <point x="285.141763386" y="494.053669435" type="curve" smooth="yes"/>
+      <point x="316.560087993" y="494.053669435"/>
+      <point x="333.887250328" y="521.794949965"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered.loclCAT.sc" format="1">
+  <advance width="225"/>
+  <outline>
+    <component base="dotaccentcomb" xOffset="-28" yOffset="-327"/>
+    <contour>
+      <point x="113" y="374" type="move" name="_center"/>
+    </contour>
+  </outline>
+</glyph>

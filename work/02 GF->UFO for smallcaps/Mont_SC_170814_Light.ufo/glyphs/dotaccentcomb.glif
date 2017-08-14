@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentcomb" format="1">
+  <advance width="485.400009155"/>
+  <outline>
+    <contour>
+      <point x="242.700004578" y="413.802107903" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="242.700004578" y="507.444909691" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="242.700004578" y="533.939750197" type="move" name="_center"/>
+    </contour>
+    <contour>
+      <point x="265.300229038" y="533.987690198" type="curve" smooth="yes"/>
+      <point x="265.300229038" y="546.444100436"/>
+      <point x="254.969298829" y="556.871050635"/>
+      <point x="242.700004578" y="556.871050635" type="curve" smooth="yes"/>
+      <point x="230.430710326" y="556.871050635"/>
+      <point x="220.099780117" y="546.444100436"/>
+      <point x="220.099780117" y="533.987690198" type="curve" smooth="yes"/>
+      <point x="220.099780117" y="521.53127996"/>
+      <point x="230.430710326" y="511.104329761"/>
+      <point x="242.700004578" y="511.104329761" type="curve" smooth="yes"/>
+      <point x="254.969298829" y="511.104329761"/>
+      <point x="265.300229038" y="521.53127996"/>
+    </contour>
+  </outline>
+</glyph>

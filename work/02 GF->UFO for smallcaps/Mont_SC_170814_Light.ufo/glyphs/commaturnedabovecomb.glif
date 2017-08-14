@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaturnedabovecomb" format="1">
+  <advance width="485.400009155"/>
+  <outline>
+    <contour>
+      <point x="242.700004578" y="413.802107903" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="242.700004578" y="553.946710579" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="265.175643033" y="504.376749632" type="curve" smooth="yes"/>
+      <point x="265.175643033" y="516.329789861"/>
+      <point x="255.040490832" y="526.277340051"/>
+      <point x="242.700004578" y="526.277340051" type="curve"/>
+      <point x="244.025146614" y="516.002199854" type="line"/>
+      <point x="264.17086501" y="608.310671617" type="line"/>
+      <point x="247.829064663" y="608.310671617" type="line"/>
+      <point x="224.714316217" y="528.770220098" type="line"/>
+      <point x="222.70476017" y="519.334029918"/>
+      <point x="220.224366122" y="513.357509804"/>
+      <point x="220.224366122" y="504.376749632" type="curve" smooth="yes"/>
+      <point x="220.224366122" y="493.997739434"/>
+      <point x="228.759316293" y="482.428219213"/>
+      <point x="242.700004578" y="482.428219213" type="curve" smooth="yes"/>
+      <point x="255.849490848" y="482.428219213"/>
+      <point x="265.175643033" y="492.447679404"/>
+    </contour>
+  </outline>
+</glyph>

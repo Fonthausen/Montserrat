@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breveinvertedcomb.narrow" format="1">
+  <advance width="485.400009155"/>
+  <outline>
+    <contour>
+      <point x="242.700004578" y="413.802107903" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="242.700004578" y="521.747009964" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="172.113135259" y="484.993009262" type="line"/>
+      <point x="172.113135259" y="530.831640137"/>
+      <point x="200.934569796" y="559.355940682"/>
+      <point x="242.700004578" y="559.355940682" type="curve" smooth="yes"/>
+      <point x="284.465439359" y="559.355940682"/>
+      <point x="313.286873896" y="530.831640137"/>
+      <point x="313.286873896" y="484.993009262" type="curve"/>
+      <point x="330.633452266" y="484.993009262" type="line"/>
+      <point x="330.597856264" y="541.761960346"/>
+      <point x="293.641117555" y="576.646301012"/>
+      <point x="242.700004578" y="576.646301012" type="curve" smooth="yes"/>
+      <point x="191.7588916" y="576.646301012"/>
+      <point x="154.802152891" y="541.761960346"/>
+      <point x="154.766556889" y="484.993009262" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

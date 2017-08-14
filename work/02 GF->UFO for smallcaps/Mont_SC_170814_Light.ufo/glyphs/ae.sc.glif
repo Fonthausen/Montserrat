@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ae.sc" format="1">
+  <advance width="644.98982424"/>
+  <outline>
+    <contour>
+      <point x="398.785231556" y="447.19231854" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="614.718661662" y="6.39200012207" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="444.890142443" y="0.0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="32.8162766815" y="0.0" type="line"/>
+      <point x="295.187925583" y="428.583608185" type="line"/>
+      <point x="484.743101164" y="428.583608185" type="line"/>
+      <point x="487.765525216" y="447.19231854" type="line"/>
+      <point x="284.68710535" y="447.19231854" type="line"/>
+      <point x="9.89407017311" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="327.389362222" y="138.586552647" type="line"/>
+      <point x="328.251756239" y="156.979532998" type="line"/>
+      <point x="109.27810408" y="156.979532998" type="line"/>
+      <point x="108.415710063" y="138.586552647" type="line"/>
+    </contour>
+    <contour>
+      <point x="614.052045652" y="0.0" type="line"/>
+      <point x="614.052045652" y="19.3358003693" type="line"/>
+      <point x="334.040960386" y="19.3358003693" type="line"/>
+      <point x="334.040960386" y="220.516014211" type="line"/>
+      <point x="575.46921693" y="220.516014211" type="line"/>
+      <point x="575.46921693" y="239.076784566" type="line"/>
+      <point x="334.040960386" y="239.076784566" type="line"/>
+      <point x="334.040960386" y="428.631548186" type="line"/>
+      <point x="605.224237487" y="428.631548186" type="line"/>
+      <point x="605.224237487" y="447.19231854" type="line"/>
+      <point x="314.408147941" y="447.19231854" type="line"/>
+      <point x="314.408147941" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

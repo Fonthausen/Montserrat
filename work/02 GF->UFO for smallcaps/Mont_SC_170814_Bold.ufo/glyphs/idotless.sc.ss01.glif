@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idotless.sc.ss01" format="1">
+  <advance width="409"/>
+  <outline>
+    <component base="i.sc.ss01"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-14 18:56:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

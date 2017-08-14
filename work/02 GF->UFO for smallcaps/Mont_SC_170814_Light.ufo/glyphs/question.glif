@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="question" format="1">
+  <advance width="321.388200102"/>
+  <unicode hex="003F"/>
+  <outline>
+    <contour>
+      <point x="156.183924999" y="165.648683163" type="line"/>
+      <point x="156.183924999" y="296.045485654"/>
+      <point x="302.399351753" y="285.115165445"/>
+      <point x="302.399351753" y="421.895978057" type="curve" smooth="yes"/>
+      <point x="302.399351753" y="504.480619634"/>
+      <point x="240.755168586" y="543.288050375"/>
+      <point x="161.427863072" y="543.288050375" type="curve" smooth="yes"/>
+      <point x="81.1135775345" y="543.288050375"/>
+      <point x="24.9010204658" y="502.259399592"/>
+      <point x="19.362606364" y="426.322438142" type="curve"/>
+      <point x="38.2479027789" y="424.772378112" type="line"/>
+      <point x="42.9951148661" y="490.394249365"/>
+      <point x="89.1873977215" y="523.544759998"/>
+      <point x="160.262903042" y="523.544759998" type="curve" smooth="yes"/>
+      <point x="231.213822358" y="523.544759998"/>
+      <point x="282.83773131" y="490.681889371"/>
+      <point x="282.83773131" y="421.784118055" type="curve" smooth="yes"/>
+      <point x="282.83773131" y="292.833505592"/>
+      <point x="137.387618588" y="304.075435807"/>
+      <point x="137.387618588" y="165.648683163" type="curve"/>
+    </contour>
+    <component base="period" xOffset="75.5217694306"/>
+  </outline>
+</glyph>

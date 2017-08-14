@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upWhiteTriangle" format="1">
+  <advance width="485.400009155"/>
+  <outline>
+    <contour>
+      <point x="415.017007828" y="41.5480007935" type="line"/>
+      <point x="242.700004578" y="381.922007294" type="line"/>
+      <point x="70.3830013275" y="41.5480007935" type="line"/>
+    </contour>
+    <contour>
+      <point x="242.700004578" y="342.347536538" type="line"/>
+      <point x="387.17122726" y="59.1579611298" type="line"/>
+      <point x="98.2287818952" y="59.1579611298" type="line"/>
+    </contour>
+  </outline>
+</glyph>

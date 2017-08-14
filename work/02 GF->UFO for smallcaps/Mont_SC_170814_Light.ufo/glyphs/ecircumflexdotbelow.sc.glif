@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecircumflexdotbelow.sc" format="1">
+  <advance width="425.891586076"/>
+  <outline>
+    <component base="circumflexcomb" xOffset="0.391556015872" yOffset="33.3902106377"/>
+    <component base="e.sc"/>
+    <component base="dotbelowcomb" xOffset="2.02735404711"/>
+  </outline>
+</glyph>

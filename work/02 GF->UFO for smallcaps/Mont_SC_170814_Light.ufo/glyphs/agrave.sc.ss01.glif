@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="agrave.sc.ss01" format="1">
+  <advance width="533.255596061"/>
+  <outline>
+    <component base="gravecomb" xOffset="23.5499904461" yOffset="33.3902106377"/>
+    <component base="a.sc.ss01"/>
+  </outline>
+</glyph>

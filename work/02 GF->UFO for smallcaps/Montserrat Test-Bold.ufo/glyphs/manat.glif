@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="manat" format="1">
+  <advance width="800"/>
+  <unicode hex="20BC"/>
+  <outline>
+    <contour>
+      <point x="243" y="0" type="line"/>
+      <point x="243" y="251" type="line" smooth="yes"/>
+      <point x="243" y="348"/>
+      <point x="307" y="418"/>
+      <point x="403" y="418" type="curve" smooth="yes"/>
+      <point x="499" y="418"/>
+      <point x="557" y="348"/>
+      <point x="557" y="251" type="curve" smooth="yes"/>
+      <point x="557" y="0" type="line"/>
+      <point x="775" y="0" type="line"/>
+      <point x="775" y="252" type="line" smooth="yes"/>
+      <point x="775" y="460"/>
+      <point x="617" y="611"/>
+      <point x="400" y="611" type="curve" smooth="yes"/>
+      <point x="183" y="611"/>
+      <point x="25" y="461"/>
+      <point x="25" y="252" type="curve" smooth="yes"/>
+      <point x="25" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="473" y="0" type="line"/>
+      <point x="473" y="701" type="line"/>
+      <point x="327" y="701" type="line"/>
+      <point x="327" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

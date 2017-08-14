@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="x.sc" format="1">
+  <advance width="498"/>
+  <outline>
+    <contour>
+      <point x="49" y="0" type="line"/>
+      <point x="248" y="273" type="line"/>
+      <point x="448" y="0" type="line"/>
+      <point x="473" y="0" type="line"/>
+      <point x="261" y="290" type="line"/>
+      <point x="457" y="559" type="line"/>
+      <point x="433" y="559" type="line"/>
+      <point x="248" y="306" type="line"/>
+      <point x="65" y="559" type="line"/>
+      <point x="40" y="559" type="line"/>
+      <point x="236" y="289" type="line"/>
+      <point x="25" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>X</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

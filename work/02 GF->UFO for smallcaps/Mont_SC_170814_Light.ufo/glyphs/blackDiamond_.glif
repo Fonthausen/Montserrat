@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="blackDiamond" format="1">
+  <advance width="485.400009155"/>
+  <outline>
+    <component base="blackSquare" xScale="0.707" yScale="0.707" xOffset="-80.9000015259" yOffset="231.710004425"/>
+  </outline>
+</glyph>

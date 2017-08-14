@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.tf" format="1">
+  <advance width="700"/>
+  <outline>
+    <contour>
+      <point x="519" y="-2"/>
+      <point x="613" y="124"/>
+      <point x="613" y="350" type="curve" smooth="yes"/>
+      <point x="613" y="575"/>
+      <point x="519" y="701"/>
+      <point x="349" y="701" type="curve" smooth="yes"/>
+      <point x="181" y="701"/>
+      <point x="87" y="575"/>
+      <point x="87" y="350" type="curve" smooth="yes"/>
+      <point x="87" y="124"/>
+      <point x="181" y="-2"/>
+      <point x="349" y="-2" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="193" y="18"/>
+      <point x="107" y="137"/>
+      <point x="107" y="350" type="curve" smooth="yes"/>
+      <point x="107" y="563"/>
+      <point x="193" y="681"/>
+      <point x="349" y="681" type="curve" smooth="yes"/>
+      <point x="506" y="681"/>
+      <point x="593" y="563"/>
+      <point x="593" y="350" type="curve" smooth="yes"/>
+      <point x="593" y="137"/>
+      <point x="506" y="18"/>
+      <point x="349" y="18" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>zero</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

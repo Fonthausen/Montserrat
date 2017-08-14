@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a.sc" format="1">
+  <advance width="584"/>
+  <outline>
+    <contour>
+      <point x="45" y="0" type="line"/>
+      <point x="291" y="537" type="line"/>
+      <point x="540" y="0" type="line"/>
+      <point x="563" y="0" type="line"/>
+      <point x="302" y="559" type="line"/>
+      <point x="280" y="559" type="line"/>
+      <point x="21" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="467" y="168" type="line"/>
+      <point x="467" y="188" type="line"/>
+      <point x="116" y="188" type="line"/>
+      <point x="116" y="168" type="line"/>
+    </contour>
+    <contour>
+      <point x="563" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="292" y="559" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="99" y="559" type="move" name="topleft"/>
+    </contour>
+    <contour>
+      <point x="291" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>A</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

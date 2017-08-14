@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colonsign" format="1">
+  <advance width="580"/>
+  <outline>
+    <contour>
+      <point x="473" y="596" type="line"/>
+      <point x="530" y="823" type="line"/>
+      <point x="398" y="823" type="line"/>
+      <point x="342" y="596" type="line"/>
+    </contour>
+    <contour>
+      <point x="232" y="-143" type="line"/>
+      <point x="289" y="85" type="line"/>
+      <point x="157" y="85" type="line"/>
+      <point x="101" y="-143" type="line"/>
+    </contour>
+    <contour>
+      <point x="427" y="-242" type="line"/>
+      <point x="483" y="-13" type="line"/>
+      <point x="352" y="-13" type="line"/>
+      <point x="296" y="-242" type="line"/>
+    </contour>
+    <contour>
+      <point x="273" y="496" type="line"/>
+      <point x="330" y="725" type="line"/>
+      <point x="198" y="725" type="line"/>
+      <point x="142" y="496" type="line"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-14 18:56:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

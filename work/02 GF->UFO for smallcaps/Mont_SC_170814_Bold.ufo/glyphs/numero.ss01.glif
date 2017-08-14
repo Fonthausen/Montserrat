@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numero.ss01" format="1">
+  <advance width="1076"/>
+  <outline>
+    <component base="ordmasculine"/>
+    <component base="N.ss01" xOffset="358"/>
+    <component base="softhyphen" xOffset="680.736" yOffset="-78.352"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-14 18:56:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

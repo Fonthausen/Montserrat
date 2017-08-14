@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hbar.sc" format="1">
+  <advance width="758"/>
+  <outline>
+    <contour>
+      <point x="301" y="0" type="line"/>
+      <point x="301" y="203" type="line"/>
+      <point x="458" y="203" type="line"/>
+      <point x="458" y="0" type="line"/>
+      <point x="672" y="0" type="line"/>
+      <point x="672" y="582" type="line"/>
+      <point x="458" y="582" type="line"/>
+      <point x="458" y="363" type="line"/>
+      <point x="301" y="363" type="line"/>
+      <point x="301" y="582" type="line"/>
+      <point x="87" y="582" type="line"/>
+      <point x="87" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="748" y="424" type="line"/>
+      <point x="748" y="511" type="line"/>
+      <point x="9" y="511" type="line"/>
+      <point x="9" y="424" type="line"/>
+    </contour>
+    <contour>
+      <point x="379" y="468" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="380" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="389" y="582" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>Hbar</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

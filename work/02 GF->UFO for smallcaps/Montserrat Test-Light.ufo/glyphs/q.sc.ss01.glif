@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="q.sc.ss01" format="1">
+  <advance width="713"/>
+  <outline>
+    <contour>
+      <point x="516" y="-3"/>
+      <point x="648" y="125"/>
+      <point x="648" y="281" type="curve" smooth="yes"/>
+      <point x="648" y="436"/>
+      <point x="516" y="563"/>
+      <point x="356" y="563" type="curve" smooth="yes"/>
+      <point x="196" y="563"/>
+      <point x="65" y="436"/>
+      <point x="65" y="281" type="curve" smooth="yes"/>
+      <point x="65" y="125"/>
+      <point x="196" y="-3"/>
+      <point x="356" y="-3" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="366" y="-108" type="line"/>
+      <point x="366" y="181" type="line"/>
+      <point x="347" y="181" type="line"/>
+      <point x="347" y="-108" type="line"/>
+    </contour>
+    <contour>
+      <point x="208" y="17"/>
+      <point x="85" y="136"/>
+      <point x="85" y="281" type="curve" smooth="yes"/>
+      <point x="85" y="425"/>
+      <point x="208" y="543"/>
+      <point x="356" y="543" type="curve" smooth="yes"/>
+      <point x="505" y="543"/>
+      <point x="627" y="425"/>
+      <point x="627" y="281" type="curve" smooth="yes"/>
+      <point x="627" y="136"/>
+      <point x="505" y="17"/>
+      <point x="356" y="17" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>Q.ss01</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

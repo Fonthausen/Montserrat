@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="manat" format="1">
+  <advance width="582.321447015"/>
+  <outline>
+    <contour>
+      <point x="51.7970350476" y="0.0" type="line"/>
+      <point x="51.7970350476" y="207.524273963" type="line" smooth="yes"/>
+      <point x="51.7970350476" y="355.55500679"/>
+      <point x="147.089146824" y="466.512138909"/>
+      <point x="291.21411751" y="466.512138909" type="curve" smooth="yes"/>
+      <point x="435.339088196" y="466.512138909"/>
+      <point x="530.524411967" y="355.55500679"/>
+      <point x="530.524411967" y="207.524273963" type="curve" smooth="yes"/>
+      <point x="530.524411967" y="0.0" type="line"/>
+      <point x="550.228416415" y="0.0" type="line"/>
+      <point x="550.228416415" y="207.548243964" type="line"/>
+      <point x="550.228416415" y="366.764977004"/>
+      <point x="446.933676455" y="486.638949294"/>
+      <point x="291.160723507" y="486.638949294" type="curve" smooth="yes"/>
+      <point x="135.38777056" y="486.638949294"/>
+      <point x="32.0930305995" y="366.788947005"/>
+      <point x="32.0930305995" y="207.548243964" type="curve" smooth="yes"/>
+      <point x="32.0930305995" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="300.371997706" y="0.0" type="line"/>
+      <point x="300.371997706" y="558.548950667" type="line"/>
+      <point x="281.949449309" y="558.548950667" type="line"/>
+      <point x="281.949449309" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y.sc.ss01" format="1">
+  <advance width="673"/>
+  <outline>
+    <contour>
+      <point x="495" y="-92"/>
+      <point x="613" y="10"/>
+      <point x="613" y="169" type="curve" smooth="yes"/>
+      <point x="613" y="582" type="line"/>
+      <point x="399" y="582" type="line"/>
+      <point x="399" y="173" type="line" smooth="yes"/>
+      <point x="399" y="119"/>
+      <point x="355" y="85"/>
+      <point x="286" y="85" type="curve"/>
+      <point x="237" y="85"/>
+      <point x="175" y="100"/>
+      <point x="126" y="125" type="curve"/>
+      <point x="49" y="-19" type="line"/>
+      <point x="116" y="-63"/>
+      <point x="217" y="-92"/>
+      <point x="315" y="-92" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="364" y="125"/>
+      <point x="441" y="219"/>
+      <point x="441" y="370" type="curve"/>
+      <point x="399" y="366" type="line"/>
+      <point x="399" y="329"/>
+      <point x="370" y="308"/>
+      <point x="326" y="308" type="curve" smooth="yes"/>
+      <point x="281" y="308"/>
+      <point x="254" y="332"/>
+      <point x="254" y="372" type="curve" smooth="yes"/>
+      <point x="254" y="582" type="line"/>
+      <point x="40" y="582" type="line"/>
+      <point x="40" y="352" type="line" smooth="yes"/>
+      <point x="40" y="214"/>
+      <point x="119" y="125"/>
+      <point x="238" y="125" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="326" y="582" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="340" y="-79" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>Y.ss01</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y.sc.ss01" format="1">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="533" y="147" type="curve"/>
+      <point x="533" y="486" type="line"/>
+      <point x="325" y="486" type="line"/>
+      <point x="325" y="150" type="line"/>
+      <point x="325" y="112"/>
+      <point x="292" y="89"/>
+      <point x="239" y="89" type="curve"/>
+      <point x="202" y="89"/>
+      <point x="152" y="98"/>
+      <point x="109" y="116" type="curve"/>
+      <point x="35" y="-19" type="line"/>
+      <point x="96" y="-55"/>
+      <point x="183" y="-78"/>
+      <point x="268" y="-78" type="curve"/>
+      <point x="429" y="-78"/>
+      <point x="533" y="9"/>
+    </contour>
+    <contour>
+      <point x="364" y="310" type="curve"/>
+      <point x="324" y="306" type="line"/>
+      <point x="324" y="285"/>
+      <point x="308" y="275"/>
+      <point x="281" y="276" type="curve"/>
+      <point x="251" y="276"/>
+      <point x="235" y="289"/>
+      <point x="235" y="314" type="curve"/>
+      <point x="235" y="486" type="line"/>
+      <point x="27" y="486" type="line"/>
+      <point x="27" y="295" type="line"/>
+      <point x="27" y="178"/>
+      <point x="93" y="104"/>
+      <point x="194" y="104" type="curve"/>
+      <point x="301" y="103"/>
+      <point x="364" y="181"/>
+    </contour>
+    <contour>
+      <point x="279" y="486" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="291" y="-66" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-14 18:56:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

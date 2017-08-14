@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb_gravecomb" format="1">
+  <advance width="485.400009155"/>
+  <outline>
+    <contour>
+      <point x="242.700004578" y="413.802107903" type="move" name="_top"/>
+    </contour>
+    <component base="circumflexcomb.loclVIET"/>
+    <component base="gravecomb.loclVIET" xOffset="99.3937419248" yOffset="60.6441011581"/>
+  </outline>
+</glyph>

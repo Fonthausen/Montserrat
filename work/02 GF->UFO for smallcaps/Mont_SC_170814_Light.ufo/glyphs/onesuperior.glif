@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onesuperior" format="1">
+  <advance width="167.935459195"/>
+  <outline>
+    <component base="one.dnom" yOffset="287.640005493"/>
+  </outline>
+</glyph>

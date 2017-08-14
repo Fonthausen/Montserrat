@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lj.sc.ss01" format="1">
+  <advance width="660.334936547"/>
+  <outline>
+    <component base="l.sc"/>
+    <component base="j.sc.ss01" xOffset="325.015756178"/>
+  </outline>
+</glyph>

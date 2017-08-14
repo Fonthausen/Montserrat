@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l.sc" format="1">
+  <advance width="399"/>
+  <outline>
+    <contour>
+      <point x="391" y="0" type="line"/>
+      <point x="391" y="20" type="line"/>
+      <point x="138" y="20" type="line"/>
+      <point x="138" y="559" type="line"/>
+      <point x="118" y="559" type="line"/>
+      <point x="118" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="255" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="136" y="559" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="372" y="559" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="326" y="312" type="move" name="center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>L</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q" format="1">
+  <advance width="719"/>
+  <unicode hex="0051"/>
+  <outline>
+    <contour>
+      <point x="699" y="291" type="curve" smooth="yes"/>
+      <point x="699" y="468"/>
+      <point x="556" y="597"/>
+      <point x="360" y="597" type="curve" smooth="yes"/>
+      <point x="163" y="597"/>
+      <point x="20" y="468"/>
+      <point x="20" y="291" type="curve" smooth="yes"/>
+      <point x="20" y="113"/>
+      <point x="163" y="-15"/>
+      <point x="360" y="-15" type="curve" smooth="yes"/>
+      <point x="556" y="-15"/>
+      <point x="699" y="113"/>
+    </contour>
+    <contour>
+      <point x="732" y="-78" type="curve"/>
+      <point x="633" y="35" type="line"/>
+      <point x="610" y="13"/>
+      <point x="583" y="1"/>
+      <point x="558" y="1" type="curve" smooth="yes"/>
+      <point x="525" y="1"/>
+      <point x="512" y="14"/>
+      <point x="475" y="75" type="curve"/>
+      <point x="238" y="19" type="line"/>
+      <point x="365" y="-116"/>
+      <point x="433" y="-154"/>
+      <point x="553" y="-154" type="curve" smooth="yes"/>
+      <point x="627" y="-154"/>
+      <point x="689" y="-127"/>
+    </contour>
+    <contour>
+      <point x="252" y="291" type="curve" smooth="yes"/>
+      <point x="252" y="372"/>
+      <point x="301" y="417"/>
+      <point x="360" y="417" type="curve" smooth="yes"/>
+      <point x="418" y="417"/>
+      <point x="467" y="372"/>
+      <point x="467" y="291" type="curve" smooth="yes"/>
+      <point x="467" y="210"/>
+      <point x="418" y="165"/>
+      <point x="360" y="165" type="curve" smooth="yes"/>
+      <point x="301" y="165"/>
+      <point x="252" y="210"/>
+    </contour>
+    <contour>
+      <point x="361" y="582" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-14 18:56:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

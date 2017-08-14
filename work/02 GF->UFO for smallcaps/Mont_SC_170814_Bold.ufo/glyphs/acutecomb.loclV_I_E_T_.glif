@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb.loclVIET" format="1">
+  <advance width="508"/>
+  <outline>
+    <contour>
+      <point x="300" y="504" type="line"/>
+      <point x="446" y="616" type="line"/>
+      <point x="239" y="616" type="line"/>
+      <point x="157" y="504" type="line"/>
+    </contour>
+    <contour>
+      <point x="254" y="619" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="254" y="458" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-14 18:56:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

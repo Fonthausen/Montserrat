@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="b.sc" format="1">
+  <advance width="655"/>
+  <outline>
+    <contour>
+      <point x="388" y="0" type="line" smooth="yes"/>
+      <point x="533" y="0"/>
+      <point x="629" y="65"/>
+      <point x="629" y="164" type="curve" smooth="yes"/>
+      <point x="629" y="236"/>
+      <point x="583" y="295"/>
+      <point x="514" y="311" type="curve"/>
+      <point x="574" y="330"/>
+      <point x="612" y="379"/>
+      <point x="612" y="435" type="curve" smooth="yes"/>
+      <point x="612" y="523"/>
+      <point x="518" y="582"/>
+      <point x="372" y="582" type="curve" smooth="yes"/>
+      <point x="65" y="582" type="line"/>
+      <point x="65" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="278" y="224" type="line"/>
+      <point x="360" y="224" type="line" smooth="yes"/>
+      <point x="388" y="224"/>
+      <point x="407" y="211"/>
+      <point x="407" y="191" type="curve" smooth="yes"/>
+      <point x="407" y="169"/>
+      <point x="388" y="154"/>
+      <point x="360" y="154" type="curve" smooth="yes"/>
+      <point x="278" y="154" type="line"/>
+    </contour>
+    <contour>
+      <point x="278" y="428" type="line"/>
+      <point x="360" y="428" type="line" smooth="yes"/>
+      <point x="379" y="428"/>
+      <point x="393" y="415"/>
+      <point x="393" y="396" type="curve" smooth="yes"/>
+      <point x="393" y="376"/>
+      <point x="379" y="362"/>
+      <point x="360" y="362" type="curve" smooth="yes"/>
+      <point x="278" y="362" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>B</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e.sc" format="1">
+  <advance width="524"/>
+  <outline>
+    <contour>
+      <point x="486" y="0" type="line"/>
+      <point x="486" y="20" type="line"/>
+      <point x="138" y="20" type="line"/>
+      <point x="138" y="278" type="line"/>
+      <point x="438" y="278" type="line"/>
+      <point x="438" y="297" type="line"/>
+      <point x="138" y="297" type="line"/>
+      <point x="138" y="540" type="line"/>
+      <point x="475" y="540" type="line"/>
+      <point x="475" y="559" type="line"/>
+      <point x="118" y="559" type="line"/>
+      <point x="118" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="486" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="300" y="559" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="44" y="559" type="move" name="topleft"/>
+    </contour>
+    <contour>
+      <point x="302" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>E</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

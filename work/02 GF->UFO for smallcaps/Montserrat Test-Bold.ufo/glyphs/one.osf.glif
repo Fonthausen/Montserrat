@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.osf" format="1">
+  <advance width="408"/>
+  <outline>
+    <contour>
+      <point x="351" y="0" type="line"/>
+      <point x="351" y="600" type="line"/>
+      <point x="0" y="600" type="line"/>
+      <point x="0" y="422" type="line"/>
+      <point x="221" y="422" type="line"/>
+      <point x="120" y="518" type="line"/>
+      <point x="120" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

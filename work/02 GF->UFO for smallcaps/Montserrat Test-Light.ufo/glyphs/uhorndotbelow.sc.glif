@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhorndotbelow.sc" format="1">
+  <advance width="659"/>
+  <outline>
+    <component base="uhorn.sc"/>
+    <component base="dotbelowcomb" xOffset="28"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=u.sc</string>
+    </dict>
+  </lib>
+</glyph>

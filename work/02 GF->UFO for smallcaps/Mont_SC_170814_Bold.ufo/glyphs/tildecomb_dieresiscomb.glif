@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb_dieresiscomb" format="1">
+  <advance width="508"/>
+  <outline>
+    <component base="dieresiscomb.loclVIET" yOffset="160.711"/>
+    <component base="tildecomb.loclVIET" yOffset="321"/>
+    <contour>
+      <point x="254" y="458" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-14 18:56:23 +0000</string>
+    </dict>
+  </lib>
+</glyph>

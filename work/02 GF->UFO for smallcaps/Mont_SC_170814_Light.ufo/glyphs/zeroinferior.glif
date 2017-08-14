@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zeroinferior" format="1">
+  <advance width="365.329844883"/>
+  <outline>
+    <component base="zero.dnom" yOffset="-80.0198515282"/>
+  </outline>
+</glyph>

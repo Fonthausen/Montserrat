@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y.sc" format="1">
+  <advance width="501"/>
+  <outline>
+    <contour>
+      <point x="255" y="202" type="line"/>
+      <point x="489" y="559" type="line"/>
+      <point x="465" y="559" type="line"/>
+      <point x="252" y="234" type="line"/>
+      <point x="35" y="559" type="line"/>
+      <point x="12" y="559" type="line"/>
+      <point x="249" y="202" type="line"/>
+    </contour>
+    <contour>
+      <point x="262" y="0" type="line"/>
+      <point x="262" y="222" type="line"/>
+      <point x="242" y="222" type="line"/>
+      <point x="242" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="559" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="252" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>Y</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

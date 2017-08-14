@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i.sc.ss01" format="1">
+  <advance width="267.719139101"/>
+  <outline>
+    <contour>
+      <point x="-2.51599004938" y="447.19231854" type="move" name="topleft"/>
+    </contour>
+    <contour>
+      <point x="133.868468551" y="447.19231854" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="142.794974737" y="0.0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="133.868468551" y="0.0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="143.684874773" y="0.0" type="line"/>
+      <point x="143.684874773" y="447.19231854" type="line"/>
+      <point x="124.052062328" y="447.19231854" type="line"/>
+      <point x="124.052062328" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="243.288956637" y="0.0" type="line"/>
+      <point x="243.288956637" y="19.3358003693" type="line"/>
+      <point x="24.4301824643" y="19.3358003693" type="line"/>
+      <point x="24.4301824643" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="243.288956637" y="428.631548186" type="line"/>
+      <point x="243.288956637" y="447.19231854" type="line"/>
+      <point x="24.4301824643" y="447.19231854" type="line"/>
+      <point x="24.4301824643" y="428.631548186" type="line"/>
+    </contour>
+  </outline>
+</glyph>

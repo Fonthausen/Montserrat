@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookabovecomb.loclVIET" format="1">
+  <advance width="485.400009155"/>
+  <outline>
+    <contour>
+      <point x="242.700004578" y="413.802107903" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="242.700004578" y="529.737010117" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="289.827491489" y="538.909530292" type="curve" smooth="yes"/>
+      <point x="289.827491489" y="565.803870805"/>
+      <point x="270.864531123" y="583.645541146"/>
+      <point x="240.450984539" y="583.645541146" type="curve" smooth="yes"/>
+      <point x="224.759620236" y="583.645541146"/>
+      <point x="209.103851935" y="578.803601054"/>
+      <point x="197.546477712" y="570.645810898" type="curve"/>
+      <point x="204.481225853" y="556.783160633" type="line"/>
+      <point x="215.051620053" y="563.95019077"/>
+      <point x="227.168822281" y="567.146190831"/>
+      <point x="239.321620511" y="567.146190831" type="curve" smooth="yes"/>
+      <point x="259.404236887" y="567.146190831"/>
+      <point x="273.068247142" y="555.281040604"/>
+      <point x="273.068247142" y="538.645860287" type="curve" smooth="yes"/>
+      <point x="273.068247142" y="520.580469942"/>
+      <point x="259.49322689" y="504.76825964"/>
+      <point x="236.859024464" y="494.357289441" type="curve"/>
+      <point x="245.696540646" y="481.653189198" type="line"/>
+      <point x="274.9273292" y="494.437189442"/>
+      <point x="289.827491489" y="514.603949828"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam.sc" format="1">
+  <advance width="294"/>
+  <outline>
+    <contour>
+      <point x="214" y="229" type="line"/>
+      <point x="254" y="447" type="line"/>
+      <point x="254" y="601" type="line"/>
+      <point x="40" y="601" type="line"/>
+      <point x="40" y="447" type="line"/>
+      <point x="80" y="229" type="line"/>
+    </contour>
+    <component base="period.sc" xOffset="21"/>
+  </outline>
+</glyph>

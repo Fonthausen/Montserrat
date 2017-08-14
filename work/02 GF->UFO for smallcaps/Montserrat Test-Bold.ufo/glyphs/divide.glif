@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="1">
+  <advance width="520"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="490" y="259" type="line"/>
+      <point x="490" y="399" type="line"/>
+      <point x="30" y="399" type="line"/>
+      <point x="30" y="259" type="line"/>
+    </contour>
+    <component base="dotaccentcomb" xOffset="147" yOffset="-54" xScale="0.8" yScale="0.8"/>
+    <component base="dotaccentcomb" xOffset="147" yOffset="-414" xScale="0.8" yScale="0.8"/>
+  </outline>
+</glyph>

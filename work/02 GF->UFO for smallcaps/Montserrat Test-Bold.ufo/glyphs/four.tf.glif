@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.tf" format="1">
+  <advance width="700"/>
+  <outline>
+    <contour>
+      <point x="649" y="135" type="line"/>
+      <point x="649" y="301" type="line"/>
+      <point x="189" y="301" type="line"/>
+      <point x="251" y="208" type="line"/>
+      <point x="447" y="701" type="line"/>
+      <point x="229" y="701" type="line"/>
+      <point x="59" y="286" type="line"/>
+      <point x="59" y="135" type="line"/>
+    </contour>
+    <contour>
+      <point x="569" y="0" type="line"/>
+      <point x="569" y="435" type="line"/>
+      <point x="358" y="435" type="line"/>
+      <point x="358" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>four</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

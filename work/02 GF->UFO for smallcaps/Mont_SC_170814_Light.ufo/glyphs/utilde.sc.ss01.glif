@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="utilde.sc.ss01" format="1">
+  <advance width="545.6397683"/>
+  <outline>
+    <component base="u.sc.ss01"/>
+    <component base="tildecomb" xOffset="30.0931825711" yOffset="33.3902106377"/>
+  </outline>
+</glyph>

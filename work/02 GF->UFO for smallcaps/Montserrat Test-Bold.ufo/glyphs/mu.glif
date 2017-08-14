@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mu" format="1">
+  <advance width="708"/>
+  <unicode hex="03BC"/>
+  <outline>
+    <contour>
+      <point x="275" y="-194" type="line"/>
+      <point x="275" y="547" type="line"/>
+      <point x="50" y="547" type="line"/>
+      <point x="50" y="-194" type="line"/>
+    </contour>
+    <component base="u" xOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>p</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>u</string>
+    </dict>
+  </lib>
+</glyph>

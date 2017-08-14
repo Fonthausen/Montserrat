@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n.sc" format="1">
+  <advance width="679"/>
+  <outline>
+    <contour>
+      <point x="138" y="0" type="line"/>
+      <point x="138" y="536" type="line"/>
+      <point x="533" y="0" type="line"/>
+      <point x="561" y="0" type="line"/>
+      <point x="561" y="559" type="line"/>
+      <point x="540" y="559" type="line"/>
+      <point x="540" y="23" type="line"/>
+      <point x="146" y="559" type="line"/>
+      <point x="118" y="559" type="line"/>
+      <point x="118" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="352" y="559" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="336" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>N</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

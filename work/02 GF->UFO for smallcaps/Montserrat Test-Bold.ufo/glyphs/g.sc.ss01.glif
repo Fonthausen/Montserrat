@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g.sc.ss01" format="1">
+  <advance width="656"/>
+  <outline>
+    <contour>
+      <point x="409" y="-15"/>
+      <point x="508" y="49"/>
+      <point x="550" y="135" type="curve"/>
+      <point x="450" y="248" type="line"/>
+      <point x="438" y="199"/>
+      <point x="391" y="163"/>
+      <point x="342" y="163" type="curve" smooth="yes"/>
+      <point x="282" y="163"/>
+      <point x="239" y="216"/>
+      <point x="239" y="291" type="curve" smooth="yes"/>
+      <point x="239" y="365"/>
+      <point x="287" y="418"/>
+      <point x="354" y="418" type="curve" smooth="yes"/>
+      <point x="400" y="418"/>
+      <point x="456" y="393"/>
+      <point x="495" y="356" type="curve"/>
+      <point x="615" y="503" type="line"/>
+      <point x="550" y="559"/>
+      <point x="445" y="596"/>
+      <point x="351" y="596" type="curve" smooth="yes"/>
+      <point x="159" y="596"/>
+      <point x="20" y="469"/>
+      <point x="20" y="291" type="curve" smooth="yes"/>
+      <point x="20" y="113"/>
+      <point x="144" y="-15"/>
+      <point x="317" y="-15" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="605" y="0" type="line"/>
+      <point x="605" y="310" type="line"/>
+      <point x="422" y="310" type="line"/>
+      <point x="422" y="102" type="line"/>
+      <point x="450" y="79" type="line"/>
+      <point x="450" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="357" y="582" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="353" y="3" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>G.ss01</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="question.sc" format="1">
+  <advance width="443"/>
+  <outline>
+    <contour>
+      <point x="295" y="229" type="line"/>
+      <point x="295" y="312"/>
+      <point x="422" y="340"/>
+      <point x="422" y="460" type="curve" smooth="yes"/>
+      <point x="422" y="558"/>
+      <point x="349" y="617"/>
+      <point x="222" y="617" type="curve" smooth="yes"/>
+      <point x="85" y="617"/>
+      <point x="5" y="533"/>
+      <point x="6" y="390" type="curve"/>
+      <point x="164" y="391" type="line"/>
+      <point x="164" y="434"/>
+      <point x="175" y="454"/>
+      <point x="202" y="454" type="curve" smooth="yes"/>
+      <point x="223" y="454"/>
+      <point x="231" y="445"/>
+      <point x="231" y="425" type="curve" smooth="yes"/>
+      <point x="231" y="368"/>
+      <point x="142" y="352"/>
+      <point x="142" y="229" type="curve"/>
+    </contour>
+    <component base="period.sc" xOffset="95"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>question</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

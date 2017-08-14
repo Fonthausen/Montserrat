@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u.sc.ss01" format="1">
+  <advance width="545.6397683"/>
+  <outline>
+    <contour>
+      <point x="272.793187149" y="447.19231854" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="450.2133625" y="0.0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="441.963180341" y="447.19231854" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="272.793187149" y="0.0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="445.68619837" y="174.221953327" type="curve"/>
+      <point x="431.488248092" y="175.748043356" type="line"/>
+      <point x="431.488248092" y="87.0190916618"/>
+      <point x="355.80791469" y="17.3942303322"/>
+      <point x="250.479348735" y="17.3942303322" type="curve" smooth="yes"/>
+      <point x="165.882217165" y="17.3942303322"/>
+      <point x="104.514712027" y="78.5656715004"/>
+      <point x="104.514712027" y="162.596503105" type="curve" smooth="yes"/>
+      <point x="104.514712027" y="447.19231854" type="line"/>
+      <point x="84.0551015661" y="447.19231854" type="line"/>
+      <point x="84.0551015661" y="160.575033067" type="line" smooth="yes"/>
+      <point x="84.0551015661" y="65.9814212601"/>
+      <point x="152.642122856" y="-2.68464005127"/>
+      <point x="248.157518659" y="-2.68464005127" type="curve" smooth="yes"/>
+      <point x="361.959550799" y="-2.68464005127"/>
+      <point x="445.68619837" y="74.2111214172"/>
+    </contour>
+    <contour>
+      <point x="451.121060537" y="0.0" type="line"/>
+      <point x="451.121060537" y="447.19231854" type="line"/>
+      <point x="431.488248092" y="447.19231854" type="line"/>
+      <point x="431.488248092" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

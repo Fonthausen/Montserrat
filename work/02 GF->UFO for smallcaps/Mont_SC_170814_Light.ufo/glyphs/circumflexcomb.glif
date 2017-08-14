@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb" format="1">
+  <advance width="485.400009155"/>
+  <outline>
+    <contour>
+      <point x="242.700004578" y="413.802107903" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="242.700004578" y="521.747009964" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="153.381548903" y="484.993009262" type="line"/>
+      <point x="246.105894663" y="562.511990742" type="line"/>
+      <point x="239.294114492" y="562.511990742" type="line"/>
+      <point x="332.018460252" y="484.993009262" type="line"/>
+      <point x="355.872634745" y="484.993009262" type="line"/>
+      <point x="257.067844879" y="574.081510963" type="line"/>
+      <point x="228.332164276" y="574.081510963" type="line"/>
+      <point x="129.52737441" y="484.993009262" type="line"/>
+    </contour>
+  </outline>
+</glyph>

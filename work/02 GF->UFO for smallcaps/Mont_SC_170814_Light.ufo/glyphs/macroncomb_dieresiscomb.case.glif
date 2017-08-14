@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb_dieresiscomb.case" format="1">
+  <advance width="485.400009155"/>
+  <outline>
+    <contour>
+      <point x="242.700004578" y="558.524980666" type="move" name="_top"/>
+    </contour>
+    <component base="macroncomb_dieresiscomb" yOffset="119.850002289"/>
+  </outline>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colonsign" format="1">
+  <advance width="570.042444745"/>
+  <outline>
+    <contour>
+      <point x="371.279231037" y="-77.6308414825" type="line"/>
+      <point x="388.171151371" y="29.2354105583" type="line"/>
+      <point x="369.926582982" y="29.2354105583" type="line"/>
+      <point x="353.034662648" y="-77.6308414825" type="line"/>
+    </contour>
+    <contour>
+      <point x="279.61952925" y="-96.1836218369" type="line"/>
+      <point x="296.511449584" y="10.682630204" type="line"/>
+      <point x="278.266881195" y="10.682630204" type="line"/>
+      <point x="261.374960861" y="-96.1836218369" type="line"/>
+    </contour>
+    <contour>
+      <point x="299.003169685" y="528.490570093" type="line"/>
+      <point x="315.895090019" y="625.281431941" type="line"/>
+      <point x="297.65052163" y="625.281431941" type="line"/>
+      <point x="280.758601296" y="528.490570093" type="line"/>
+    </contour>
+    <contour>
+      <point x="383.543671183" y="547.043350447" type="line"/>
+      <point x="400.435591517" y="643.834212296" type="line"/>
+      <point x="382.191023128" y="643.834212296" type="line"/>
+      <point x="365.299102794" y="547.043350447" type="line"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+</glyph>

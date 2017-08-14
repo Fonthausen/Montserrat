@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idieresisacute.sc.ss01" format="1">
+  <advance width="267.719139101"/>
+  <outline>
+    <component base="dieresiscomb.narrow" xOffset="-108.831536027" yOffset="33.3902106377"/>
+    <component base="acutecomb" xOffset="-108.831536027" yOffset="125.594812399"/>
+    <component base="i.sc.ss01"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="1">
+  <advance width="668.589972618"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <component base="strokeshortcomb.case" xOffset="-80.4372535071" yOffset="-0.799000015259"/>
+    <component base="D" xOffset="0.355960014429"/>
+  </outline>
+</glyph>

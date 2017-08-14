@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leftBlackTriangle" format="1">
+  <advance width="486.982413184"/>
+  <outline>
+    <component base="upBlackTriangle" xScale="0.0" yScale="0.0" xOffset="433.624008179" yOffset="-27.9650005341"/>
+  </outline>
+</glyph>
