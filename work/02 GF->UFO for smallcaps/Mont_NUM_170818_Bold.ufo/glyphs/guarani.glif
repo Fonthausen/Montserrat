@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guarani" format="1">
+  <advance width="475"/>
+  <outline>
+    <contour>
+      <point x="308" y="387" type="line"/>
+      <point x="308" y="543" type="line"/>
+      <point x="196" y="543" type="line"/>
+      <point x="196" y="387" type="line"/>
+    </contour>
+    <contour>
+      <point x="308" y="-129" type="line"/>
+      <point x="308" y="28" type="line"/>
+      <point x="196" y="28" type="line"/>
+      <point x="196" y="-129" type="line"/>
+    </contour>
+    <component base="G"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-18 12:52:35 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="umacrondieresis.sc.ss01" format="1">
+  <advance width="437"/>
+  <outline>
+    <component base="macroncomb_dieresiscomb" xOffset="23.549" yOffset="24.615"/>
+    <component base="u.sc.ss01"/>
+  </outline>
+</glyph>

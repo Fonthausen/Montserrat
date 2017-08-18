@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered.sc" format="1">
+  <advance width="159"/>
+  <outline>
+    <component base="period.sc" yOffset="114.359"/>
+    <contour>
+      <point x="80" y="168" type="move" name="_dot"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcroat" format="1">
+  <advance width="532"/>
+  <unicode hex="0110"/>
+  <outline>
+    <component base="Eth"/>
+    <contour>
+      <point x="247" y="415" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="132" y="208" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="269" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-18 13:14:34 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="question.sc" format="1">
+  <advance width="288"/>
+  <outline>
+    <contour>
+      <point x="194" y="137" type="line"/>
+      <point x="194" y="184"/>
+      <point x="275" y="202"/>
+      <point x="275" y="272" type="curve" smooth="yes"/>
+      <point x="275" y="330"/>
+      <point x="228" y="366"/>
+      <point x="145" y="366" type="curve" smooth="yes"/>
+      <point x="54" y="366"/>
+      <point x="2" y="315"/>
+      <point x="3" y="228" type="curve"/>
+      <point x="110" y="228" type="line"/>
+      <point x="110" y="253"/>
+      <point x="115" y="264"/>
+      <point x="131" y="264" type="curve" smooth="yes"/>
+      <point x="142" y="264"/>
+      <point x="146" y="260"/>
+      <point x="146" y="250" type="curve" smooth="yes"/>
+      <point x="146" y="219"/>
+      <point x="90" y="209"/>
+      <point x="90" y="137" type="curve"/>
+    </contour>
+    <component base="period.sc" xOffset="61.548"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-18 12:52:35 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gmacron" format="1">
+  <advance width="498"/>
+  <outline>
+    <component base="macroncomb.case" xOffset="66.265" yOffset="-0.510"/>
+    <component base="G"/>
+  </outline>
+</glyph>

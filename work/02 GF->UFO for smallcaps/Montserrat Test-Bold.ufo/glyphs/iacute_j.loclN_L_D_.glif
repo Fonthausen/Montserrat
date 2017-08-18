@@ -2,21 +2,41 @@
 <glyph name="iacute_j.loclNLD" format="1">
   <advance width="658"/>
   <outline>
-    <component base="idotless"/>
-    <component base="acutecomb" xOffset="-137"/>
-    <component base="jdotless" xOffset="325"/>
-    <component base="acutecomb" xOffset="195"/>
+    <contour>
+      <point x="275" y="0" type="line"/>
+      <point x="275" y="547" type="line"/>
+      <point x="50" y="547" type="line"/>
+      <point x="50" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="208" y="607" type="line"/>
+      <point x="405" y="767" type="line"/>
+      <point x="190" y="767" type="line"/>
+      <point x="58" y="607" type="line"/>
+    </contour>
+    <contour>
+      <point x="520" y="-204"/>
+      <point x="608" y="-113"/>
+      <point x="608" y="28" type="curve" smooth="yes"/>
+      <point x="608" y="547" type="line"/>
+      <point x="382" y="547" type="line"/>
+      <point x="382" y="30" type="line" smooth="yes"/>
+      <point x="382" y="-14"/>
+      <point x="362" y="-33"/>
+      <point x="335" y="-33" type="curve" smooth="yes"/>
+      <point x="317" y="-33"/>
+      <point x="299" y="-28"/>
+      <point x="284" y="-20" type="curve"/>
+      <point x="230" y="-177" type="line"/>
+      <point x="265" y="-195"/>
+      <point x="316" y="-204"/>
+      <point x="369" y="-204" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="540" y="607" type="line"/>
+      <point x="737" y="767" type="line"/>
+      <point x="522" y="767" type="line"/>
+      <point x="390" y="607" type="line"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>6</integer>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>iacute</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>iacute</string>
-      <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
-    </dict>
-  </lib>
 </glyph>

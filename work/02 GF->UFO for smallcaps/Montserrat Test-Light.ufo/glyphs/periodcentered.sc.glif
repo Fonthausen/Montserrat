@@ -4,7 +4,7 @@
   <outline>
     <component base="period.sc" xOffset="-3" yOffset="265"/>
     <contour>
-      <point x="85" y="282" type="move" name="_center"/>
+      <point x="84" y="282" type="move" name="_dot"/>
     </contour>
   </outline>
 </glyph>

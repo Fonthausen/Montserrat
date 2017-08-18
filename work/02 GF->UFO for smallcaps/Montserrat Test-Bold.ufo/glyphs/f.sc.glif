@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f.sc" format="1">
-  <advance width="585"/>
+  <advance width="566"/>
   <outline>
     <contour>
-      <point x="279" y="0" type="line"/>
-      <point x="279" y="178" type="line"/>
-      <point x="539" y="178" type="line"/>
-      <point x="539" y="338" type="line"/>
-      <point x="279" y="338" type="line"/>
-      <point x="279" y="422" type="line"/>
-      <point x="555" y="422" type="line"/>
-      <point x="554" y="582" type="line"/>
-      <point x="65" y="582" type="line"/>
-      <point x="65" y="0" type="line"/>
+      <point x="283" y="0" type="line"/>
+      <point x="283" y="174" type="line"/>
+      <point x="516" y="174" type="line"/>
+      <point x="516" y="339" type="line"/>
+      <point x="283" y="339" type="line"/>
+      <point x="283" y="417" type="line"/>
+      <point x="550" y="417" type="line"/>
+      <point x="550" y="582" type="line"/>
+      <point x="53" y="582" type="line"/>
+      <point x="53" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -22,6 +22,8 @@
         <key>source</key>
         <string>F</string>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>h.sc</string>
     </dict>
   </lib>
 </glyph>

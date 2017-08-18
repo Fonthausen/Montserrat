@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fiveeighths" format="1">
+  <advance width="514"/>
+  <unicode hex="215D"/>
+  <outline>
+    <component base="five.numr"/>
+    <component base="fraction" xOffset="235"/>
+    <component base="eight.dnom" xOffset="252"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-18 13:14:40 +0000</string>
+    </dict>
+  </lib>
+</glyph>

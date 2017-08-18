@@ -630,14 +630,14 @@
 	<string>U_dieresis.glif</string>
 	<key>Udieresis.alt</key>
 	<string>U_dieresis.alt.glif</string>
-	<key>Udieresis.alt.02</key>
-	<string>U_dieresis.alt.02.glif</string>
+	<key>Udieresis.alt02</key>
+	<string>U_dieresis.alt02.glif</string>
 	<key>Udieresis.ss01</key>
 	<string>U_dieresis.ss01.glif</string>
 	<key>Udieresis.ss01.alt</key>
 	<string>U_dieresis.ss01.alt.glif</string>
-	<key>Udieresis.ss01.alt.02</key>
-	<string>U_dieresis.ss01.alt.02.glif</string>
+	<key>Udieresis.ss01.alt02</key>
+	<string>U_dieresis.ss01.alt02.glif</string>
 	<key>Udotbelow</key>
 	<string>U_dotbelow.glif</string>
 	<key>Udotbelow.ss01</key>
@@ -932,6 +932,8 @@
 	<string>adieresis.alt.sc.glif</string>
 	<key>adieresis.sc</key>
 	<string>adieresis.sc.glif</string>
+	<key>adieresis.sc.alt</key>
+	<string>adieresis.sc.alt.glif</string>
 	<key>adieresis.sc.ss01</key>
 	<string>adieresis.sc.ss01.glif</string>
 	<key>adieresis.ss01</key>
@@ -1872,6 +1874,10 @@
 	<string>j.sc.ss01.glif</string>
 	<key>jacute</key>
 	<string>jacute.glif</string>
+	<key>jacute.sc</key>
+	<string>jacute.sc.glif</string>
+	<key>jacute.sc.ss01</key>
+	<string>jacute.sc.ss01.glif</string>
 	<key>jcircumflex</key>
 	<string>jcircumflex.glif</string>
 	<key>jcircumflex.sc</key>
@@ -2572,6 +2578,8 @@
 	<string>slashlongcomb.glif</string>
 	<key>slashlongcomb.case</key>
 	<string>slashlongcomb.case.glif</string>
+	<key>slashlongcomb.sc</key>
+	<string>slashlongcomb.sc.glif</string>
 	<key>slashshortcomb</key>
 	<string>slashshortcomb.glif</string>
 	<key>slashshortcomb.case</key>
@@ -2590,10 +2598,14 @@
 	<string>sterling.glif</string>
 	<key>strokelongcomb</key>
 	<string>strokelongcomb.glif</string>
+	<key>strokelongcomb.sc</key>
+	<string>strokelongcomb.sc.glif</string>
 	<key>strokeshortcomb</key>
 	<string>strokeshortcomb.glif</string>
 	<key>strokeshortcomb.case</key>
 	<string>strokeshortcomb.case.glif</string>
+	<key>strokeshortcomb.sc</key>
+	<string>strokeshortcomb.sc.glif</string>
 	<key>strokeshortcomb.t</key>
 	<string>strokeshortcomb.t.glif</string>
 	<key>summation</key>
@@ -2774,14 +2786,18 @@
 	<string>udblgrave.sc.ss01.glif</string>
 	<key>udieresis</key>
 	<string>udieresis.glif</string>
-	<key>udieresis.alt.sc</key>
-	<string>udieresis.alt.sc.glif</string>
 	<key>udieresis.sc</key>
 	<string>udieresis.sc.glif</string>
+	<key>udieresis.sc.alt</key>
+	<string>udieresis.sc.alt.glif</string>
+	<key>udieresis.sc.alt02</key>
+	<string>udieresis.sc.alt02.glif</string>
 	<key>udieresis.sc.ss01</key>
 	<string>udieresis.sc.ss01.glif</string>
-	<key>udieresis.ss01.alt.sc</key>
-	<string>udieresis.ss01.alt.sc.glif</string>
+	<key>udieresis.sc.ss01.alt</key>
+	<string>udieresis.sc.ss01.alt.glif</string>
+	<key>udieresis.sc.ss01.alt02</key>
+	<string>udieresis.sc.ss01.alt02.glif</string>
 	<key>udotbelow</key>
 	<string>udotbelow.glif</string>
 	<key>udotbelow.sc</key>

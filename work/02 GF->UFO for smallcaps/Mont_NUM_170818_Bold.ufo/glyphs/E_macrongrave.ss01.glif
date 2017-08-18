@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Emacrongrave.ss01" format="1">
+  <advance width="450"/>
+  <outline>
+    <component base="macroncomb_gravecomb.case" xOffset="49.730"/>
+    <component base="E.ss01"/>
+  </outline>
+</glyph>

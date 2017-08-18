@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tbar.sc" format="1">
-  <advance width="424"/>
+  <advance width="448"/>
   <outline>
     <component base="t.sc"/>
-    <component base="strokeshortcomb" xOffset="-88" yOffset="-162"/>
+    <component base="strokeshortcomb.sc" xOffset="-19" yOffset="-2"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
 </glyph>

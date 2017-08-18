@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="1">
+  <advance width="336"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="317" y="152" type="line"/>
+      <point x="317" y="239" type="line"/>
+      <point x="19" y="239" type="line"/>
+      <point x="19" y="152" type="line"/>
+    </contour>
+    <component base="dotaccentcomb" xOffset="93.865" yOffset="-27.786" xScale="0.788" yScale="0.788"/>
+    <component base="dotaccentcomb" xOffset="93.865" yOffset="-241.628" xScale="0.788" yScale="0.788"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-18 12:52:35 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="whiteDiamond" format="1">
+  <advance width="386"/>
+  <outline>
+    <component base="whiteSquare" xOffset="-64.300" yOffset="171.970" xScale="0.707" yScale="0.707"/>
+  </outline>
+</glyph>

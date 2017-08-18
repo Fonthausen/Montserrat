@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="strokeshortcomb.sc" format="1">
+  <advance width="386"/>
+  <outline>
+    <contour>
+      <point x="252" y="161" type="line"/>
+      <point x="252" y="177" type="line"/>
+      <point x="60" y="177" type="line"/>
+      <point x="60" y="161" type="line"/>
+    </contour>
+    <contour>
+      <point x="157" y="169" type="move" name="_center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-18 13:14:34 +0000</string>
+    </dict>
+  </lib>
+</glyph>

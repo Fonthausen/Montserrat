@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat.sc" format="1">
+  <advance width="446"/>
+  <outline>
+    <component base="eth.sc"/>
+    <contour>
+      <point x="215" y="332" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="122" y="167" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="232" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-18 13:14:37 +0000</string>
+    </dict>
+  </lib>
+</glyph>

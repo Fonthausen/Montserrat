@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lslash.sc" format="1">
-  <advance width="546"/>
+  <advance width="543"/>
   <outline>
-    <contour>
-      <point x="544" y="0" type="line"/>
-      <point x="544" y="177" type="line"/>
-      <point x="301" y="177" type="line"/>
-      <point x="301" y="582" type="line"/>
-      <point x="87" y="582" type="line"/>
-      <point x="87" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="385" y="356" type="line"/>
-      <point x="385" y="462" type="line"/>
-      <point x="13" y="276" type="line"/>
-      <point x="13" y="171" type="line"/>
-    </contour>
+    <component base="l.sc"/>
+    <component base="slashshortcomb" xOffset="-132" yOffset="-64"/>
     <contour>
       <point x="315" y="0" type="move" name="bottom"/>
     </contour>

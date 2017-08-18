@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb.loclVIET" format="1">
+  <advance width="386"/>
+  <outline>
+    <contour>
+      <point x="224" y="360" type="line"/>
+      <point x="143" y="420" type="line"/>
+      <point x="112" y="420" type="line"/>
+      <point x="201" y="360" type="line"/>
+    </contour>
+    <contour>
+      <point x="193" y="378" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="193" y="308" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-18 13:14:34 +0000</string>
+    </dict>
+  </lib>
+</glyph>

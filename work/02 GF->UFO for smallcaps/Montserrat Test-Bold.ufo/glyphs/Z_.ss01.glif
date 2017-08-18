@@ -17,14 +17,14 @@
       <point x="37" y="0" type="line"/>
     </contour>
     <contour>
+      <point x="278" y="277" type="line"/>
+      <point x="338" y="273" type="line"/>
       <point x="616" y="273" type="line"/>
       <point x="616" y="433" type="line"/>
       <point x="448" y="433" type="line"/>
       <point x="388" y="437" type="line"/>
       <point x="87" y="437" type="line"/>
       <point x="87" y="277" type="line"/>
-      <point x="278" y="277" type="line"/>
-      <point x="338" y="273" type="line"/>
     </contour>
     <contour>
       <point x="359" y="700" type="move" name="top"/>
@@ -35,14 +35,10 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=Z+5</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=Z+5</string>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

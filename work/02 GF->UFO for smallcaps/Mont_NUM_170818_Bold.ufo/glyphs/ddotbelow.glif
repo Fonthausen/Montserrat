@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ddotbelow" format="1">
+  <advance width="451"/>
+  <outline>
+    <component base="d"/>
+    <component base="dotbelowcomb" xOffset="51"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-18 12:52:47 +0000</string>
+    </dict>
+  </lib>
+</glyph>

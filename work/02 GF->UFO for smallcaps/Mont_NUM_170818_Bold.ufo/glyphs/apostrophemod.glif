@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="apostrophemod" format="1">
+  <advance width="132"/>
+  <outline>
+    <contour>
+      <point x="94" y="258" type="line"/>
+      <point x="114" y="415" type="line"/>
+      <point x="16" y="415" type="line"/>
+      <point x="16" y="258" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-18 12:52:35 +0000</string>
+    </dict>
+  </lib>
+</glyph>

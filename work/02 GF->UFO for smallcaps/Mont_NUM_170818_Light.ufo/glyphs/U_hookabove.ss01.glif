@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhookabove.ss01" format="1">
+  <advance width="514"/>
+  <outline>
+    <component base="hookabovecomb.case" xOffset="62.278"/>
+    <component base="U.ss01"/>
+  </outline>
+</glyph>

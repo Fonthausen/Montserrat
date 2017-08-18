@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i.sc.ss01" format="1">
-  <advance width="328"/>
+  <advance width="402"/>
   <outline>
     <contour>
-      <point x="174" y="0" type="line"/>
-      <point x="174" y="559" type="line"/>
-      <point x="154" y="559" type="line"/>
-      <point x="154" y="0" type="line"/>
+      <point x="211" y="8" type="line"/>
+      <point x="211" y="551" type="line"/>
+      <point x="191" y="551" type="line"/>
+      <point x="191" y="8" type="line"/>
     </contour>
     <contour>
-      <point x="298" y="0" type="line"/>
-      <point x="298" y="20" type="line"/>
-      <point x="30" y="20" type="line"/>
-      <point x="30" y="0" type="line"/>
+      <point x="334" y="0" type="line"/>
+      <point x="334" y="19" type="line"/>
+      <point x="68" y="19" type="line"/>
+      <point x="68" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="298" y="540" type="line"/>
-      <point x="298" y="559" type="line"/>
-      <point x="30" y="559" type="line"/>
-      <point x="30" y="540" type="line"/>
+      <point x="334" y="540" type="line"/>
+      <point x="334" y="559" type="line"/>
+      <point x="68" y="559" type="line"/>
+      <point x="68" y="540" type="line"/>
     </contour>
     <contour>
-      <point x="174" y="0" type="move" name="ogonek"/>
+      <point x="211" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="164" y="559" type="move" name="top"/>
+      <point x="201" y="559" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="-3" y="559" type="move" name="topleft"/>
+      <point x="34" y="559" type="move" name="topleft"/>
     </contour>
     <contour>
-      <point x="164" y="0" type="move" name="bottom"/>
+      <point x="201" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
@@ -40,6 +40,8 @@
         <key>source</key>
         <string>I.ss01</string>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
     </dict>
   </lib>
 </glyph>

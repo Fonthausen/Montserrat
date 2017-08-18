@@ -32,10 +32,10 @@
       <point x="420" y="-16" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="725" y="73" type="line"/>
       <point x="725" y="369" type="line"/>
       <point x="520" y="369" type="line"/>
       <point x="520" y="103" type="line"/>
-      <point x="725" y="73" type="line"/>
     </contour>
     <contour>
       <point x="424" y="701" type="move" name="top"/>
@@ -46,12 +46,8 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>O</string>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

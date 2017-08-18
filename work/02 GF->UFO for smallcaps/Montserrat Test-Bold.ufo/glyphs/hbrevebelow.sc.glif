@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hbrevebelow.sc" format="1">
-  <advance width="714"/>
+  <advance width="710"/>
   <outline>
     <component base="h.sc"/>
-    <component base="brevebelowcomb" xOffset="58"/>
+    <component base="brevebelowcomb" xOffset="55"/>
   </outline>
 </glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="increment" format="1">
+  <advance width="425"/>
+  <outline>
+    <contour>
+      <point x="425" y="0" type="line"/>
+      <point x="425" y="14" type="line"/>
+      <point x="222" y="415" type="line"/>
+      <point x="201" y="415" type="line"/>
+      <point x="0" y="14" type="line"/>
+      <point x="0" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="211" y="392" type="line"/>
+      <point x="403" y="19" type="line"/>
+      <point x="22" y="19" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-18 13:14:34 +0000</string>
+    </dict>
+  </lib>
+</glyph>

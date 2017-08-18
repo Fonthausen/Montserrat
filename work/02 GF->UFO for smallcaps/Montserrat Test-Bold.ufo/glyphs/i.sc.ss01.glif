@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i.sc.ss01" format="1">
-  <advance width="461"/>
+  <advance width="472"/>
   <outline>
     <contour>
-      <point x="338" y="0" type="line"/>
-      <point x="338" y="582" type="line"/>
-      <point x="124" y="582" type="line"/>
-      <point x="124" y="0" type="line"/>
+      <point x="351" y="18" type="line"/>
+      <point x="351" y="565" type="line"/>
+      <point x="121" y="565" type="line"/>
+      <point x="121" y="18" type="line"/>
     </contour>
     <contour>
-      <point x="422" y="0" type="line"/>
-      <point x="422" y="160" type="line"/>
-      <point x="39" y="160" type="line"/>
+      <point x="433" y="0" type="line"/>
+      <point x="433" y="165" type="line"/>
+      <point x="39" y="165" type="line"/>
       <point x="39" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="422" y="422" type="line"/>
-      <point x="422" y="582" type="line"/>
+      <point x="433" y="417" type="line"/>
+      <point x="433" y="582" type="line"/>
       <point x="39" y="582" type="line"/>
-      <point x="39" y="422" type="line"/>
+      <point x="39" y="417" type="line"/>
     </contour>
     <contour>
-      <point x="288" y="0" type="move" name="ogonek"/>
+      <point x="351" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="231" y="582" type="move" name="top"/>
+      <point x="236" y="582" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="-8" y="582" type="move" name="topleft"/>
+      <point x="-10" y="582" type="move" name="topleft"/>
     </contour>
     <contour>
-      <point x="231" y="0" type="move" name="bottom"/>
+      <point x="236" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
@@ -40,6 +40,8 @@
         <key>source</key>
         <string>I.ss01</string>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
     </dict>
   </lib>
 </glyph>

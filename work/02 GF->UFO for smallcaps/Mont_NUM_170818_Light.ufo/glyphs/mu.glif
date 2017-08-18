@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mu" format="1">
+  <advance width="442"/>
+  <unicode hex="03BC"/>
+  <outline>
+    <contour>
+      <point x="91" y="-115" type="line"/>
+      <point x="91" y="308" type="line"/>
+      <point x="72" y="308" type="line"/>
+      <point x="72" y="-115" type="line"/>
+    </contour>
+    <component base="u" xOffset="13.776"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-18 13:14:34 +0000</string>
+    </dict>
+  </lib>
+</glyph>

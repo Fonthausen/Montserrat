@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upWhiteTriangle" format="1">
+  <advance width="386"/>
+  <outline>
+    <contour>
+      <point x="330" y="31" type="line"/>
+      <point x="193" y="283" type="line"/>
+      <point x="56" y="31" type="line"/>
+    </contour>
+    <contour>
+      <point x="193" y="251" type="line"/>
+      <point x="306" y="46" type="line"/>
+      <point x="80" y="46" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-18 13:14:34 +0000</string>
+    </dict>
+  </lib>
+</glyph>

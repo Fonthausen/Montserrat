@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam.sc" format="1">
+  <advance width="193"/>
+  <outline>
+    <contour>
+      <point x="142" y="137" type="line"/>
+      <point x="169" y="264" type="line"/>
+      <point x="169" y="356" type="line"/>
+      <point x="24" y="356" type="line"/>
+      <point x="24" y="264" type="line"/>
+      <point x="51" y="137" type="line"/>
+    </contour>
+    <component base="period.sc" xOffset="13.966"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-18 12:52:35 +0000</string>
+    </dict>
+  </lib>
+</glyph>

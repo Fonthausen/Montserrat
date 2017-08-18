@@ -3,17 +3,17 @@
   <advance width="700"/>
   <outline>
     <contour>
-      <point x="266" y="0" type="line"/>
-      <point x="608" y="674" type="line"/>
-      <point x="608" y="699" type="line"/>
-      <point x="115" y="699" type="line"/>
-      <point x="115" y="567" type="line"/>
-      <point x="135" y="567" type="line"/>
-      <point x="135" y="688" type="line"/>
-      <point x="126" y="679" type="line"/>
-      <point x="599" y="679" type="line"/>
-      <point x="594" y="687" type="line"/>
-      <point x="244" y="0" type="line"/>
+      <point x="285" y="0" type="line"/>
+      <point x="622" y="685" type="line"/>
+      <point x="622" y="700" type="line"/>
+      <point x="87" y="700" type="line"/>
+      <point x="87" y="540" type="line"/>
+      <point x="107" y="540" type="line"/>
+      <point x="107" y="689" type="line"/>
+      <point x="98" y="681" type="line"/>
+      <point x="613" y="681" type="line"/>
+      <point x="601" y="688" type="line"/>
+      <point x="262" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,6 +23,10 @@
         <key>source</key>
         <string>seven</string>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

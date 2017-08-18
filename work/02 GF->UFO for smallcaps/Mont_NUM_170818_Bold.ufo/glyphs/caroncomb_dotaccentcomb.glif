@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb_dotaccentcomb" format="1">
+  <advance width="386"/>
+  <outline>
+    <component base="caroncomb.loclVIET"/>
+    <component base="dotaccentcomb.loclVIET" yOffset="97"/>
+    <contour>
+      <point x="193" y="325" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-18 12:53:48 +0000</string>
+    </dict>
+  </lib>
+</glyph>

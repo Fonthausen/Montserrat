@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idieresisacute.sc.ss01" format="1">
-  <advance width="328"/>
+  <advance width="402"/>
   <outline>
     <component base="i.sc.ss01"/>
-    <component base="dieresiscomb.narrow" xOffset="-136" yOffset="42"/>
-    <component base="acutecomb" xOffset="-136" yOffset="155"/>
+    <component base="dieresiscomb_acutecomb" xOffset="-99" yOffset="42"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
 </glyph>

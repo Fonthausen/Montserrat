@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i.sc" format="1">
-  <advance width="266"/>
+  <advance width="264"/>
   <outline>
     <contour>
-      <point x="143" y="0" type="line"/>
-      <point x="143" y="559" type="line"/>
-      <point x="123" y="559" type="line"/>
-      <point x="123" y="0" type="line"/>
+      <point x="142" y="0" type="line"/>
+      <point x="142" y="559" type="line"/>
+      <point x="122" y="559" type="line"/>
+      <point x="122" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="143" y="0" type="move" name="ogonek"/>
+      <point x="142" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="133" y="559" type="move" name="top"/>
+      <point x="132" y="559" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="49" y="559" type="move" name="topleft"/>
+      <point x="48" y="559" type="move" name="topleft"/>
     </contour>
     <contour>
-      <point x="133" y="0" type="move" name="bottom"/>
+      <point x="132" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
@@ -28,6 +28,10 @@
         <key>source</key>
         <string>I</string>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>h.sc</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>h.sc</string>
     </dict>
   </lib>
 </glyph>

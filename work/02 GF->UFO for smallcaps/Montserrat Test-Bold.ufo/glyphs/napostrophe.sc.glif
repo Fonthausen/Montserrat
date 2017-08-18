@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="napostrophe.sc" format="1">
-  <advance width="916"/>
+  <advance width="912"/>
   <outline>
     <component base="apostrophemod" yOffset="-99"/>
     <component base="n.sc" xOffset="202"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=apostrophemod</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

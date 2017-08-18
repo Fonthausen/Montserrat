@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ldot.sc" format="1">
-  <advance width="524"/>
+  <advance width="543"/>
   <outline>
     <component base="l.sc"/>
-    <component base="periodcentered.sc" xOffset="321" yOffset="75"/>
+    <component base="periodcentered.sc" xOffset="309" yOffset="97"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
 </glyph>

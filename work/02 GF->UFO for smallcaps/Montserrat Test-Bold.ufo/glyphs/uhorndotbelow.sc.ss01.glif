@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uhorndotbelow.sc.ss01" format="1">
-  <advance width="726"/>
+  <advance width="701"/>
   <outline>
     <component base="uhorn.sc.ss01"/>
-    <component base="dotbelowcomb" xOffset="46"/>
+    <component base="dotbelowcomb" xOffset="49"/>
   </outline>
   <lib>
     <dict>

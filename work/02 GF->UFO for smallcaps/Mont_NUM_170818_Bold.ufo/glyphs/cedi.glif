@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedi" format="1">
+  <advance width="442"/>
+  <outline>
+    <contour>
+      <point x="301" y="387" type="line"/>
+      <point x="301" y="543" type="line"/>
+      <point x="189" y="543" type="line"/>
+      <point x="189" y="387" type="line"/>
+    </contour>
+    <contour>
+      <point x="301" y="-129" type="line"/>
+      <point x="301" y="28" type="line"/>
+      <point x="189" y="28" type="line"/>
+      <point x="189" y="-129" type="line"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-18 12:52:35 +0000</string>
+    </dict>
+  </lib>
+</glyph>

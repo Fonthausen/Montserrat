@@ -1,31 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lj.sc.ss01" format="1">
-  <advance width="811"/>
+  <advance width="896"/>
   <outline>
     <component base="l.sc"/>
-    <component base="j.sc.ss01" xOffset="399"/>
+    <component base="j.sc.ss01" xOffset="486"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>l.sc</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>j.sc.ss01</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

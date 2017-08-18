@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="won" format="1">
+  <advance width="564"/>
+  <outline>
+    <contour>
+      <point x="160" y="0" type="line"/>
+      <point x="285" y="396" type="line"/>
+      <point x="280" y="396" type="line"/>
+      <point x="404" y="0" type="line"/>
+      <point x="424" y="0" type="line"/>
+      <point x="558" y="415" type="line"/>
+      <point x="537" y="415" type="line"/>
+      <point x="413" y="14" type="line"/>
+      <point x="417" y="14" type="line"/>
+      <point x="293" y="415" type="line"/>
+      <point x="272" y="415" type="line"/>
+      <point x="148" y="14" type="line"/>
+      <point x="152" y="14" type="line"/>
+      <point x="28" y="415" type="line"/>
+      <point x="6" y="415" type="line"/>
+      <point x="139" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="545" y="164" type="line"/>
+      <point x="545" y="178" type="line"/>
+      <point x="19" y="178" type="line"/>
+      <point x="19" y="164" type="line"/>
+    </contour>
+    <contour>
+      <point x="551" y="230" type="line"/>
+      <point x="551" y="244" type="line"/>
+      <point x="12" y="244" type="line"/>
+      <point x="12" y="230" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-18 13:14:34 +0000</string>
+    </dict>
+  </lib>
+</glyph>

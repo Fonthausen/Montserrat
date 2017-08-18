@@ -1,54 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="m.sc.ss01" format="1">
-  <advance width="1027"/>
+  <advance width="937"/>
   <outline>
     <contour>
-      <point x="921" y="0" type="line"/>
-      <point x="921" y="359" type="line" smooth="yes"/>
-      <point x="921" y="477"/>
-      <point x="842" y="563"/>
-      <point x="734" y="563" type="curve" smooth="yes"/>
-      <point x="607" y="563"/>
-      <point x="513" y="467"/>
-      <point x="513" y="343" type="curve"/>
-      <point x="529" y="341" type="line"/>
-      <point x="529" y="454"/>
-      <point x="615" y="543"/>
-      <point x="733" y="543" type="curve" smooth="yes"/>
-      <point x="829" y="543"/>
-      <point x="900" y="465"/>
-      <point x="900" y="358" type="curve" smooth="yes"/>
-      <point x="900" y="0" type="line"/>
+      <point x="821" y="0" type="line"/>
+      <point x="821" y="353" type="line" smooth="yes"/>
+      <point x="821" y="491"/>
+      <point x="752" y="562"/>
+      <point x="644" y="562" type="curve" smooth="yes"/>
+      <point x="535" y="562"/>
+      <point x="464" y="491"/>
+      <point x="464" y="340" type="curve" smooth="yes"/>
+      <point x="464" y="263" type="line"/>
+      <point x="482" y="263" type="line"/>
+      <point x="482" y="336" type="line" smooth="yes"/>
+      <point x="482" y="479"/>
+      <point x="540" y="543"/>
+      <point x="642" y="543" type="curve" smooth="yes"/>
+      <point x="744" y="543"/>
+      <point x="801" y="480"/>
+      <point x="801" y="352" type="curve" smooth="yes"/>
+      <point x="801" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="138" y="0" type="line"/>
-      <point x="138" y="563" type="line"/>
-      <point x="118" y="563" type="line"/>
-      <point x="118" y="0" type="line"/>
+      <point x="142" y="0" type="line"/>
+      <point x="142" y="372" type="line"/>
+      <point x="142" y="386" type="line"/>
+      <point x="142" y="559" type="line"/>
+      <point x="122" y="559" type="line"/>
+      <point x="122" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="529" y="0" type="line"/>
-      <point x="529" y="359" type="line" smooth="yes"/>
-      <point x="529" y="477"/>
-      <point x="451" y="563"/>
-      <point x="343" y="563" type="curve" smooth="yes"/>
-      <point x="215" y="563"/>
-      <point x="122" y="467"/>
-      <point x="122" y="343" type="curve"/>
-      <point x="138" y="341" type="line"/>
-      <point x="138" y="454"/>
-      <point x="224" y="543"/>
-      <point x="341" y="543" type="curve" smooth="yes"/>
-      <point x="438" y="543"/>
-      <point x="509" y="465"/>
-      <point x="509" y="358" type="curve" smooth="yes"/>
-      <point x="509" y="0" type="line"/>
+      <point x="482" y="0" type="line"/>
+      <point x="482" y="353" type="line" smooth="yes"/>
+      <point x="482" y="491"/>
+      <point x="413" y="562"/>
+      <point x="304" y="562" type="curve" smooth="yes"/>
+      <point x="196" y="562"/>
+      <point x="127" y="492"/>
+      <point x="127" y="339" type="curve" smooth="yes"/>
+      <point x="127" y="240" type="line"/>
+      <point x="142" y="240" type="line"/>
+      <point x="142" y="336" type="line" smooth="yes"/>
+      <point x="142" y="479"/>
+      <point x="201" y="543"/>
+      <point x="302" y="543" type="curve" smooth="yes"/>
+      <point x="404" y="543"/>
+      <point x="462" y="480"/>
+      <point x="462" y="352" type="curve" smooth="yes"/>
+      <point x="462" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="128" y="559" type="move" name="top"/>
+      <point x="472" y="559" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="519" y="0" type="move" name="bottom"/>
+      <point x="472" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
@@ -58,6 +64,10 @@
         <key>source</key>
         <string>M.ss01</string>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>h.sc</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>u.sc</string>
     </dict>
   </lib>
 </glyph>

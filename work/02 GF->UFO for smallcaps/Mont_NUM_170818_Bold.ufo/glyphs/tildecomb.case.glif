@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb.case" format="1">
+  <advance width="386"/>
+  <outline>
+    <component base="tildecomb" yOffset="88.950"/>
+    <contour>
+      <point x="193" y="415" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

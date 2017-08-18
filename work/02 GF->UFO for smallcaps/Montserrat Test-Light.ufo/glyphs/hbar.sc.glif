@@ -1,36 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hbar.sc" format="1">
-  <advance width="692"/>
+  <advance width="732"/>
   <outline>
-    <contour>
-      <point x="145" y="0" type="line"/>
-      <point x="145" y="272" type="line"/>
-      <point x="547" y="272" type="line"/>
-      <point x="547" y="0" type="line"/>
-      <point x="567" y="0" type="line"/>
-      <point x="567" y="559" type="line"/>
-      <point x="547" y="559" type="line"/>
-      <point x="547" y="292" type="line"/>
-      <point x="145" y="292" type="line"/>
-      <point x="145" y="559" type="line"/>
-      <point x="125" y="559" type="line"/>
-      <point x="125" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="623" y="421" type="line"/>
-      <point x="623" y="440" type="line"/>
-      <point x="70" y="440" type="line"/>
-      <point x="70" y="421" type="line"/>
-    </contour>
-    <contour>
-      <point x="346" y="430" type="move" name="center"/>
-    </contour>
-    <contour>
-      <point x="346" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="346" y="559" type="move" name="top"/>
-    </contour>
+    <component base="h.sc" xOffset="20"/>
+    <component base="strokelongcomb.sc" xOffset="41" yOffset="79"/>
   </outline>
   <lib>
     <dict>
@@ -39,6 +12,14 @@
         <key>source</key>
         <string>Hbar</string>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=+20</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=+20</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
     </dict>
   </lib>
 </glyph>

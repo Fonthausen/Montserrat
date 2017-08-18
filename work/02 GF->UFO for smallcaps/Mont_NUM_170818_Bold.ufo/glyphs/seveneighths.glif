@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seveneighths" format="1">
+  <advance width="609"/>
+  <unicode hex="215E"/>
+  <outline>
+    <component base="eight.dnom"/>
+    <component base="fraction" xOffset="266"/>
+    <component base="seven.numr" xOffset="367"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-18 12:52:49 +0000</string>
+    </dict>
+  </lib>
+</glyph>

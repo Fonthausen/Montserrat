@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ae.sc" format="1">
+  <advance width="532"/>
+  <outline>
+    <contour>
+      <point x="26" y="0" type="line"/>
+      <point x="247" y="322" type="line"/>
+      <point x="234" y="315" type="line"/>
+      <point x="253" y="315" type="line"/>
+      <point x="253" y="332" type="line"/>
+      <point x="233" y="332" type="line"/>
+      <point x="5" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="253" y="84" type="line"/>
+      <point x="253" y="101" type="line"/>
+      <point x="84" y="101" type="line"/>
+      <point x="79" y="84" type="line"/>
+    </contour>
+    <contour>
+      <point x="496" y="0" type="line"/>
+      <point x="496" y="17" type="line"/>
+      <point x="267" y="17" type="line"/>
+      <point x="267" y="160" type="line"/>
+      <point x="464" y="160" type="line"/>
+      <point x="464" y="177" type="line"/>
+      <point x="267" y="177" type="line"/>
+      <point x="267" y="315" type="line"/>
+      <point x="488" y="315" type="line"/>
+      <point x="488" y="332" type="line"/>
+      <point x="248" y="332" type="line"/>
+      <point x="248" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="257" y="332" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="257" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-18 13:14:34 +0000</string>
+    </dict>
+  </lib>
+</glyph>

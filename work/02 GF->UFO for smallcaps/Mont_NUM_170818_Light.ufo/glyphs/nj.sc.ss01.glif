@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nj.sc.ss01" format="1">
+  <advance width="704"/>
+  <outline>
+    <component base="j.sc.ss01"/>
+    <component base="n.sc.ss01" xOffset="267"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-18 13:14:38 +0000</string>
+    </dict>
+  </lib>
+</glyph>

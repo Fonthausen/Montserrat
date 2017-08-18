@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="h.sc" format="1">
+  <advance width="457"/>
+  <outline>
+    <contour>
+      <point x="187" y="0" type="line"/>
+      <point x="187" y="118" type="line"/>
+      <point x="270" y="118" type="line"/>
+      <point x="270" y="0" type="line"/>
+      <point x="426" y="0" type="line"/>
+      <point x="426" y="346" type="line"/>
+      <point x="270" y="346" type="line"/>
+      <point x="270" y="232" type="line"/>
+      <point x="187" y="232" type="line"/>
+      <point x="187" y="346" type="line"/>
+      <point x="31" y="346" type="line"/>
+      <point x="31" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="229" y="346" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="229" y="288" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="229" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-18 12:52:35 +0000</string>
+    </dict>
+  </lib>
+</glyph>

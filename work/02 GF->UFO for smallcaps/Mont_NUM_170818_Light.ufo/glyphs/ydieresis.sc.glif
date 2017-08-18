@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydieresis.sc" format="1">
+  <advance width="368"/>
+  <outline>
+    <component base="y.sc"/>
+    <component base="dieresiscomb" xOffset="-9" yOffset="25"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-18 13:14:37 +0000</string>
+    </dict>
+  </lib>
+</glyph>

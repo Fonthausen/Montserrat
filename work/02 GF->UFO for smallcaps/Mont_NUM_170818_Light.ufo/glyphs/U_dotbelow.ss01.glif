@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udotbelow.ss01" format="1">
+  <advance width="514"/>
+  <outline>
+    <component base="U.ss01"/>
+    <component base="dotbelowcomb" xOffset="62"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-08-18 13:14:36 +0000</string>
+    </dict>
+  </lib>
+</glyph>

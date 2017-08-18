@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="h.sc" format="1">
-  <advance width="714"/>
+  <advance width="710"/>
   <outline>
     <contour>
-      <point x="279" y="0" type="line"/>
-      <point x="279" y="203" type="line"/>
-      <point x="436" y="203" type="line"/>
-      <point x="436" y="0" type="line"/>
-      <point x="649" y="0" type="line"/>
-      <point x="649" y="582" type="line"/>
-      <point x="436" y="582" type="line"/>
-      <point x="436" y="363" type="line"/>
-      <point x="279" y="363" type="line"/>
-      <point x="279" y="582" type="line"/>
-      <point x="65" y="582" type="line"/>
-      <point x="65" y="0" type="line"/>
+      <point x="283" y="0" type="line"/>
+      <point x="283" y="204" type="line"/>
+      <point x="427" y="204" type="line"/>
+      <point x="427" y="0" type="line"/>
+      <point x="657" y="0" type="line"/>
+      <point x="657" y="582" type="line"/>
+      <point x="427" y="582" type="line"/>
+      <point x="427" y="386" type="line"/>
+      <point x="283" y="386" type="line"/>
+      <point x="283" y="582" type="line"/>
+      <point x="53" y="582" type="line"/>
+      <point x="53" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="357" y="468" type="move" name="center"/>
+      <point x="355" y="483" type="move" name="center"/>
     </contour>
     <contour>
-      <point x="358" y="0" type="move" name="bottom"/>
+      <point x="355" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="367" y="582" type="move" name="top"/>
+      <point x="355" y="582" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -33,6 +33,8 @@
         <key>source</key>
         <string>H</string>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
     </dict>
   </lib>
 </glyph>
