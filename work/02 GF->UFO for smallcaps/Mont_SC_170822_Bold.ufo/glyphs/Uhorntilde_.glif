@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhorntilde" format="1">
+  <advance width="681.588347578"/>
+  <outline>
+    <component base="tildecomb.case" xOffset="79.102690612"/>
+    <component base="Uhorn"/>
+  </outline>
+</glyph>

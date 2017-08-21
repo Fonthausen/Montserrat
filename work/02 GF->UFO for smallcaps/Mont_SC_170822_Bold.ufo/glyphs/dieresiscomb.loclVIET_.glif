@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb.loclVIET" format="1">
+  <advance width="507.599990845"/>
+  <outline>
+    <contour>
+      <point x="253.799995422" y="458.259096205" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="253.799995422" y="618.970337366" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="427.042179226" y="568.593041869" type="curve" smooth="yes"/>
+      <point x="427.042179226" y="614.585566568"/>
+      <point x="392.229280177" y="645.554442721"/>
+      <point x="346.846457434" y="645.554442721" type="curve" smooth="yes"/>
+      <point x="301.463634692" y="645.554442721"/>
+      <point x="266.650735642" y="614.585566568"/>
+      <point x="266.650735642" y="568.593041869" type="curve" smooth="yes"/>
+      <point x="266.650735642" y="522.60051717"/>
+      <point x="301.463634692" y="492.586044488"/>
+      <point x="346.846457434" y="492.586044488" type="curve" smooth="yes"/>
+      <point x="392.229280177" y="492.586044488"/>
+      <point x="427.042179226" y="522.60051717"/>
+    </contour>
+    <contour>
+      <point x="240.949255202" y="568.593041869" type="curve" smooth="yes"/>
+      <point x="240.949255202" y="614.585566568"/>
+      <point x="206.136356153" y="645.554442721"/>
+      <point x="160.75353341" y="645.554442721" type="curve" smooth="yes"/>
+      <point x="115.370710668" y="645.554442721"/>
+      <point x="80.5578116185" y="614.585566568"/>
+      <point x="80.5578116185" y="568.593041869" type="curve" smooth="yes"/>
+      <point x="80.5578116185" y="522.60051717"/>
+      <point x="115.370710668" y="492.586044488"/>
+      <point x="160.75353341" y="492.586044488" type="curve" smooth="yes"/>
+      <point x="206.136356153" y="492.586044488"/>
+      <point x="240.949255202" y="522.60051717"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tdotbelow.sc.ss01" format="1">
+  <advance width="365.101706944"/>
+  <outline>
+    <component base="t.sc.ss01"/>
+    <component base="dotbelowcomb" xOffset="-60.1491511056"/>
+  </outline>
+</glyph>

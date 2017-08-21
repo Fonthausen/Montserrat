@@ -1,25 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="notequal" format="1">
-  <advance width="480"/>
+  <advance width="560"/>
   <unicode hex="2260"/>
   <outline>
     <contour>
-      <point x="156" y="49" type="line"/>
-      <point x="328" y="586" type="line"/>
-      <point x="309" y="586" type="line"/>
-      <point x="137" y="49" type="line"/>
+      <point x="147" y="100" type="line"/>
+      <point x="435" y="600" type="line"/>
+      <point x="413" y="600" type="line"/>
+      <point x="125" y="100" type="line"/>
     </contour>
     <contour>
-      <point x="440" y="210" type="line"/>
-      <point x="440" y="230" type="line"/>
-      <point x="40" y="230" type="line"/>
-      <point x="40" y="210" type="line"/>
+      <point x="485" y="231" type="line"/>
+      <point x="485" y="250" type="line"/>
+      <point x="75" y="250" type="line"/>
+      <point x="75" y="231" type="line"/>
     </contour>
     <contour>
-      <point x="440" y="410" type="line"/>
-      <point x="440" y="430" type="line"/>
-      <point x="40" y="430" type="line"/>
-      <point x="40" y="410" type="line"/>
+      <point x="485" y="450" type="line"/>
+      <point x="485" y="469" type="line"/>
+      <point x="75" y="469" type="line"/>
+      <point x="75" y="450" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>hyphen.case</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>hyphen.case</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

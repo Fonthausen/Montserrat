@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="blackDiamond" format="1">
+  <advance width="507.599990845"/>
+  <outline>
+    <contour>
+      <point x="253.799995422" y="-7.47899986267" type="line"/>
+      <point x="485.603991241" y="220.214995956" type="line"/>
+      <point x="253.799995422" y="448.73999176" type="line"/>
+      <point x="21.1499996185" y="220.214995956" type="line"/>
+    </contour>
+  </outline>
+</glyph>

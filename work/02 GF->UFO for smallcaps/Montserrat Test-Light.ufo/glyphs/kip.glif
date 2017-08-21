@@ -1,31 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kip" format="1">
-  <advance width="627"/>
+  <advance width="555"/>
   <unicode hex="20AD"/>
   <outline>
     <contour>
-      <point x="597" y="0" type="line"/>
-      <point x="116" y="353" type="line"/>
-      <point x="87" y="353" type="line"/>
-      <point x="564" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="105" y="0" type="line"/>
-      <point x="105" y="699" type="line"/>
-      <point x="85" y="699" type="line"/>
-      <point x="85" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="466" y="340" type="line"/>
+      <point x="466" y="341" type="line"/>
       <point x="466" y="360" type="line"/>
-      <point x="-5" y="360" type="line"/>
-      <point x="-5" y="340" type="line"/>
+      <point x="23" y="360" type="line"/>
+      <point x="23" y="341" type="line"/>
     </contour>
     <contour>
-      <point x="115" y="346" type="line"/>
-      <point x="575" y="699" type="line"/>
-      <point x="543" y="699" type="line"/>
-      <point x="87" y="346" type="line"/>
+      <point x="153" y="0" type="line"/>
+      <point x="153" y="700" type="line"/>
+      <point x="133" y="700" type="line"/>
+      <point x="133" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="539" y="0" type="line"/>
+      <point x="192" y="350" type="line"/>
+      <point x="164" y="350" type="line"/>
+      <point x="511" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="164" y="350" type="line"/>
+      <point x="192" y="350" type="line"/>
+      <point x="539" y="700" type="line"/>
+      <point x="511" y="700" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>K</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

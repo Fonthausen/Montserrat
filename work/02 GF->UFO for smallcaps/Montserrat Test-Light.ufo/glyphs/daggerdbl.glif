@@ -1,27 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="daggerdbl" format="1">
-  <advance width="480"/>
+  <advance width="520"/>
   <unicode hex="2021"/>
   <outline>
     <contour>
+      <point x="490" y="429" type="line"/>
+      <point x="270" y="429" type="line"/>
+      <point x="270" y="700" type="line"/>
+      <point x="250" y="700" type="line"/>
+      <point x="250" y="429" type="line"/>
+      <point x="30" y="429" type="line"/>
+      <point x="30" y="410" type="line"/>
+      <point x="250" y="410" type="line"/>
+      <point x="250" y="96" type="line"/>
+      <point x="30" y="96" type="line"/>
+      <point x="30" y="77" type="line"/>
+      <point x="250" y="77" type="line"/>
       <point x="250" y="-194" type="line"/>
-      <point x="250" y="441" type="line"/>
-      <point x="470" y="441" type="line"/>
-      <point x="470" y="461" type="line"/>
-      <point x="250" y="461" type="line"/>
-      <point x="250" y="699" type="line"/>
-      <point x="230" y="699" type="line"/>
-      <point x="230" y="461" type="line"/>
-      <point x="10" y="461" type="line"/>
-      <point x="10" y="441" type="line"/>
-      <point x="230" y="441" type="line"/>
-      <point x="230" y="-194" type="line"/>
-    </contour>
-    <contour>
-      <point x="470" y="81" type="line"/>
-      <point x="470" y="101" type="line"/>
-      <point x="10" y="101" type="line"/>
-      <point x="10" y="81" type="line"/>
+      <point x="270" y="-194" type="line"/>
+      <point x="270" y="77" type="line"/>
+      <point x="490" y="77" type="line"/>
+      <point x="490" y="96" type="line"/>
+      <point x="270" y="96" type="line"/>
+      <point x="270" y="410" type="line"/>
+      <point x="490" y="410" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>dagger</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

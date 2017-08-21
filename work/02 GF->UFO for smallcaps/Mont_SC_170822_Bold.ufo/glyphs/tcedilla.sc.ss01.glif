@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcedilla.sc.ss01" format="1">
+  <advance width="526.973388559"/>
+  <outline>
+    <component base="t.sc.ss01"/>
+    <component base="cedillacomb" xOffset="9.68669885712"/>
+  </outline>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="horncomb" format="1">
+  <advance width="485.400009155"/>
+  <outline>
+    <contour>
+      <point x="242.700004578" y="413.802107903" type="move" name="_topright"/>
+    </contour>
+    <contour>
+      <point x="242.700004578" y="395.528977554" type="line"/>
+      <point x="296.477471618" y="395.528977554"/>
+      <point x="317.823746045" y="429.031048193"/>
+      <point x="317.823746045" y="470.075678977" type="curve" smooth="yes"/>
+      <point x="317.823746045" y="491.305109383"/>
+      <point x="310.453755904" y="513.892839814"/>
+      <point x="299.758775698" y="530.088570123" type="curve"/>
+      <point x="282.88303533" y="522.809679984" type="line"/>
+      <point x="291.799833498" y="507.748529697"/>
+      <point x="299.063035635" y="490.194499361"/>
+      <point x="299.063035635" y="469.516378967" type="curve" smooth="yes"/>
+      <point x="299.063035635" y="439.953378402"/>
+      <point x="284.340853354" y="413.802107903"/>
+      <point x="242.700004578" y="413.802107903" type="curve" smooth="yes"/>
+      <point x="234.254044411" y="413.802107903" type="line"/>
+      <point x="234.254044411" y="395.528977554" type="line"/>
+    </contour>
+  </outline>
+</glyph>

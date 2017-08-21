@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="minus" format="1">
-  <advance width="480"/>
+  <advance width="560"/>
   <unicode hex="2212"/>
   <outline>
     <contour>
-      <point x="440" y="310" type="line"/>
-      <point x="440" y="330" type="line"/>
-      <point x="40" y="330" type="line"/>
-      <point x="40" y="310" type="line"/>
+      <point x="485" y="340" type="line"/>
+      <point x="485" y="359" type="line"/>
+      <point x="75" y="359" type="line"/>
+      <point x="75" y="340" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>hyphen.case</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>hyphen.case</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

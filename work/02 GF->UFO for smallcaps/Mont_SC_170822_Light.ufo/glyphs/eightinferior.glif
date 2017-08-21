@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eightinferior" format="1">
+  <advance width="347.870006561"/>
+  <outline>
+    <component base="eight.dnom" yOffset="-79.9000015259"/>
+  </outline>
+</glyph>

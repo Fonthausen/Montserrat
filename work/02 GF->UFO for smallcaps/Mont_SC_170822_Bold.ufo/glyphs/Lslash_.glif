@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash" format="1">
+  <advance width="546.9068414"/>
+  <unicode hex="0141"/>
+  <outline>
+    <component base="slashshortcomb.case" xOffset="-102.171416931" yOffset="1.14345577612"/>
+    <component base="L" xOffset="19.728719386"/>
+  </outline>
+</glyph>

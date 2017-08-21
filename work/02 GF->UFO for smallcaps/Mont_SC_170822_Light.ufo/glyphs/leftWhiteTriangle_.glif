@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leftWhiteTriangle" format="1">
+  <advance width="485.400009155"/>
+  <outline>
+    <contour>
+      <point x="391.556007385" y="381.922007294" type="line"/>
+      <point x="46.922000885" y="211.735004044" type="line"/>
+      <point x="391.556007385" y="41.5480007935" type="line"/>
+    </contour>
+    <contour>
+      <point x="86.0144996806" y="211.735004044" type="line"/>
+      <point x="374.165743031" y="353.717306755" type="line"/>
+      <point x="374.165743031" y="69.7527013321" type="line"/>
+    </contour>
+  </outline>
+</glyph>

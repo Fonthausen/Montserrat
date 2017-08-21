@@ -229,7 +229,6 @@
 		<string>Uring.ss01</string>
 		<string>Utilde.ss01</string>
 		<string>Utildeacute.ss01</string>
-		<string>Udieresis.ss01.alt02</string>
 	</array>
 	<key>@MMK_L_I.ss01</key>
 	<array>
@@ -442,14 +441,11 @@
 		<string>Yhookabove.ss01</string>
 		<string>Ymacron.ss01</string>
 		<string>Ytilde.ss01</string>
-		<string>Udieresis.alt02</string>
 	</array>
 	<key>@MMK_L_U.001</key>
 	<array>
 		<string>udieresis.sc.alt</string>
 		<string>udieresis.sc.ss01.alt</string>
-		<string>udieresis.sc.alt02</string>
-		<string>udieresis.sc.ss01.alt02</string>
 	</array>
 	<key>@MMK_L_Uhorn</key>
 	<array>
@@ -1751,8 +1747,8 @@
 	</array>
 	<key>@MMK_L_period.sc</key>
 	<array>
-		<string>periodcentered.sc</string>
 		<string>period.sc</string>
+		<string>periodcentered.sc</string>
 	</array>
 	<key>@MMK_L_peseta</key>
 	<array>
@@ -2414,8 +2410,8 @@
 	</array>
 	<key>@MMK_L_zero.dnom</key>
 	<array>
-		<string>zero.comp</string>
 		<string>zero.sinf</string>
+		<string>zero.comp</string>
 		<string>zero.subs</string>
 		<string>zeroinferior</string>
 		<string>zero.dnom</string>
@@ -2842,8 +2838,6 @@
 		<string>Wcircumflex.ss01</string>
 		<string>Wdieresis.ss01</string>
 		<string>Wgrave.ss01</string>
-		<string>Udieresis.alt02</string>
-		<string>Udieresis.ss01.alt02</string>
 	</array>
 	<key>@MMK_R_V</key>
 	<array>
@@ -4230,8 +4224,8 @@
 	</array>
 	<key>@MMK_R_period.sc</key>
 	<array>
-		<string>periodcentered.sc</string>
 		<string>period.sc</string>
+		<string>periodcentered.sc</string>
 	</array>
 	<key>@MMK_R_periodcentered</key>
 	<array>
@@ -4696,12 +4690,10 @@
 	<key>@MMK_R_udieresis.alt.sc</key>
 	<array>
 		<string>udieresis.sc.alt</string>
-		<string>udieresis.sc.alt02</string>
 	</array>
 	<key>@MMK_R_udieresis.ss01.alt.sc</key>
 	<array>
 		<string>udieresis.sc.ss01.alt</string>
-		<string>udieresis.sc.ss01.alt02</string>
 	</array>
 	<key>@MMK_R_underscore</key>
 	<array>
@@ -4845,8 +4837,8 @@
 	</array>
 	<key>@MMK_R_zero.dnom</key>
 	<array>
-		<string>zero.comp</string>
 		<string>zero.sinf</string>
+		<string>zero.comp</string>
 		<string>zero.subs</string>
 		<string>zeroinferior</string>
 		<string>zero.dnom</string>

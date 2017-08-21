@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="divisionslash" format="1">
-  <advance width="373"/>
+  <advance width="440"/>
   <unicode hex="2215"/>
   <outline>
     <component base="slash"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>slash</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>slash</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
     </dict>
   </lib>
 </glyph>

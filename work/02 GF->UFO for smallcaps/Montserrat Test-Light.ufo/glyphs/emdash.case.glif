@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="emdash.case" format="1">
-  <advance width="760"/>
+  <advance width="1000"/>
   <outline>
-    <component base="emdash" yOffset="54"/>
+    <component base="emdash" yOffset="87"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>emdash</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>emdash</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>emdash</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

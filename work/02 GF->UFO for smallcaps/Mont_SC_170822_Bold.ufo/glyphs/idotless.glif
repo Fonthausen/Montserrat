@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idotless" format="1">
+  <advance width="285.482693883"/>
+  <outline>
+    <contour>
+      <point x="143.234564926" y="458.259096205" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="252.311033642" y="0.0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="143.234564926" y="0.0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="252.311033642" y="0.0" type="line"/>
+      <point x="252.311033642" y="458.259096205" type="line"/>
+      <point x="33.1716602408" y="458.259096205" type="line"/>
+      <point x="33.1716602408" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

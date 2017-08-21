@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="strokelongcomb.sc" format="1">
+  <advance width="650.759612351"/>
+  <outline>
+    <contour>
+      <point x="264.91838104" y="281.391825374" type="move" name="_center"/>
+    </contour>
+    <contour>
+      <point x="520.750073887" y="273.729415228" type="line"/>
+      <point x="520.750073887" y="290.60429555" type="line"/>
+      <point x="9.87789020753" y="290.60429555" type="line"/>
+      <point x="9.87789020753" y="273.729415228" type="line"/>
+    </contour>
+  </outline>
+</glyph>

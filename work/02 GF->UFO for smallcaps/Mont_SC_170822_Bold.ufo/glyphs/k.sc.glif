@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k.sc" format="1">
+  <advance width="586.508100234"/>
+  <outline>
+    <contour>
+      <point x="292.98333038" y="486.480271276" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="292.98333038" y="0.0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="269.151510745" y="140.901034732" type="line"/>
+      <point x="393.730083001" y="257.766223165" type="line"/>
+      <point x="602.835899294" y="486.480271276" type="line"/>
+      <point x="359.878242568" y="486.480271276" type="line"/>
+      <point x="223.283082579" y="327.131867046" type="line"/>
+      <point x="234.979878226" y="97.5893145124" type="line"/>
+    </contour>
+    <contour>
+      <point x="255.273725627" y="0.0" type="line"/>
+      <point x="255.273725627" y="486.480271276" type="line"/>
+      <point x="35.1479162568" y="486.480271276" type="line"/>
+      <point x="35.1479162568" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="610.03197528" y="0.0" type="line"/>
+      <point x="379.916595353" y="310.686379123" type="line"/>
+      <point x="235.044175696" y="166.390297035" type="line"/>
+      <point x="352.418214999" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

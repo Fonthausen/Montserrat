@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jdotless" format="1">
+  <advance width="207.683247947"/>
+  <outline>
+    <contour>
+      <point x="105.881922013" y="413.802107903" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="115.805116239" y="-53.5809410233" type="curve" smooth="yes"/>
+      <point x="115.805116239" y="413.802107903" type="line"/>
+      <point x="95.9587277856" y="413.802107903" type="line"/>
+      <point x="95.9587277856" y="-49.6578509483" type="line" smooth="yes"/>
+      <point x="95.9587277856" y="-107.289722049"/>
+      <point x="67.1194952478" y="-138.74635265"/>
+      <point x="13.6284142543" y="-138.74635265" type="curve" smooth="yes"/>
+      <point x="-15.175222282" y="-138.74635265"/>
+      <point x="-40.0228487456" y="-130.101172485"/>
+      <point x="-57.6962630763" y="-113.63378217" type="curve"/>
+      <point x="-69.7341833187" y="-128.247492449" type="line"/>
+      <point x="-50.1224049446" y="-148.054702827"/>
+      <point x="-17.5666263263" y="-157.570793009"/>
+      <point x="15.0247482934" y="-157.570793009" type="curve" smooth="yes"/>
+      <point x="80.2172055508" y="-157.570793009"/>
+      <point x="115.805116239" y="-115.862992213"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet.case" format="1">
+  <advance width="385.126263092"/>
+  <outline>
+    <component base="bullet" xOffset="8.45999984741" yOffset="53.7025432168"/>
+  </outline>
+</glyph>

@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asciicircum" format="1">
-  <advance width="478"/>
+  <advance width="562"/>
   <unicode hex="005E"/>
   <outline>
-    <component base="less" xOffset="-89" yOffset="568" xScale="0" yScale="0" xyScale="-1" yxScale="1"/>
+    <contour>
+      <point x="121" y="145" type="line"/>
+      <point x="285" y="542" type="line"/>
+      <point x="277" y="542" type="line"/>
+      <point x="441" y="145" type="line"/>
+      <point x="463" y="145" type="line"/>
+      <point x="292" y="555" type="line"/>
+      <point x="270" y="555" type="line"/>
+      <point x="99" y="145" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>equal</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>equal</string>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

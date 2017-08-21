@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eth.sc" format="1">
+  <advance width="577.261960898"/>
+  <outline>
+    <component base="d.sc" xOffset="16.1800003052"/>
+    <component base="strokeshortcomb.sc" xOffset="-36.3872026859" yOffset="-0.799000015259"/>
+  </outline>
+</glyph>

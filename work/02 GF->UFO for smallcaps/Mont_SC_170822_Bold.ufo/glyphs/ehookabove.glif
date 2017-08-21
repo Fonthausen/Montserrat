@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ehookabove" format="1">
+  <advance width="561.997789218"/>
+  <outline>
+    <component base="e"/>
+    <component base="hookabovecomb" xOffset="31.5659510176"/>
+  </outline>
+</glyph>

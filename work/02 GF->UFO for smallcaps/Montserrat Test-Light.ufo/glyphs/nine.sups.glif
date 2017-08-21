@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nine.sups" format="1">
-  <advance width="397"/>
+  <advance width="430"/>
   <outline>
-    <component base="nine.dnom" yOffset="336"/>
+    <component base="nine.dnom" yOffset="327"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
 </glyph>

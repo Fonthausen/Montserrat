@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevebelowcomb" format="1">
+  <advance width="507.599990845"/>
+  <outline>
+    <contour>
+      <point x="253.799995422" y="0.0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="253.799995422" y="-173.176240933" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="441.427563044" y="-52.8387188214" type="curve"/>
+      <point x="318.81847865" y="-52.8387188214" type="line"/>
+      <point x="315.153606742" y="-78.5012451165"/>
+      <point x="290.469018968" y="-96.2568064299"/>
+      <point x="253.799995422" y="-96.2568064299" type="curve" smooth="yes"/>
+      <point x="217.130971877" y="-96.2568064299"/>
+      <point x="192.446384103" y="-78.5012451165"/>
+      <point x="188.781512195" y="-52.8387188214" type="curve"/>
+      <point x="66.1724278005" y="-52.8387188214" type="line"/>
+      <point x="71.8101716472" y="-135.239014953"/>
+      <point x="145.539069995" y="-190.306890663"/>
+      <point x="253.799995422" y="-190.306890663" type="curve" smooth="yes"/>
+      <point x="362.06092085" y="-190.306890663"/>
+      <point x="435.789819198" y="-135.239014953"/>
+    </contour>
+  </outline>
+</glyph>

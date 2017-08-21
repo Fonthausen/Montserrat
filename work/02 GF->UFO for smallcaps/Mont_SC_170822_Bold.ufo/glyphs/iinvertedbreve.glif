@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iinvertedbreve" format="1">
+  <advance width="285.482693883"/>
+  <outline>
+    <component base="breveinvertedcomb.narrow" xOffset="-110.565430496"/>
+    <component base="idotless"/>
+  </outline>
+</glyph>

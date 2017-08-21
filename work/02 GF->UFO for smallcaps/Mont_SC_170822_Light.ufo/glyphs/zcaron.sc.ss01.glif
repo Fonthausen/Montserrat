@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zcaron.sc.ss01" format="1">
+  <advance width="428.647040117"/>
+  <outline>
+    <component base="z.sc.ss01"/>
+    <component base="caroncomb" xOffset="-25.0870904558" yOffset="33.3902106377"/>
+  </outline>
+</glyph>

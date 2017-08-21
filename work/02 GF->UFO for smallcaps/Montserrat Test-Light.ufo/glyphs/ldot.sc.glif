@@ -3,14 +3,6 @@
   <advance width="486"/>
   <outline>
     <component base="l.sc"/>
-    <component base="periodcentered.sc" xOffset="283" yOffset="19"/>
+    <component base="periodcentered.loclCAT.case" xOffset="199" yOffset="-132"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>6</integer>
-      <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
-    </dict>
-  </lib>
 </glyph>

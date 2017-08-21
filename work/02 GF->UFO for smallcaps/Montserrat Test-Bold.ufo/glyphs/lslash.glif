@@ -8,8 +8,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>6</integer>
       <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
       <string>==+20</string>
       <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
@@ -18,8 +16,6 @@
       <string>=t</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=t</string>
-      <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
     </dict>
   </lib>
 </glyph>

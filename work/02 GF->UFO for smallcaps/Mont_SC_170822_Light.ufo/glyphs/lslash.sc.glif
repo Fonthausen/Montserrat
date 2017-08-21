@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash.sc" format="1">
+  <advance width="394.188493457"/>
+  <outline>
+    <contour>
+      <point x="124.364336358" y="447.19231854" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="220.813318181" y="0.0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="314.158975931" y="447.19231854" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="279.1244213" y="249.815344771" type="move" name="center"/>
+    </contour>
+    <component base="l.sc"/>
+    <component base="slashshortcomb" xOffset="-18.9645784005" yOffset="-69.7367213318"/>
+  </outline>
+</glyph>

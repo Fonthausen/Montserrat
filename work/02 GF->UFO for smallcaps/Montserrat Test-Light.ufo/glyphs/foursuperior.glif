@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="foursuperior" format="1">
-  <advance width="323"/>
+  <advance width="430"/>
   <unicode hex="2074"/>
   <outline>
-    <component base="four.dnom" yOffset="360"/>
+    <component base="four.dnom" yOffset="327"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
 </glyph>

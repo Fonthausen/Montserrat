@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="minute" format="1">
-  <advance width="115"/>
+  <advance width="184"/>
   <unicode hex="2032"/>
   <outline>
     <contour>
-      <point x="48" y="459" type="line"/>
-      <point x="69" y="699" type="line"/>
-      <point x="49" y="699" type="line"/>
-      <point x="32" y="459" type="line"/>
+      <point x="101" y="450" type="line"/>
+      <point x="103" y="700" type="line"/>
+      <point x="81" y="700" type="line"/>
+      <point x="83" y="450" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

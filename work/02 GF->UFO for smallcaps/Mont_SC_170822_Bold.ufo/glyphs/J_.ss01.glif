@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="J.ss01" format="1">
+  <advance width="499.226281744"/>
+  <outline>
+    <contour>
+      <point x="254.742438386" y="581.699989319" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="466.753417348" y="150.64866227" type="curve" smooth="yes"/>
+      <point x="466.753417348" y="581.699989319" type="line"/>
+      <point x="41.7450234536" y="581.699989319" type="line"/>
+      <point x="41.7450234536" y="414.160837911" type="line"/>
+      <point x="239.722556193" y="414.160837911" type="line"/>
+      <point x="239.722556193" y="137.040206723" type="line" smooth="yes"/>
+      <point x="239.722556193" y="97.6944341211"/>
+      <point x="219.970148265" y="76.2197321604"/>
+      <point x="185.959256194" y="76.2197321604" type="curve" smooth="yes"/>
+      <point x="156.757028372" y="76.2197321604"/>
+      <point x="130.236620567" y="94.0986969589"/>
+      <point x="99.0750571158" y="130.720450951" type="curve"/>
+      <point x="-24.2362072014" y="-10.9592276973" type="line"/>
+      <point x="27.7809475893" y="-68.2076475701"/>
+      <point x="108.277845815" y="-98.0002435357"/>
+      <point x="205.828411565" y="-98.0002435357" type="curve" smooth="yes"/>
+      <point x="375.268671553" y="-98.0002435357"/>
+      <point x="466.753417348" y="-16.4309473885"/>
+    </contour>
+  </outline>
+</glyph>

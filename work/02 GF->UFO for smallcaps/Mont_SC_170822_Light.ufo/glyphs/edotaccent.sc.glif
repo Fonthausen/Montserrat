@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="edotaccent.sc" format="1">
+  <advance width="452.747150551"/>
+  <outline>
+    <component base="dotaccentcomb" xOffset="4.78280808867" yOffset="33.3902106377"/>
+    <component base="e.sc"/>
+  </outline>
+</glyph>

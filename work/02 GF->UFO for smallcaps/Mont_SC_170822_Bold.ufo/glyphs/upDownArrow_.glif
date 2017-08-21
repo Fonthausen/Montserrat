@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upDownArrow" format="1">
+  <advance width="507.599990845"/>
+  <outline>
+    <contour>
+      <point x="254.080867391" y="444.791080239" type="line"/>
+      <point x="473.438510557" y="324.691223159" type="line"/>
+      <point x="473.438510557" y="476.92709464" type="line"/>
+      <point x="254.080867391" y="614.08281069" type="line"/>
+      <point x="34.1614802875" y="476.92709464" type="line"/>
+      <point x="34.1614802875" y="324.691223159" type="line"/>
+    </contour>
+    <contour>
+      <point x="473.719382526" y="118.479823458" type="line"/>
+      <point x="473.719382526" y="270.715694939" type="line"/>
+      <point x="253.799995422" y="150.615837859" type="line"/>
+      <point x="34.4423522566" y="270.715694939" type="line"/>
+      <point x="34.4423522566" y="118.479823458" type="line"/>
+      <point x="253.799995422" y="-18.6758925919" type="line"/>
+    </contour>
+    <contour>
+      <point x="337.229128937" y="135.625013723" type="line"/>
+      <point x="337.229128937" y="469.572746043" type="line"/>
+      <point x="170.651733877" y="469.572746043" type="line"/>
+      <point x="170.651733877" y="135.625013723" type="line"/>
+    </contour>
+  </outline>
+</glyph>

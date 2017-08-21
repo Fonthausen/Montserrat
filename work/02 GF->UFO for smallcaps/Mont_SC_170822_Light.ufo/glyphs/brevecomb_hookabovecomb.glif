@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb_hookabovecomb" format="1">
+  <advance width="485.400009155"/>
+  <outline>
+    <contour>
+      <point x="242.700004578" y="413.802107903" type="move" name="_top"/>
+    </contour>
+    <component base="brevecomb.loclVIET"/>
+    <component base="hookabovecomb.loclVIET" yOffset="60.899781163"/>
+  </outline>
+</glyph>

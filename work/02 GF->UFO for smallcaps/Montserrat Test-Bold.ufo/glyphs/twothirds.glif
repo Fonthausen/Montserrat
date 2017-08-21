@@ -1,45 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="twothirds" format="1">
-  <advance width="1107"/>
+  <advance width="1057"/>
   <unicode hex="2154"/>
   <outline>
     <component base="two.numr"/>
-    <component base="fraction" xOffset="486"/>
-    <component base="three.dnom" xOffset="716"/>
+    <component base="fraction" xOffset="430"/>
+    <component base="three.dnom" xOffset="627"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>two.numr</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>two.numr</string>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>two.numr</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>fraction</string>
-        </dict>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>2</integer>
-          <key>name</key>
-          <string>three.dnom</string>
-        </dict>
-      </array>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
     </dict>
   </lib>
 </glyph>

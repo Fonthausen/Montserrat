@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohornacute" format="1">
+  <advance width="676.537588765"/>
+  <outline>
+    <component base="Ohorn"/>
+    <component base="acutecomb.case" xOffset="95.5687898049"/>
+  </outline>
+</glyph>

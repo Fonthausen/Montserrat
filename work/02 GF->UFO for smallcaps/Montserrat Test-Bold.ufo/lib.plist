@@ -89,13 +89,11 @@
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSOffsetHorizontal</key>
-		<integer>2</integer>
-		<key>GSOffsetMakeStroke</key>
-		<integer>1</integer>
+		<integer>28</integer>
 		<key>GSOffsetPosition</key>
 		<integer>0</integer>
 		<key>GSOffsetProportional</key>
-		<integer>1</integer>
+		<true/>
 		<key>GSOffsetVertical</key>
 		<integer>20</integer>
 	</dict>
@@ -494,8 +492,6 @@
 		<string>Zcaron.ss01</string>
 		<string>Zdotaccent.ss01</string>
 		<string>Zdotbelow.ss01</string>
-		<string>Udieresis.alt02</string>
-		<string>Udieresis.ss01.alt02</string>
 		<string>a</string>
 		<string>aacute</string>
 		<string>abreve</string>
@@ -832,8 +828,6 @@
 		<string>adieresis.sc.alt</string>
 		<string>udieresis.sc.alt</string>
 		<string>udieresis.sc.ss01.alt</string>
-		<string>udieresis.sc.alt02</string>
-		<string>udieresis.sc.ss01.alt02</string>
 		<string>a.sc</string>
 		<string>aacute.sc</string>
 		<string>abreve.sc</string>
@@ -903,6 +897,7 @@
 		<string>schwa.sc</string>
 		<string>f.sc</string>
 		<string>g.sc</string>
+		<string>gacute.sc</string>
 		<string>gbreve.sc</string>
 		<string>gcaron.sc</string>
 		<string>gcircumflex.sc</string>
@@ -1231,7 +1226,6 @@
 		<string>seven</string>
 		<string>eight</string>
 		<string>nine</string>
-		<string>zero.comp</string>
 		<string>zero.osf</string>
 		<string>one.osf</string>
 		<string>two.osf</string>
@@ -1272,6 +1266,7 @@
 		<string>seven.tosf</string>
 		<string>eight.tosf</string>
 		<string>nine.tosf</string>
+		<string>zero.comp</string>
 		<string>zero.subs</string>
 		<string>one.subs</string>
 		<string>two.subs</string>
@@ -1402,14 +1397,12 @@
 		<string>guillemetright.case</string>
 		<string>guilsinglleft.case</string>
 		<string>guilsinglright.case</string>
-		<string>periodcentered.sc</string>
 		<string>exclam.sc</string>
 		<string>exclamdown.sc</string>
 		<string>guillemetleft.sc</string>
 		<string>guillemetright.sc</string>
 		<string>guilsinglleft.sc</string>
 		<string>guilsinglright.sc</string>
-		<string>periodcentered.loclCAT.sc</string>
 		<string>period.sc</string>
 		<string>question.sc</string>
 		<string>questiondown.sc</string>
@@ -1419,6 +1412,8 @@
 		<string>quoteleft.sc</string>
 		<string>quoteright.sc</string>
 		<string>quotesingle.sc</string>
+		<string>periodcentered.sc</string>
+		<string>periodcentered.loclCAT.sc</string>
 		<string>figurespace</string>
 		<string>hairspace</string>
 		<string>punctuationspace</string>

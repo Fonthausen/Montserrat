@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="emdash" format="1">
-  <advance width="760"/>
+  <advance width="1000"/>
   <unicode hex="2014"/>
   <outline>
     <contour>
-      <point x="760" y="290" type="line"/>
-      <point x="760" y="310" type="line"/>
-      <point x="0" y="310" type="line"/>
-      <point x="0" y="290" type="line"/>
+      <point x="1000" y="255" type="line"/>
+      <point x="1000" y="274" type="line"/>
+      <point x="0" y="274" type="line"/>
+      <point x="0" y="255" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

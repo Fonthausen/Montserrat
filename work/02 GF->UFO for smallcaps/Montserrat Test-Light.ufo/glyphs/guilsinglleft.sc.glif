@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglleft.sc" format="1">
-  <advance width="254"/>
+  <advance width="259"/>
   <outline>
     <contour>
-      <point x="175" y="125" type="line"/>
-      <point x="88" y="248" type="line"/>
-      <point x="175" y="374" type="line"/>
-      <point x="153" y="374" type="line"/>
-      <point x="64" y="248" type="line"/>
-      <point x="153" y="125" type="line"/>
+      <point x="214" y="113" type="line"/>
+      <point x="82" y="279" type="line"/>
+      <point x="214" y="446" type="line"/>
+      <point x="191" y="446" type="line"/>
+      <point x="58" y="279" type="line"/>
+      <point x="191" y="113" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -18,6 +18,14 @@
         <key>source</key>
         <string>guilsinglleft</string>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>guilsinglleft</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>guilsinglleft</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

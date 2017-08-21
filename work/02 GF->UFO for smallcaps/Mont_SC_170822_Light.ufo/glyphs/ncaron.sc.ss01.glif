@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ncaron.sc.ss01" format="1">
+  <advance width="548.911364362"/>
+  <outline>
+    <component base="n.sc.ss01"/>
+    <component base="caroncomb" xOffset="34.1737786488" yOffset="33.3902106377"/>
+  </outline>
+</glyph>

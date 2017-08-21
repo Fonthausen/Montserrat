@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zdotbelow.sc.ss01" format="1">
+  <advance width="529.548613365"/>
+  <outline>
+    <component base="z.sc.ss01"/>
+    <component base="dotbelowcomb" xOffset="15.3481312455"/>
+  </outline>
+</glyph>

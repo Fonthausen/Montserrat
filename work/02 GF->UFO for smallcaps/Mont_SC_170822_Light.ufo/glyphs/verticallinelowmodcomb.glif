@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="verticallinelowmodcomb" format="1">
+  <advance width="34.9941047171"/>
+  <outline>
+    <contour>
+      <point x="17.4970523586" y="0.0" type="move" name="_bottom"/>
+    </contour>
+    <component base="verticallinelowmod"/>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb" format="1">
+  <advance width="507.599990845"/>
+  <unicode hex="0300"/>
+  <outline>
+    <contour>
+      <point x="253.799995422" y="458.259096205" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="253.799995422" y="643.900336909" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="351.056152894" y="504.416990738" type="line"/>
+      <point x="240.507642784" y="643.547162549" type="line"/>
+      <point x="34.0413487673" y="643.547162549" type="line"/>
+      <point x="207.303837036" y="504.416990738" type="line"/>
+    </contour>
+  </outline>
+</glyph>

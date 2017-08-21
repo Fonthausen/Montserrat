@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown.sc" format="1">
+  <advance width="284.18154517"/>
+  <outline>
+    <component base="exclam.sc" xScale="-1.0" yScale="-1.0" xOffset="284.18154517" yOffset="486.480271276"/>
+  </outline>
+</glyph>

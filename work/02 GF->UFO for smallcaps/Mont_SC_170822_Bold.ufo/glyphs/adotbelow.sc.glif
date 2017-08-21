@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="adotbelow.sc" format="1">
+  <advance width="613.412591142"/>
+  <outline>
+    <component base="a.sc"/>
+    <component base="dotbelowcomb" xOffset="52.9765181409"/>
+  </outline>
+</glyph>

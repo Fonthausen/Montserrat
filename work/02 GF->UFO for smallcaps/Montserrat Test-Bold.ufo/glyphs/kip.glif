@@ -1,31 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kip" format="1">
-  <advance width="789"/>
+  <advance width="798"/>
   <unicode hex="20AD"/>
   <outline>
     <contour>
-      <point x="466" y="309" type="line"/>
-      <point x="774" y="701" type="line"/>
-      <point x="512" y="701" type="line"/>
-      <point x="214" y="309" type="line"/>
+      <point x="743" y="284" type="line"/>
+      <point x="743" y="416" type="line"/>
+      <point x="0" y="416" type="line"/>
+      <point x="0" y="284" type="line"/>
     </contour>
     <contour>
-      <point x="303" y="0" type="line"/>
-      <point x="303" y="701" type="line"/>
-      <point x="71" y="701" type="line"/>
-      <point x="71" y="0" type="line"/>
+      <point x="322" y="0" type="line"/>
+      <point x="322" y="700" type="line"/>
+      <point x="90" y="700" type="line"/>
+      <point x="90" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="789" y="0" type="line"/>
-      <point x="508" y="384" type="line"/>
-      <point x="246" y="384" type="line"/>
-      <point x="517" y="0" type="line"/>
+      <point x="823" y="0" type="line"/>
+      <point x="573" y="350" type="line"/>
+      <point x="299" y="350" type="line"/>
+      <point x="550" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="703" y="332" type="line"/>
-      <point x="703" y="402" type="line"/>
-      <point x="1" y="402" type="line"/>
-      <point x="1" y="332" type="line"/>
+      <point x="299" y="350" type="line"/>
+      <point x="573" y="350" type="line"/>
+      <point x="823" y="700" type="line"/>
+      <point x="550" y="700" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>K</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

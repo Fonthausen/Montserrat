@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="spacingGlyph" format="1">
+  <advance width="225.881995926"/>
+  <outline>
+    <contour>
+      <point x="225.881995926" y="-97.2269982147" type="line"/>
+      <point x="225.881995926" y="673.940987625" type="line"/>
+      <point x="0.0" y="673.940987625" type="line"/>
+      <point x="0.0" y="-97.2269982147" type="line"/>
+    </contour>
+  </outline>
+</glyph>

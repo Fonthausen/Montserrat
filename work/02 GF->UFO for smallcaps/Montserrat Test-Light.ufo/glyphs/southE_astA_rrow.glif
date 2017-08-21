@@ -3,6 +3,19 @@
   <advance width="600"/>
   <unicode hex="2198"/>
   <outline>
-    <component base="upArrow" xOffset="319" yOffset="690" xScale="-0.707" yScale="-0.707" xyScale="-0.707" yxScale="0.707"/>
+    <contour>
+      <point x="419" y="169" type="line"/>
+      <point x="203" y="130" type="line"/>
+      <point x="222" y="111" type="line"/>
+      <point x="438" y="149" type="line"/>
+      <point x="474" y="363" type="line"/>
+      <point x="455" y="382" type="line"/>
+    </contour>
+    <contour>
+      <point x="156" y="415" type="line"/>
+      <point x="416" y="155" type="line"/>
+      <point x="431" y="170" type="line"/>
+      <point x="171" y="430" type="line"/>
+    </contour>
   </outline>
 </glyph>

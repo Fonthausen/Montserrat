@@ -1,15 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclam.sc" format="1">
-  <advance width="192"/>
+  <advance width="182"/>
   <outline>
     <contour>
-      <point x="107" y="188" type="line"/>
-      <point x="107" y="467" type="line"/>
-      <point x="107" y="599" type="line"/>
-      <point x="87" y="599" type="line"/>
-      <point x="87" y="467" type="line"/>
-      <point x="87" y="188" type="line"/>
+      <point x="98" y="168" type="line"/>
+      <point x="102" y="559" type="line"/>
+      <point x="80" y="559" type="line"/>
+      <point x="84" y="168" type="line"/>
     </contour>
-    <component base="period.sc" xOffset="9"/>
+    <contour>
+      <point x="105" y="-3"/>
+      <point x="117" y="9"/>
+      <point x="117" y="23" type="curve" smooth="yes"/>
+      <point x="117" y="37"/>
+      <point x="105" y="49"/>
+      <point x="91" y="49" type="curve" smooth="yes"/>
+      <point x="77" y="49"/>
+      <point x="65" y="37"/>
+      <point x="65" y="23" type="curve" smooth="yes"/>
+      <point x="65" y="9"/>
+      <point x="77" y="-3"/>
+      <point x="91" y="-3" type="curve" smooth="yes"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

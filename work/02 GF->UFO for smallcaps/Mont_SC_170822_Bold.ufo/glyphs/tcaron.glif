@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron" format="1">
+  <advance width="399.271383869"/>
+  <unicode hex="0165"/>
+  <outline>
+    <component base="caroncomb.alt.short" xOffset="55.6380336927"/>
+    <component base="t"/>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb_dieresiscomb" format="1">
+  <advance width="507.599990845"/>
+  <outline>
+    <contour>
+      <point x="253.799995422" y="458.259096205" type="move" name="_top"/>
+    </contour>
+    <component base="dieresiscomb.loclVIET" yOffset="160.711241161"/>
+    <component base="tildecomb.loclVIET"/>
+  </outline>
+</glyph>

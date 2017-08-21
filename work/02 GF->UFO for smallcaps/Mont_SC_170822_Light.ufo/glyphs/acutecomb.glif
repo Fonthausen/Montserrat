@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb" format="1">
+  <advance width="485.400009155"/>
+  <unicode hex="0301"/>
+  <outline>
+    <contour>
+      <point x="242.700004578" y="413.802107903" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="242.700004578" y="529.737010117" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="231.632884392" y="484.993009262" type="line"/>
+      <point x="353.819392715" y="574.081510963" type="line"/>
+      <point x="318.344741978" y="574.081510963" type="line"/>
+      <point x="205.227123848" y="484.993009262" type="line"/>
+    </contour>
+  </outline>
+</glyph>

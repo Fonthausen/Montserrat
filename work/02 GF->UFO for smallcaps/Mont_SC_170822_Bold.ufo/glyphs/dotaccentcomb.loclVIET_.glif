@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentcomb.loclVIET" format="1">
+  <advance width="507.599990845"/>
+  <outline>
+    <contour>
+      <point x="253.799995422" y="458.259096205" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="253.799995422" y="628.514372064" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="338.927897061" y="570.501848809" type="curve" smooth="yes"/>
+      <point x="338.927897061" y="619.357583917"/>
+      <point x="302.142126073" y="652.235267009"/>
+      <point x="253.799995422" y="652.235267009" type="curve" smooth="yes"/>
+      <point x="205.457864772" y="652.235267009"/>
+      <point x="168.672093784" y="619.357583917"/>
+      <point x="168.672093784" y="570.501848809" type="curve" smooth="yes"/>
+      <point x="168.672093784" y="521.646113701"/>
+      <point x="205.457864772" y="490.677237548"/>
+      <point x="253.799995422" y="490.677237548" type="curve" smooth="yes"/>
+      <point x="302.142126073" y="490.677237548"/>
+      <point x="338.927897061" y="521.646113701"/>
+    </contour>
+  </outline>
+</glyph>

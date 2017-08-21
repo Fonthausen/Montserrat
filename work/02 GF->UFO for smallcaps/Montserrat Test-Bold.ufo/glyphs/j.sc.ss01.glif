@@ -33,14 +33,10 @@
         <key>source</key>
         <string>J.ss01</string>
       </dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>j.sc</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>j.sc</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

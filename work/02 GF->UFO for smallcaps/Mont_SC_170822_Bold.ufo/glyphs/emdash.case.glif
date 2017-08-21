@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emdash.case" format="1">
+  <advance width="845.999984741"/>
+  <outline>
+    <component base="emdash" yOffset="53.2089292766"/>
+  </outline>
+</glyph>

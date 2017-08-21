@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="southEastArrow" format="1">
+  <advance width="507.599990845"/>
+  <outline>
+    <contour>
+      <point x="298.247143357" y="191.97678479" type="line"/>
+      <point x="56.3249884944" y="125.209260473" type="line"/>
+      <point x="168.083277227" y="16.8431241925" type="line"/>
+      <point x="421.84266372" y="72.2812103575" type="line"/>
+      <point x="477.945998373" y="320.741063857" type="line"/>
+      <point x="367.17414561" y="428.152796667" type="line"/>
+    </contour>
+    <contour>
+      <point x="37.2781445669" y="333.41215203" type="line"/>
+      <point x="257.2381406" y="117.352155997" type="line"/>
+      <point x="375.476789086" y="230.983923567" type="line"/>
+      <point x="155.516793053" y="447.998323069" type="line"/>
+    </contour>
+  </outline>
+</glyph>

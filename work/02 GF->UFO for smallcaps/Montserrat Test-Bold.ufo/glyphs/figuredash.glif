@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="figuredash" format="1">
-  <advance width="617"/>
+  <advance width="700"/>
   <unicode hex="2012"/>
   <outline>
     <contour>
-      <point x="617" y="239" type="line"/>
-      <point x="617" y="379" type="line"/>
-      <point x="0" y="379" type="line"/>
-      <point x="0" y="239" type="line"/>
+      <point x="660" y="290" type="line"/>
+      <point x="660" y="420" type="line"/>
+      <point x="40" y="420" type="line"/>
+      <point x="40" y="290" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

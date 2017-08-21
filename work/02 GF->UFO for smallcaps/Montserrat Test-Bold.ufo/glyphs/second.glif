@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="second" format="1">
-  <advance width="448"/>
+  <advance width="489"/>
   <unicode hex="2033"/>
   <outline>
-    <component base="minute"/>
-    <component base="minute" xOffset="195"/>
+    <contour>
+      <point x="207" y="400" type="line"/>
+      <point x="222" y="700" type="line"/>
+      <point x="32" y="700" type="line"/>
+      <point x="47" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="442" y="400" type="line"/>
+      <point x="457" y="700" type="line"/>
+      <point x="267" y="700" type="line"/>
+      <point x="282" y="400" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>minute</string>
+      <string>quotesingle</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>minute</string>
+      <string>quotesingle</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
     </dict>
   </lib>
 </glyph>

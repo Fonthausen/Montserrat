@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="scarondotaccent.sc" format="1">
+  <advance width="495.013202207"/>
+  <outline>
+    <component base="caroncomb_dotaccentcomb" xOffset="-7.20284414117" yOffset="28.2211750706"/>
+    <component base="s.sc"/>
+  </outline>
+</glyph>

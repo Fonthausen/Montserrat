@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macronbelowcomb" format="1">
+  <advance width="485.400009155"/>
+  <outline>
+    <contour>
+      <point x="242.700004578" y="0.0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="242.700004578" y="-95.6722618271" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="354.041058706" y="-128.607042456" type="line"/>
+      <point x="354.041058706" y="-110.277982106" type="line"/>
+      <point x="131.358950449" y="-110.277982106" type="line"/>
+      <point x="131.358950449" y="-128.607042456" type="line"/>
+    </contour>
+  </outline>
+</glyph>

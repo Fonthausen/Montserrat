@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb.loclVIET" format="1">
+  <advance width="507.599990845"/>
+  <outline>
+    <contour>
+      <point x="253.799995422" y="458.259096205" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="253.799995422" y="618.970337366" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="351.056152894" y="504.416990738" type="line"/>
+      <point x="268.275054064" y="616.149093306" type="line"/>
+      <point x="61.808760047" y="616.149093306" type="line"/>
+      <point x="207.303837036" y="504.416990738" type="line"/>
+    </contour>
+  </outline>
+</glyph>

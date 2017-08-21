@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglright.sc" format="1">
-  <advance width="268"/>
+  <advance width="259"/>
   <outline>
-    <component base="guilsinglleft.sc" xOffset="268" yOffset="499" xScale="-1" yScale="-1"/>
+    <contour>
+      <point x="201" y="279" type="line"/>
+      <point x="68" y="446" type="line"/>
+      <point x="45" y="446" type="line"/>
+      <point x="177" y="279" type="line"/>
+      <point x="45" y="113" type="line"/>
+      <point x="68" y="113" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>guilsinglright</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>guilsinglright</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

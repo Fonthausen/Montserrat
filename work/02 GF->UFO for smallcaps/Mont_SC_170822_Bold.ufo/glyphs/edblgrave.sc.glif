@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="edblgrave.sc" format="1">
+  <advance width="501.52063458"/>
+  <outline>
+    <component base="dblgravecomb" xOffset="1.13025603125" yOffset="28.2211750706"/>
+    <component base="e.sc"/>
+  </outline>
+</glyph>

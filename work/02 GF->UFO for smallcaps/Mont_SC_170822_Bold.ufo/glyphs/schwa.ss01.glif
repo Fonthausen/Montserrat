@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="schwa.ss01" format="1">
+  <advance width="562.138225203"/>
+  <outline>
+    <component base="e.ss01" xScale="-1.0" yScale="-1.0" xOffset="562.138225203" yOffset="458.259096205"/>
+  </outline>
+</glyph>

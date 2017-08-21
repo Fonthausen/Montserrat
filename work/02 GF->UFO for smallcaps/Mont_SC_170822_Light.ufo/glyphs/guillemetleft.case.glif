@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemetleft.case" format="1">
+  <advance width="362.302566918"/>
+  <outline>
+    <component base="guillemetleft" xOffset="8.09000015259" yOffset="69.0336013184"/>
+  </outline>
+</glyph>

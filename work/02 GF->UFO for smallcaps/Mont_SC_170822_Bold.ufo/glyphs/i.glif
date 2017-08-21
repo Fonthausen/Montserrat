@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i" format="1">
+  <advance width="285.482693883"/>
+  <unicode hex="0069"/>
+  <outline>
+    <contour>
+      <point x="252.311033642" y="0.0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="143.234564926" y="0.0" type="move" name="bottom"/>
+    </contour>
+    <component base="dotaccentcomb.i" xOffset="-110.565430496"/>
+    <component base="idotless"/>
+  </outline>
+</glyph>

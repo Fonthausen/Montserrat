@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="backslash.case" format="1">
-  <advance width="453"/>
+  <advance width="440"/>
   <outline>
-    <component base="backslash" xOffset="40"/>
+    <contour>
+      <point x="150" y="842" type="line"/>
+      <point x="-50" y="842" type="line"/>
+      <point x="280" y="-100" type="line"/>
+      <point x="480" y="-100" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
 </glyph>

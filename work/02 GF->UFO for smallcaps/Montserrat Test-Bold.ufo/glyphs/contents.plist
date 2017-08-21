@@ -630,14 +630,10 @@
 	<string>U_dieresis.glif</string>
 	<key>Udieresis.alt</key>
 	<string>U_dieresis.alt.glif</string>
-	<key>Udieresis.alt02</key>
-	<string>U_dieresis.alt02.glif</string>
 	<key>Udieresis.ss01</key>
 	<string>U_dieresis.ss01.glif</string>
 	<key>Udieresis.ss01.alt</key>
 	<string>U_dieresis.ss01.alt.glif</string>
-	<key>Udieresis.ss01.alt02</key>
-	<string>U_dieresis.ss01.alt02.glif</string>
 	<key>Udotbelow</key>
 	<string>U_dotbelow.glif</string>
 	<key>Udotbelow.ss01</key>
@@ -1628,6 +1624,8 @@
 	<string>g.sc.glif</string>
 	<key>g.sc.ss01</key>
 	<string>g.sc.ss01.glif</string>
+	<key>gacute.sc</key>
+	<string>gacute.sc.glif</string>
 	<key>gbreve</key>
 	<string>gbreve.glif</string>
 	<key>gbreve.sc</key>
@@ -2790,14 +2788,10 @@
 	<string>udieresis.sc.glif</string>
 	<key>udieresis.sc.alt</key>
 	<string>udieresis.sc.alt.glif</string>
-	<key>udieresis.sc.alt02</key>
-	<string>udieresis.sc.alt02.glif</string>
 	<key>udieresis.sc.ss01</key>
 	<string>udieresis.sc.ss01.glif</string>
 	<key>udieresis.sc.ss01.alt</key>
 	<string>udieresis.sc.ss01.alt.glif</string>
-	<key>udieresis.sc.ss01.alt02</key>
-	<string>udieresis.sc.ss01.alt02.glif</string>
 	<key>udotbelow</key>
 	<string>udotbelow.glif</string>
 	<key>udotbelow.sc</key>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="prime" format="1">
+  <advance width="287.609538115"/>
+  <outline>
+    <contour>
+      <point x="182.133643837" y="377.611379117" type="line"/>
+      <point x="225.546978719" y="582.777796274" type="line"/>
+      <point x="76.4445591376" y="582.777796274" type="line"/>
+      <point x="62.062559397" y="377.611379117" type="line"/>
+    </contour>
+  </outline>
+</glyph>

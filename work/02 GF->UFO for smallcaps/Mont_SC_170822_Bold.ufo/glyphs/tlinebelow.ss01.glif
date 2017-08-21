@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tlinebelow.ss01" format="1">
+  <advance width="374.603716482"/>
+  <outline>
+    <component base="t.ss01"/>
+    <component base="macronbelowcomb" xOffset="-42.0292795001"/>
+  </outline>
+</glyph>

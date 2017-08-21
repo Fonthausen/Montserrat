@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash" format="1">
+  <advance width="494.486697348"/>
+  <unicode hex="00F8"/>
+  <outline>
+    <contour>
+      <point x="247.243348674" y="413.802107903" type="move" name="top"/>
+    </contour>
+    <component base="slashlongcomb" xOffset="1.63579803124"/>
+    <component base="o"/>
+  </outline>
+</glyph>
