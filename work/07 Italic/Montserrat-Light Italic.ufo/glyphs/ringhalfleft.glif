@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringhalfleft" format="1">
+  <advance width="600"/>
+  <unicode hex="02BF"/>
+  <outline>
+    <contour>
+      <point x="404" y="779" type="line"/>
+      <point x="397" y="780"/>
+      <point x="392" y="780"/>
+      <point x="386" y="780" type="curve" smooth="yes"/>
+      <point x="333" y="780"/>
+      <point x="294" y="737"/>
+      <point x="294" y="687" type="curve" smooth="yes"/>
+      <point x="294" y="644"/>
+      <point x="323" y="607"/>
+      <point x="368" y="599" type="curve"/>
+      <point x="371" y="617" type="line"/>
+      <point x="336" y="624"/>
+      <point x="314" y="652"/>
+      <point x="314" y="687" type="curve" smooth="yes"/>
+      <point x="314" y="728"/>
+      <point x="344" y="761"/>
+      <point x="386" y="761" type="curve" smooth="yes"/>
+      <point x="391" y="761"/>
+      <point x="395" y="761"/>
+      <point x="400" y="760" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-21 21:20:44 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

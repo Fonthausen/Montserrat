@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oe.sc" format="1">
+  <advance width="843"/>
+  <outline>
+    <contour>
+      <point x="386" y="0" type="line"/>
+      <point x="419" y="161" type="line"/>
+      <point x="316" y="161" type="line" smooth="yes"/>
+      <point x="263" y="161"/>
+      <point x="233" y="187"/>
+      <point x="244" y="243" type="curve" smooth="yes"/>
+      <point x="256" y="300"/>
+      <point x="295" y="325"/>
+      <point x="349" y="325" type="curve" smooth="yes"/>
+      <point x="451" y="325" type="line"/>
+      <point x="484" y="486" type="line"/>
+      <point x="378" y="486" type="line" smooth="yes"/>
+      <point x="183" y="486"/>
+      <point x="50" y="397"/>
+      <point x="18" y="243" type="curve" smooth="yes"/>
+      <point x="-13" y="90"/>
+      <point x="84" y="0"/>
+      <point x="280" y="0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="777" y="0" type="line"/>
+      <point x="809" y="155" type="line"/>
+      <point x="581" y="155" type="line"/>
+      <point x="585" y="174" type="line"/>
+      <point x="775" y="174" type="line"/>
+      <point x="804" y="319" type="line"/>
+      <point x="614" y="319" type="line"/>
+      <point x="616" y="331" type="line"/>
+      <point x="835" y="331" type="line"/>
+      <point x="867" y="486" type="line"/>
+      <point x="428" y="486" type="line"/>
+      <point x="329" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="538" y="486" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="439" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-22 14:04:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

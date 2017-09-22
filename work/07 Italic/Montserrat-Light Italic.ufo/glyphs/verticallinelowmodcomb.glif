@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="verticallinelowmodcomb" format="1">
+  <advance width="40"/>
+  <outline>
+    <component base="verticallinelowmod" xOffset="-57"/>
+    <contour>
+      <point x="-32" y="0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-21 21:32:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

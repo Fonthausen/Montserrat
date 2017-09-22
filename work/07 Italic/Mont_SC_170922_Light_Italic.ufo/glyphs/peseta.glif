@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="peseta" format="1">
+  <advance width="1266"/>
+  <unicode hex="20A7"/>
+  <outline>
+    <component base="P"/>
+    <component base="s" xOffset="575"/>
+    <component base="t" xOffset="951"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-22 08:32:49 +0000</string>
+    </dict>
+  </lib>
+</glyph>

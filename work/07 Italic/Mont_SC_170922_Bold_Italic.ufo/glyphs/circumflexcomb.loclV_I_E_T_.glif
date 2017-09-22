@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb.loclVIET" format="1">
+  <advance width="508"/>
+  <outline>
+    <contour>
+      <point x="245" y="504" type="line"/>
+      <point x="379" y="592" type="line"/>
+      <point x="274" y="592" type="line"/>
+      <point x="381" y="504" type="line"/>
+      <point x="512" y="504" type="line"/>
+      <point x="420" y="619" type="line"/>
+      <point x="237" y="619" type="line"/>
+      <point x="108" y="504" type="line"/>
+    </contour>
+    <contour>
+      <point x="333" y="613" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="301" y="458" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-22 14:04:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

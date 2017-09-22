@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iacute_J.loclNLD.ss01" format="1">
+  <advance width="714"/>
+  <outline>
+    <contour>
+      <point x="436" y="-103"/>
+      <point x="533" y="-8"/>
+      <point x="573" y="190" type="curve" smooth="yes"/>
+      <point x="675" y="700" type="line"/>
+      <point x="655" y="700" type="line"/>
+      <point x="554" y="194" type="line" smooth="yes"/>
+      <point x="516" y="4"/>
+      <point x="425" y="-84"/>
+      <point x="269" y="-84" type="curve" smooth="yes"/>
+      <point x="190" y="-84"/>
+      <point x="123" y="-60"/>
+      <point x="74" y="-22" type="curve"/>
+      <point x="61" y="-39" type="line"/>
+      <point x="110" y="-76"/>
+      <point x="181" y="-103"/>
+      <point x="269" y="-103" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="133" y="190" type="line"/>
+      <point x="235" y="700" type="line"/>
+      <point x="215" y="700" type="line"/>
+      <point x="113" y="190" type="line"/>
+    </contour>
+    <contour>
+      <point x="251" y="757" type="line"/>
+      <point x="423" y="867" type="line"/>
+      <point x="383" y="867" type="line"/>
+      <point x="221" y="757" type="line"/>
+    </contour>
+    <contour>
+      <point x="693" y="757" type="line"/>
+      <point x="865" y="867" type="line"/>
+      <point x="825" y="867" type="line"/>
+      <point x="663" y="757" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-20 12:14:55 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>IJ</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

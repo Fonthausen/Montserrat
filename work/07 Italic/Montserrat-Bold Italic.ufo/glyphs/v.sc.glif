@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v.sc" format="1">
+  <advance width="685"/>
+  <outline>
+    <contour>
+      <point x="401" y="0" type="line"/>
+      <point x="764" y="582" type="line"/>
+      <point x="539" y="582" type="line"/>
+      <point x="241" y="95" type="line"/>
+      <point x="383" y="95" type="line"/>
+      <point x="286" y="582" type="line"/>
+      <point x="43" y="582" type="line"/>
+      <point x="175" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>V</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-11 21:11:09 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slashlongcomb.case" format="1">
+  <advance width="800"/>
+  <outline>
+    <contour>
+      <point x="105" y="-70" type="line"/>
+      <point x="863" y="770" type="line"/>
+      <point x="727" y="770" type="line"/>
+      <point x="-31" y="-70" type="line"/>
+    </contour>
+    <contour>
+      <point x="416" y="350" type="move" name="_center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>8</integer>
+      <key>com.schriftgestaltung.Glyphs.ColorIndexLayer</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-15 11:43:25 +0000</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

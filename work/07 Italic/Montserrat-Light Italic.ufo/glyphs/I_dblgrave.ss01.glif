@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idblgrave.ss01" format="1">
+  <advance width="422"/>
+  <outline>
+    <component base="I.ss01"/>
+    <component base="dblgravecomb.case" xOffset="-89"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-13 12:46:45 +0000</string>
+    </dict>
+  </lib>
+</glyph>

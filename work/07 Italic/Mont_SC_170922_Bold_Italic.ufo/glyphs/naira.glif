@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="naira" format="1">
+  <advance width="798"/>
+  <outline>
+    <contour>
+      <point x="274" y="0" type="line"/>
+      <point x="339" y="323" type="line"/>
+      <point x="260" y="323" type="line"/>
+      <point x="465" y="0" type="line"/>
+      <point x="654" y="0" type="line"/>
+      <point x="772" y="582" type="line"/>
+      <point x="548" y="582" type="line"/>
+      <point x="483" y="258" type="line"/>
+      <point x="563" y="259" type="line"/>
+      <point x="358" y="582" type="line"/>
+      <point x="169" y="582" type="line"/>
+      <point x="50" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="762" y="181" type="line"/>
+      <point x="784" y="286" type="line"/>
+      <point x="36" y="286" type="line"/>
+      <point x="15" y="181" type="line"/>
+    </contour>
+    <contour>
+      <point x="786" y="296" type="line"/>
+      <point x="807" y="401" type="line"/>
+      <point x="60" y="401" type="line"/>
+      <point x="39" y="296" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-22 14:04:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

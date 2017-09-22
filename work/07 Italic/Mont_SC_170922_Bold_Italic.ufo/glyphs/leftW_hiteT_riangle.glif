@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leftWhiteTriangle" format="1">
+  <advance width="508"/>
+  <outline>
+    <contour>
+      <point x="409" y="397" type="line"/>
+      <point x="49" y="220" type="line"/>
+      <point x="409" y="43" type="line"/>
+    </contour>
+    <contour>
+      <point x="236" y="220" type="line"/>
+      <point x="325" y="266" type="line"/>
+      <point x="325" y="175" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-22 14:04:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

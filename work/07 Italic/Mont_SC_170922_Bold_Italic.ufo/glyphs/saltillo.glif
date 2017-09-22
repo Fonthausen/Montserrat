@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="saltillo" format="1">
+  <advance width="300"/>
+  <outline>
+    <contour>
+      <point x="232" y="246" type="line"/>
+      <point x="333" y="591" type="line"/>
+      <point x="114" y="591" type="line"/>
+      <point x="44" y="246" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-22 14:04:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

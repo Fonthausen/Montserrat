@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb.loclVIET" format="1">
+  <advance width="508"/>
+  <outline>
+    <contour>
+      <point x="499" y="509" type="line"/>
+      <point x="521" y="614" type="line"/>
+      <point x="144" y="614" type="line"/>
+      <point x="123" y="509" type="line"/>
+    </contour>
+    <contour>
+      <point x="334" y="619" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="301" y="458" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-22 14:04:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="blackDiamond" format="1">
+  <advance width="508"/>
+  <outline>
+    <contour>
+      <point x="254" y="-7" type="line"/>
+      <point x="486" y="220" type="line"/>
+      <point x="254" y="449" type="line"/>
+      <point x="21" y="220" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-22 14:04:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

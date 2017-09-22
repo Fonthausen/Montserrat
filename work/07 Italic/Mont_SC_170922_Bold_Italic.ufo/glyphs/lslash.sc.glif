@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash.sc" format="1">
+  <advance width="467"/>
+  <outline>
+    <component base="l.sc"/>
+    <component base="slashshortcomb" xOffset="-139" yOffset="-50"/>
+    <contour>
+      <point x="391" y="280" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="214" y="486" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="395" y="486" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="226" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-22 14:04:45 +0000</string>
+    </dict>
+  </lib>
+</glyph>

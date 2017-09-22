@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Schwa.ss01" format="1">
+  <advance width="816"/>
+  <outline>
+    <contour>
+      <point x="624" y="-3"/>
+      <point x="782" y="196"/>
+      <point x="782" y="420" type="curve" smooth="yes"/>
+      <point x="782" y="589"/>
+      <point x="671" y="703"/>
+      <point x="477" y="703" type="curve" smooth="yes"/>
+      <point x="372" y="703"/>
+      <point x="277" y="668"/>
+      <point x="222" y="616" type="curve"/>
+      <point x="234" y="602" type="line"/>
+      <point x="290" y="653"/>
+      <point x="372" y="684"/>
+      <point x="475" y="684" type="curve" smooth="yes"/>
+      <point x="661" y="684"/>
+      <point x="762" y="577"/>
+      <point x="762" y="420" type="curve" smooth="yes"/>
+      <point x="762" y="201"/>
+      <point x="607" y="16"/>
+      <point x="378" y="16" type="curve" smooth="yes"/>
+      <point x="233" y="16"/>
+      <point x="132" y="84"/>
+      <point x="102" y="191" type="curve"/>
+      <point x="95" y="184" type="line"/>
+      <point x="769" y="444" type="line"/>
+      <point x="765" y="461" type="line"/>
+      <point x="78" y="196" type="line"/>
+      <point x="108" y="76"/>
+      <point x="221" y="-3"/>
+      <point x="376" y="-3" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="496" y="700" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="356" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>8</integer>
+      <key>com.schriftgestaltung.Glyphs.ColorIndexLayer</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-17 19:58:28 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>O</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

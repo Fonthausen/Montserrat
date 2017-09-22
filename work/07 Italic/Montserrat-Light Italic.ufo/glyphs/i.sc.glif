@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i.sc" format="1">
+  <advance width="264"/>
+  <outline>
+    <contour>
+      <point x="90" y="0" type="line"/>
+      <point x="202" y="559" type="line"/>
+      <point x="182" y="559" type="line"/>
+      <point x="70" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="192" y="559" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="108" y="559" type="move" name="topleft"/>
+    </contour>
+    <contour>
+      <point x="80" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>I</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-11 21:11:09 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>h.sc</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>h.sc</string>
+    </dict>
+  </lib>
+</glyph>

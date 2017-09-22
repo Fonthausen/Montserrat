@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb_gravecomb" format="1">
+  <advance width="485"/>
+  <outline>
+    <component base="gravecomb.loclVIET" xOffset="15.638" yOffset="76.880"/>
+    <component base="brevecomb.loclVIET" xOffset="35" yOffset="169"/>
+    <contour>
+      <point x="284" y="414" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-22 21:12:17 +0000</string>
+    </dict>
+  </lib>
+</glyph>

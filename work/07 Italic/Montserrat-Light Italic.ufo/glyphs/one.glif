@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one" format="1">
+  <advance width="342"/>
+  <unicode hex="0031"/>
+  <outline>
+    <contour>
+      <point x="157" y="0" type="line"/>
+      <point x="297" y="700" type="line"/>
+      <point x="98" y="700" type="line"/>
+      <point x="94" y="681" type="line"/>
+      <point x="283" y="681" type="line"/>
+      <point x="276" y="689" type="line"/>
+      <point x="138" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-20 12:56:08 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

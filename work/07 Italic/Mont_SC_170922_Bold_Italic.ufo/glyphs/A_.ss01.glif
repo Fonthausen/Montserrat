@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A.ss01" format="1">
+  <advance width="668"/>
+  <outline>
+    <contour>
+      <point x="211" y="0" type="line"/>
+      <point x="277" y="323" type="line" smooth="yes"/>
+      <point x="291" y="391"/>
+      <point x="322" y="417"/>
+      <point x="366" y="417" type="curve" smooth="yes"/>
+      <point x="414" y="417"/>
+      <point x="437" y="386"/>
+      <point x="423" y="314" type="curve" smooth="yes"/>
+      <point x="359" y="0" type="line"/>
+      <point x="589" y="0" type="line"/>
+      <point x="650" y="298" type="line" smooth="yes"/>
+      <point x="688" y="484"/>
+      <point x="578" y="597"/>
+      <point x="390" y="597" type="curve" smooth="yes"/>
+      <point x="210" y="597"/>
+      <point x="88" y="502"/>
+      <point x="52" y="327" type="curve" smooth="yes"/>
+      <point x="-15" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="461" y="106" type="line"/>
+      <point x="496" y="274" type="line"/>
+      <point x="186" y="274" type="line"/>
+      <point x="151" y="106" type="line"/>
+    </contour>
+    <contour>
+      <point x="589" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="406" y="582" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="109" y="582" type="move" name="topleft"/>
+    </contour>
+    <contour>
+      <point x="287" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-22 14:04:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

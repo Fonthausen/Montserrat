@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wacute.sc.ss01" format="1">
+  <advance width="755"/>
+  <outline>
+    <component base="acutecomb" xOffset="142.216" yOffset="33.390"/>
+    <component base="w.sc.ss01"/>
+  </outline>
+</glyph>

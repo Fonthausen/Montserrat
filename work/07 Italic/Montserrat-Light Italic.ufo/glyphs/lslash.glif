@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash" format="1">
+  <advance width="250"/>
+  <unicode hex="0142"/>
+  <outline>
+    <component base="l"/>
+    <component base="slashshortcomb" xOffset="-33" yOffset="-27"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-19 20:38:55 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=t</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=t</string>
+    </dict>
+  </lib>
+</glyph>

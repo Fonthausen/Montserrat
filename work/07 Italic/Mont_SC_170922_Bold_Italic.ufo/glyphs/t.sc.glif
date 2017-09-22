@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t.sc" format="1">
+  <advance width="497"/>
+  <outline>
+    <contour>
+      <point x="314" y="0" type="line"/>
+      <point x="379" y="327" type="line"/>
+      <point x="514" y="327" type="line"/>
+      <point x="547" y="486" type="line"/>
+      <point x="54" y="486" type="line"/>
+      <point x="21" y="327" type="line"/>
+      <point x="155" y="327" type="line"/>
+      <point x="90" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="486" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="244" y="210" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="202" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-22 14:04:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

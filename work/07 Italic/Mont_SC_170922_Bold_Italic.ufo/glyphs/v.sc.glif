@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v.sc" format="1">
+  <advance width="595"/>
+  <outline>
+    <contour>
+      <point x="361" y="0" type="line"/>
+      <point x="668" y="486" type="line"/>
+      <point x="449" y="486" type="line"/>
+      <point x="205" y="89" type="line"/>
+      <point x="344" y="89" type="line"/>
+      <point x="267" y="486" type="line"/>
+      <point x="31" y="486" type="line"/>
+      <point x="141" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-22 14:04:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

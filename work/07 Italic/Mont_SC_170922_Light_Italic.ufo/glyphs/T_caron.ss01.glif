@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tcaron.ss01" format="1">
+  <advance width="446"/>
+  <outline>
+    <component base="T.ss01"/>
+    <component base="caroncomb.case" xOffset="-30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-22 08:33:57 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e.sc" format="1">
+  <advance width="559"/>
+  <outline>
+    <contour>
+      <point x="449" y="0" type="line"/>
+      <point x="453" y="19" type="line"/>
+      <point x="94" y="19" type="line"/>
+      <point x="145" y="274" type="line"/>
+      <point x="456" y="274" type="line"/>
+      <point x="460" y="293" type="line"/>
+      <point x="149" y="293" type="line"/>
+      <point x="198" y="540" type="line"/>
+      <point x="545" y="540" type="line"/>
+      <point x="549" y="559" type="line"/>
+      <point x="182" y="559" type="line"/>
+      <point x="70" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="449" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="366" y="559" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="108" y="559" type="move" name="topleft"/>
+    </contour>
+    <contour>
+      <point x="268" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>E</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-11 21:11:09 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>h.sc</string>
+    </dict>
+  </lib>
+</glyph>

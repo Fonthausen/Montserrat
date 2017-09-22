@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ae.sc" format="1">
+  <advance width="820"/>
+  <outline>
+    <contour>
+      <point x="-21" y="0" type="line"/>
+      <point x="438" y="546" type="line"/>
+      <point x="423" y="540" type="line"/>
+      <point x="444" y="540" type="line"/>
+      <point x="448" y="559" type="line"/>
+      <point x="427" y="559" type="line"/>
+      <point x="-43" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="370" y="169" type="line"/>
+      <point x="374" y="188" type="line"/>
+      <point x="123" y="188" type="line"/>
+      <point x="111" y="169" type="line"/>
+    </contour>
+    <contour>
+      <point x="710" y="0" type="line"/>
+      <point x="714" y="19" type="line"/>
+      <point x="355" y="19" type="line"/>
+      <point x="406" y="274" type="line"/>
+      <point x="716" y="274" type="line"/>
+      <point x="720" y="293" type="line"/>
+      <point x="410" y="293" type="line"/>
+      <point x="459" y="540" type="line"/>
+      <point x="806" y="540" type="line"/>
+      <point x="810" y="559" type="line"/>
+      <point x="443" y="559" type="line"/>
+      <point x="331" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="453" y="559" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="341" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>AE</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-11 20:07:18 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>a.sc</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>e.sc</string>
+    </dict>
+  </lib>
+</glyph>

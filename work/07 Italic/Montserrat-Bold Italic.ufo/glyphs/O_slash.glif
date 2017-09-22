@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslash" format="1">
+  <advance width="848"/>
+  <unicode hex="00D8"/>
+  <outline>
+    <component base="O"/>
+    <component base="slashlongcomb.case" xOffset="23"/>
+    <contour>
+      <point x="509" y="700" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="369" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-13 12:31:36 +0000</string>
+    </dict>
+  </lib>
+</glyph>

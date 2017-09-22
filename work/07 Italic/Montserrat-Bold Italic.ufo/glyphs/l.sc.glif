@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l.sc" format="1">
+  <advance width="543"/>
+  <outline>
+    <contour>
+      <point x="481" y="0" type="line"/>
+      <point x="515" y="170" type="line"/>
+      <point x="262" y="170" type="line"/>
+      <point x="344" y="582" type="line"/>
+      <point x="114" y="582" type="line"/>
+      <point x="-2" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="249" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="460" y="376" type="move" name="dot"/>
+    </contour>
+    <contour>
+      <point x="229" y="582" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="431" y="582" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="180" y="337" type="move" name="center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>L</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-11 21:11:09 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>h.sc</string>
+    </dict>
+  </lib>
+</glyph>

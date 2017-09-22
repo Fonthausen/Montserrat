@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i.sc.ss01" format="1">
+  <advance width="402"/>
+  <outline>
+    <contour>
+      <point x="161" y="8" type="line"/>
+      <point x="269" y="551" type="line"/>
+      <point x="249" y="551" type="line"/>
+      <point x="141" y="8" type="line"/>
+    </contour>
+    <contour>
+      <point x="282" y="0" type="line"/>
+      <point x="286" y="19" type="line"/>
+      <point x="20" y="19" type="line"/>
+      <point x="16" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="390" y="540" type="line"/>
+      <point x="394" y="559" type="line"/>
+      <point x="128" y="559" type="line"/>
+      <point x="124" y="540" type="line"/>
+    </contour>
+    <contour>
+      <point x="159" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="261" y="559" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="94" y="559" type="move" name="topleft"/>
+    </contour>
+    <contour>
+      <point x="149" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>I.ss01</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-11 21:11:09 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

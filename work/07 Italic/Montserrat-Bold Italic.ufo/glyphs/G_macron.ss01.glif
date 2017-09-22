@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gmacron.ss01" format="1">
+  <advance width="769"/>
+  <outline>
+    <component base="G.ss01"/>
+    <component base="macroncomb.case" xOffset="123" yOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-13 12:46:45 +0000</string>
+    </dict>
+  </lib>
+</glyph>

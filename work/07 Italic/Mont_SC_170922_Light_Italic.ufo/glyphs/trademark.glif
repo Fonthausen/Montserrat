@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="1">
+  <advance width="815"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="365" y="228" type="line"/>
+      <point x="427" y="532" type="line"/>
+      <point x="423" y="532" type="line"/>
+      <point x="537" y="273" type="line"/>
+      <point x="547" y="273" type="line"/>
+      <point x="763" y="532" type="line"/>
+      <point x="757" y="532" type="line"/>
+      <point x="695" y="228" type="line"/>
+      <point x="713" y="228" type="line"/>
+      <point x="780" y="559" type="line"/>
+      <point x="764" y="559" type="line"/>
+      <point x="540" y="289" type="line"/>
+      <point x="548" y="289" type="line"/>
+      <point x="431" y="559" type="line"/>
+      <point x="415" y="559" type="line"/>
+      <point x="348" y="228" type="line"/>
+    </contour>
+    <contour>
+      <point x="159" y="228" type="line"/>
+      <point x="222" y="543" type="line"/>
+      <point x="355" y="543" type="line"/>
+      <point x="359" y="559" type="line"/>
+      <point x="74" y="559" type="line"/>
+      <point x="71" y="543" type="line"/>
+      <point x="204" y="543" type="line"/>
+      <point x="140" y="228" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-22 08:32:10 +0000</string>
+    </dict>
+  </lib>
+</glyph>

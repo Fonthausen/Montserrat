@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhornacute.sc.ss01" format="1">
+  <advance width="721"/>
+  <outline>
+    <component base="uhorn.sc.ss01"/>
+    <component base="acutecomb" xOffset="55" yOffset="35"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-13 13:38:41 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=u.sc.ss01</string>
+    </dict>
+  </lib>
+</glyph>

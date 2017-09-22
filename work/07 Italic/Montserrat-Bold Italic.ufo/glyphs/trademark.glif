@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="1">
+  <advance width="1067"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="612" y="285" type="line"/>
+      <point x="654" y="497" type="line"/>
+      <point x="626" y="497" type="line"/>
+      <point x="714" y="321" type="line"/>
+      <point x="787" y="321" type="line"/>
+      <point x="930" y="497" type="line"/>
+      <point x="907" y="497" type="line"/>
+      <point x="867" y="285" type="line"/>
+      <point x="1012" y="285" type="line"/>
+      <point x="1093" y="700" type="line"/>
+      <point x="957" y="700" type="line"/>
+      <point x="737" y="434" type="line"/>
+      <point x="806" y="434" type="line"/>
+      <point x="678" y="700" type="line"/>
+      <point x="550" y="700" type="line"/>
+      <point x="467" y="285" type="line"/>
+    </contour>
+    <contour>
+      <point x="295" y="285" type="line"/>
+      <point x="355" y="586" type="line"/>
+      <point x="484" y="586" type="line"/>
+      <point x="507" y="700" type="line"/>
+      <point x="89" y="700" type="line"/>
+      <point x="66" y="586" type="line"/>
+      <point x="195" y="586" type="line"/>
+      <point x="135" y="285" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-21 15:06:28 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

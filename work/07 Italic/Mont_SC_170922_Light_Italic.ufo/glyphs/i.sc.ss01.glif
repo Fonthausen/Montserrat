@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i.sc.ss01" format="1">
+  <advance width="326"/>
+  <outline>
+    <contour>
+      <point x="133" y="7" type="line"/>
+      <point x="220" y="441" type="line"/>
+      <point x="200" y="441" type="line"/>
+      <point x="113" y="7" type="line"/>
+    </contour>
+    <contour>
+      <point x="230" y="0" type="line"/>
+      <point x="234" y="19" type="line"/>
+      <point x="16" y="19" type="line"/>
+      <point x="12" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="317" y="429" type="line"/>
+      <point x="321" y="447" type="line"/>
+      <point x="103" y="447" type="line"/>
+      <point x="99" y="429" type="line"/>
+    </contour>
+    <contour>
+      <point x="131" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="212" y="447" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="75" y="447" type="move" name="topleft"/>
+    </contour>
+    <contour>
+      <point x="121" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-22 08:32:10 +0000</string>
+    </dict>
+  </lib>
+</glyph>

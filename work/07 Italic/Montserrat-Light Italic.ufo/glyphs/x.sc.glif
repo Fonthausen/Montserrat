@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="x.sc" format="1">
+  <advance width="515"/>
+  <outline>
+    <contour>
+      <point x="-4" y="0" type="line"/>
+      <point x="264" y="279" type="line"/>
+      <point x="258" y="279" type="line"/>
+      <point x="414" y="0" type="line"/>
+      <point x="438" y="0" type="line"/>
+      <point x="273" y="294" type="line"/>
+      <point x="271" y="284" type="line"/>
+      <point x="534" y="559" type="line"/>
+      <point x="511" y="559" type="line"/>
+      <point x="263" y="300" type="line"/>
+      <point x="269" y="300" type="line"/>
+      <point x="125" y="559" type="line"/>
+      <point x="101" y="559" type="line"/>
+      <point x="255" y="281" type="line"/>
+      <point x="258" y="297" type="line"/>
+      <point x="-27" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>X</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-11 21:11:09 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

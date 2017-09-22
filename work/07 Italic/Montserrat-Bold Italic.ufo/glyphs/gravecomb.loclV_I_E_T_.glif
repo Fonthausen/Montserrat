@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb.loclVIET" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="472" y="607" type="line"/>
+      <point x="396" y="737" type="line"/>
+      <point x="181" y="737" type="line"/>
+      <point x="322" y="607" type="line"/>
+    </contour>
+    <contour>
+      <point x="392" y="730" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="355" y="547" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>gravecomb</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-21 20:16:40 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

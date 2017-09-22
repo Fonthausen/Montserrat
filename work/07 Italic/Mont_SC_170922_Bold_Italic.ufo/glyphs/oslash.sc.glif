@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash.sc" format="1">
+  <advance width="620"/>
+  <outline>
+    <component base="o.sc"/>
+    <component base="slashlongcomb.sc" xOffset="23"/>
+    <contour>
+      <point x="359" y="486" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="261" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-22 14:04:45 +0000</string>
+    </dict>
+  </lib>
+</glyph>

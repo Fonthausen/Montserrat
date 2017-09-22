@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb.loclVIET" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="539" y="597"/>
+      <point x="592" y="654"/>
+      <point x="605" y="746" type="curve"/>
+      <point x="498" y="746" type="line"/>
+      <point x="493" y="724"/>
+      <point x="477" y="705"/>
+      <point x="451" y="705" type="curve" smooth="yes"/>
+      <point x="417" y="705"/>
+      <point x="385" y="755"/>
+      <point x="313" y="755" type="curve" smooth="yes"/>
+      <point x="227" y="755"/>
+      <point x="171" y="701"/>
+      <point x="157" y="606" type="curve"/>
+      <point x="267" y="606" type="line"/>
+      <point x="272" y="630"/>
+      <point x="289" y="647"/>
+      <point x="313" y="647" type="curve" smooth="yes"/>
+      <point x="346" y="647"/>
+      <point x="377" y="597"/>
+      <point x="449" y="597" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="392" y="730" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="355" y="547" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-21 20:19:47 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

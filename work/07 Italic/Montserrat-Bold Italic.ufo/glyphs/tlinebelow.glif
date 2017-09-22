@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tlinebelow" format="1">
+  <advance width="460"/>
+  <unicode hex="1E6F"/>
+  <outline>
+    <component base="t"/>
+    <component base="macronbelowcomb" xOffset="-27"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-19 20:39:42 +0000</string>
+    </dict>
+  </lib>
+</glyph>

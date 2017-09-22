@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb_tildecomb" format="1">
+  <advance width="508"/>
+  <outline>
+    <component base="circumflexcomb.loclVIET"/>
+    <component base="tildecomb.loclVIET" xOffset="32" yOffset="155"/>
+    <contour>
+      <point x="301" y="458" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-22 14:04:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

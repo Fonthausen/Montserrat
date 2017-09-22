@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t.sc" format="1">
+  <advance width="568"/>
+  <outline>
+    <contour>
+      <point x="344" y="0" type="line"/>
+      <point x="426" y="412" type="line"/>
+      <point x="592" y="412" type="line"/>
+      <point x="626" y="582" type="line"/>
+      <point x="64" y="582" type="line"/>
+      <point x="30" y="412" type="line"/>
+      <point x="196" y="412" type="line"/>
+      <point x="114" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="280" y="257" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="229" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="345" y="582" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>T</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-11 21:11:09 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="strokeshortcomb.t" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="515" y="378" type="line"/>
+      <point x="537" y="488" type="line"/>
+      <point x="150" y="488" type="line"/>
+      <point x="128" y="378" type="line"/>
+    </contour>
+    <contour>
+      <point x="333" y="433" type="move" name="_center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>8</integer>
+      <key>com.schriftgestaltung.Glyphs.ColorIndexLayer</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-15 12:13:38 +0000</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

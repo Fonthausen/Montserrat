@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abreve.ss01" format="1">
+  <advance width="792"/>
+  <outline>
+    <component base="A.ss01"/>
+    <component base="brevecomb.case" xOffset="95"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-13 12:46:45 +0000</string>
+    </dict>
+  </lib>
+</glyph>

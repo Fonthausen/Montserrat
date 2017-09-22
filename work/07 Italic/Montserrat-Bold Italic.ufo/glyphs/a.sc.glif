@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a.sc" format="1">
+  <advance width="702"/>
+  <outline>
+    <contour>
+      <point x="147" y="0" type="line"/>
+      <point x="430" y="478" type="line"/>
+      <point x="355" y="478" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="665" y="0" type="line"/>
+      <point x="525" y="582" type="line"/>
+      <point x="299" y="582" type="line"/>
+      <point x="-73" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="480" y="88" type="line"/>
+      <point x="453" y="246" type="line"/>
+      <point x="200" y="246" type="line"/>
+      <point x="111" y="88" type="line"/>
+    </contour>
+    <contour>
+      <point x="665" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="412" y="582" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="167" y="583" type="move" name="topleft"/>
+    </contour>
+    <contour>
+      <point x="296" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>A</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-11 21:11:09 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

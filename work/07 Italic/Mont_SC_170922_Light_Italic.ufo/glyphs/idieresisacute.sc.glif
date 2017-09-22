@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idieresisacute.sc" format="1">
+  <advance width="215"/>
+  <outline>
+    <component base="dieresiscomb.narrow" xOffset="-128.044" yOffset="33.390"/>
+    <component base="acutecomb" xOffset="-109" yOffset="125"/>
+    <component base="i.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-22 21:16:53 +0000</string>
+    </dict>
+  </lib>
+</glyph>

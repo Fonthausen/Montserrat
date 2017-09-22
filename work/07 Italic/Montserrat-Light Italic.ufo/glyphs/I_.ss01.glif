@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I.ss01" format="1">
+  <advance width="422"/>
+  <outline>
+    <contour>
+      <point x="171" y="10" type="line"/>
+      <point x="307" y="690" type="line"/>
+      <point x="287" y="690" type="line"/>
+      <point x="151" y="10" type="line"/>
+    </contour>
+    <contour>
+      <point x="323" y="0" type="line"/>
+      <point x="327" y="19" type="line"/>
+      <point x="-1" y="19" type="line"/>
+      <point x="-5" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="459" y="681" type="line"/>
+      <point x="463" y="700" type="line"/>
+      <point x="135" y="700" type="line"/>
+      <point x="131" y="681" type="line"/>
+    </contour>
+    <contour>
+      <point x="169" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="299" y="700" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="95" y="700" type="move" name="topleft"/>
+    </contour>
+    <contour>
+      <point x="159" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-16 22:05:09 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="z.sc.ss01" format="1">
+  <advance width="530"/>
+  <outline>
+    <contour>
+      <point x="467" y="0" type="line"/>
+      <point x="499" y="155" type="line"/>
+      <point x="208" y="155" type="line"/>
+      <point x="229" y="107" type="line"/>
+      <point x="531" y="372" type="line"/>
+      <point x="554" y="487" type="line"/>
+      <point x="89" y="487" type="line"/>
+      <point x="58" y="332" type="line"/>
+      <point x="327" y="332" type="line"/>
+      <point x="306" y="380" type="line"/>
+      <point x="3" y="115" type="line"/>
+      <point x="-20" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="211" y="176" type="line"/>
+      <point x="268" y="175" type="line"/>
+      <point x="477" y="175" type="line"/>
+      <point x="506" y="315" type="line"/>
+      <point x="348" y="315" type="line"/>
+      <point x="291" y="316" type="line"/>
+      <point x="70" y="316" type="line"/>
+      <point x="41" y="176" type="line"/>
+    </contour>
+    <contour>
+      <point x="323" y="486" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="222" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-22 14:04:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

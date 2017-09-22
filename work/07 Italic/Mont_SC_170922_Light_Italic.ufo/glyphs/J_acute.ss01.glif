@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Jacute.ss01" format="1">
+  <advance width="388"/>
+  <outline>
+    <component base="J.ss01"/>
+    <component base="acutecomb.case" xOffset="-82"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-22 08:33:57 +0000</string>
+    </dict>
+  </lib>
+</glyph>

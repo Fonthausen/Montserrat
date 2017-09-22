@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash.sc" format="1">
+  <advance width="543"/>
+  <outline>
+    <component base="l.sc"/>
+    <component base="slashshortcomb" xOffset="-146" yOffset="-64"/>
+    <contour>
+      <point x="260" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="247" y="582" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="464" y="582" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="447" y="334" type="move" name="center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>Lslash</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-13 13:34:49 +0000</string>
+    </dict>
+  </lib>
+</glyph>

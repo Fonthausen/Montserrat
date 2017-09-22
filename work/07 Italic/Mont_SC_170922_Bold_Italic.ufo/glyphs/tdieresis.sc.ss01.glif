@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tdieresis.sc.ss01" format="1">
+  <advance width="527"/>
+  <outline>
+    <component base="dieresiscomb" xOffset="19.274" yOffset="29.176"/>
+    <component base="t.sc.ss01"/>
+  </outline>
+</glyph>

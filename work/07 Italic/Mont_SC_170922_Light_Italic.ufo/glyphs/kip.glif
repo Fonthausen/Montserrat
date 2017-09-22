@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kip" format="1">
+  <advance width="459"/>
+  <outline>
+    <contour>
+      <point x="401" y="271" type="line"/>
+      <point x="404" y="289" type="line"/>
+      <point x="41" y="289" type="line"/>
+      <point x="37" y="271" type="line"/>
+    </contour>
+    <contour>
+      <point x="91" y="0" type="line"/>
+      <point x="204" y="559" type="line"/>
+      <point x="184" y="559" type="line"/>
+      <point x="71" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="405" y="0" type="line"/>
+      <point x="181" y="280" type="line"/>
+      <point x="156" y="280" type="line"/>
+      <point x="380" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="156" y="280" type="line"/>
+      <point x="184" y="280" type="line"/>
+      <point x="518" y="559" type="line"/>
+      <point x="490" y="559" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-22 08:32:10 +0000</string>
+    </dict>
+  </lib>
+</glyph>

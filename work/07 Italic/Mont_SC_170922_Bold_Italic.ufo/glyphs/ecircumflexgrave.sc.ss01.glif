@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecircumflexgrave.sc.ss01" format="1">
+  <advance width="525"/>
+  <outline>
+    <component base="circumflexcomb_gravecomb" xOffset="31.559" yOffset="28.221"/>
+    <component base="e.sc.ss01"/>
+  </outline>
+</glyph>

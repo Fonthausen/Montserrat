@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="prime" format="1">
+  <advance width="225"/>
+  <outline>
+    <contour>
+      <point x="144" y="367" type="line"/>
+      <point x="200" y="559" type="line"/>
+      <point x="181" y="559" type="line"/>
+      <point x="129" y="367" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-22 08:32:10 +0000</string>
+    </dict>
+  </lib>
+</glyph>

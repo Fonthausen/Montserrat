@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="D" format="1">
+  <advance width="826"/>
+  <unicode hex="0044"/>
+  <outline>
+    <contour>
+      <point x="377" y="0" type="line" smooth="yes"/>
+      <point x="632" y="0"/>
+      <point x="815" y="156"/>
+      <point x="815" y="403" type="curve" smooth="yes"/>
+      <point x="815" y="587"/>
+      <point x="679" y="700"/>
+      <point x="458" y="700" type="curve" smooth="yes"/>
+      <point x="142" y="700" type="line"/>
+      <point x="2" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="341" y="516" type="line"/>
+      <point x="431" y="516" type="line" smooth="yes"/>
+      <point x="526" y="516"/>
+      <point x="577" y="470"/>
+      <point x="577" y="389" type="curve" smooth="yes"/>
+      <point x="577" y="274"/>
+      <point x="510" y="184"/>
+      <point x="385" y="184" type="curve" smooth="yes"/>
+      <point x="275" y="184" type="line"/>
+    </contour>
+    <contour>
+      <point x="222" y="355" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="304" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="442" y="700" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-15 19:36:05 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

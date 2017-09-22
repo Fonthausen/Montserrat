@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k.sc" format="1">
+  <advance width="587"/>
+  <outline>
+    <contour>
+      <point x="251" y="141" type="line"/>
+      <point x="400" y="258" type="line"/>
+      <point x="655" y="486" type="line"/>
+      <point x="412" y="486" type="line"/>
+      <point x="244" y="327" type="line"/>
+      <point x="208" y="98" type="line"/>
+    </contour>
+    <contour>
+      <point x="208" y="0" type="line"/>
+      <point x="307" y="486" type="line"/>
+      <point x="87" y="486" type="line"/>
+      <point x="-12" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="563" y="0" type="line"/>
+      <point x="396" y="311" type="line"/>
+      <point x="222" y="166" type="line"/>
+      <point x="305" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="345" y="486" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="246" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-22 14:04:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

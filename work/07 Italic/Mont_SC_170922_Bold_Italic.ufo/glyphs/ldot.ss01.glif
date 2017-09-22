@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldot.ss01" format="1">
+  <advance width="459"/>
+  <outline>
+    <component base="periodcentered.loclCAT" xOffset="269.385" yOffset="61.214"/>
+    <component base="l.ss01"/>
+  </outline>
+</glyph>

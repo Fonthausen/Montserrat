@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="z.ss01" format="1">
+  <advance width="580"/>
+  <outline>
+    <contour>
+      <point x="502" y="0" type="line"/>
+      <point x="535" y="165" type="line"/>
+      <point x="196" y="165" type="line"/>
+      <point x="227" y="93" type="line"/>
+      <point x="574" y="417" type="line"/>
+      <point x="600" y="547" type="line"/>
+      <point x="97" y="547" type="line"/>
+      <point x="64" y="382" type="line"/>
+      <point x="384" y="382" type="line"/>
+      <point x="354" y="454" type="line"/>
+      <point x="6" y="130" type="line"/>
+      <point x="-20" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="247" y="210" type="line"/>
+      <point x="306" y="209" type="line"/>
+      <point x="514" y="209" type="line"/>
+      <point x="540" y="342" type="line"/>
+      <point x="385" y="342" type="line"/>
+      <point x="327" y="343" type="line"/>
+      <point x="77" y="343" type="line"/>
+      <point x="50" y="210" type="line"/>
+    </contour>
+    <contour>
+      <point x="344" y="547" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="235" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-19 14:23:43 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=z+5</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=z+5</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhorn.sc.ss01" format="1">
+  <advance width="721"/>
+  <outline>
+    <component base="u.sc.ss01"/>
+    <component base="horncomb" xOffset="253" yOffset="35"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-13 13:38:54 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=u.sc.ss01</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=+20</string>
+    </dict>
+  </lib>
+</glyph>

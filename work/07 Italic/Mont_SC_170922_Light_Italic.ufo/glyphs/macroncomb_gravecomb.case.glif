@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb_gravecomb.case" format="1">
+  <advance width="485"/>
+  <outline>
+    <component base="macroncomb_gravecomb" xOffset="24.270" yOffset="119.850"/>
+    <contour>
+      <point x="314" y="559" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

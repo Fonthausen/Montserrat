@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eacute.ss01" format="1">
+  <advance width="562"/>
+  <outline>
+    <component base="acutecomb" xOffset="30.860"/>
+    <component base="e.ss01"/>
+  </outline>
+</glyph>

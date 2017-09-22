@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oacute" format="1">
+  <advance width="848"/>
+  <unicode hex="00D3"/>
+  <outline>
+    <component base="O"/>
+    <component base="acutecomb.case" xOffset="123"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-13 12:31:36 +0000</string>
+    </dict>
+  </lib>
+</glyph>

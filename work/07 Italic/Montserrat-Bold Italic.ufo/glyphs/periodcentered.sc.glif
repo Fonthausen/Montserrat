@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered.sc" format="1">
+  <advance width="344"/>
+  <outline>
+    <contour>
+      <point x="249" y="187"/>
+      <point x="313" y="242"/>
+      <point x="313" y="326" type="curve" smooth="yes"/>
+      <point x="313" y="397"/>
+      <point x="264" y="445"/>
+      <point x="190" y="445" type="curve" smooth="yes"/>
+      <point x="111" y="445"/>
+      <point x="48" y="390"/>
+      <point x="48" y="306" type="curve" smooth="yes"/>
+      <point x="48" y="237"/>
+      <point x="99" y="187"/>
+      <point x="172" y="187" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="181" y="320" type="move" name="_dot"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-21 12:26:43 +0000</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

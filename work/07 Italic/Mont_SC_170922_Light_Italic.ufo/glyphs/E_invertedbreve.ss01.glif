@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Einvertedbreve.ss01" format="1">
+  <advance width="498"/>
+  <outline>
+    <component base="E.ss01"/>
+    <component base="breveinvertedcomb.case" xOffset="20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-22 08:33:57 +0000</string>
+    </dict>
+  </lib>
+</glyph>

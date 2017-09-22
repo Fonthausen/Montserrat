@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresisbelowcomb" format="1">
+  <advance width="600"/>
+  <unicode hex="0324"/>
+  <outline>
+    <contour>
+      <point x="370" y="-217"/>
+      <point x="411" y="-183"/>
+      <point x="411" y="-124" type="curve" smooth="yes"/>
+      <point x="411" y="-81"/>
+      <point x="376" y="-50"/>
+      <point x="332" y="-50" type="curve" smooth="yes"/>
+      <point x="283" y="-50"/>
+      <point x="239" y="-88"/>
+      <point x="239" y="-141" type="curve" smooth="yes"/>
+      <point x="239" y="-185"/>
+      <point x="271" y="-217"/>
+      <point x="319" y="-217" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="157" y="-217"/>
+      <point x="198" y="-183"/>
+      <point x="198" y="-124" type="curve" smooth="yes"/>
+      <point x="198" y="-81"/>
+      <point x="163" y="-50"/>
+      <point x="119" y="-50" type="curve" smooth="yes"/>
+      <point x="70" y="-50"/>
+      <point x="26" y="-88"/>
+      <point x="26" y="-141" type="curve" smooth="yes"/>
+      <point x="26" y="-185"/>
+      <point x="58" y="-217"/>
+      <point x="106" y="-217" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="246" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="210" y="-181" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-21 19:45:36 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

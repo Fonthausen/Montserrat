@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat.sc" format="1">
+  <advance width="561"/>
+  <outline>
+    <component base="eth.sc"/>
+    <contour>
+      <point x="319" y="447" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="156" y="224" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="250" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

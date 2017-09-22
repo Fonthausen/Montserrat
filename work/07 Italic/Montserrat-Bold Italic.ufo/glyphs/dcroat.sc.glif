@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat.sc" format="1">
+  <advance width="738"/>
+  <outline>
+    <component base="eth.sc"/>
+    <contour>
+      <point x="196" y="292" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="289" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="397" y="582" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>Dcroat</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-13 13:32:59 +0000</string>
+    </dict>
+  </lib>
+</glyph>

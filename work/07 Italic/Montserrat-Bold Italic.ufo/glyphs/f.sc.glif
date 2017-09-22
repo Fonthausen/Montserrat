@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f.sc" format="1">
+  <advance width="566"/>
+  <outline>
+    <contour>
+      <point x="228" y="0" type="line"/>
+      <point x="263" y="174" type="line"/>
+      <point x="496" y="174" type="line"/>
+      <point x="529" y="339" type="line"/>
+      <point x="296" y="339" type="line"/>
+      <point x="311" y="417" type="line"/>
+      <point x="578" y="417" type="line"/>
+      <point x="611" y="582" type="line"/>
+      <point x="114" y="582" type="line"/>
+      <point x="-2" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>F</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-11 21:11:09 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>h.sc</string>
+    </dict>
+  </lib>
+</glyph>

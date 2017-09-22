@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccentcomb" format="1">
+  <advance width="600"/>
+  <unicode hex="0326"/>
+  <outline>
+    <contour>
+      <point x="195" y="-259" type="line"/>
+      <point x="235" y="-179" type="line" smooth="yes"/>
+      <point x="241" y="-168"/>
+      <point x="244" y="-161"/>
+      <point x="244" y="-150" type="curve" smooth="yes"/>
+      <point x="244" y="-136"/>
+      <point x="233" y="-124"/>
+      <point x="217" y="-124" type="curve" smooth="yes"/>
+      <point x="203" y="-124"/>
+      <point x="192" y="-136"/>
+      <point x="192" y="-150" type="curve" smooth="yes"/>
+      <point x="192" y="-164"/>
+      <point x="204" y="-176"/>
+      <point x="218" y="-176" type="curve"/>
+      <point x="217" y="-165" type="line"/>
+      <point x="177" y="-259" type="line"/>
+    </contour>
+    <contour>
+      <point x="248" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="225" y="-113" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-21 19:55:09 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

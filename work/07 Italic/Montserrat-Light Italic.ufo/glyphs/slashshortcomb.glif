@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slashshortcomb" format="1">
+  <advance width="322"/>
+  <unicode hex="0337"/>
+  <outline>
+    <contour>
+      <point x="291" y="441" type="line"/>
+      <point x="283" y="455" type="line"/>
+      <point x="62" y="313" type="line"/>
+      <point x="70" y="299" type="line"/>
+    </contour>
+    <contour>
+      <point x="176" y="377" type="move" name="_center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>8</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-15 10:54:44 +0000</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

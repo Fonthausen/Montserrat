@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="h.sc" format="1">
+  <advance width="710"/>
+  <outline>
+    <contour>
+      <point x="228" y="0" type="line"/>
+      <point x="269" y="204" type="line"/>
+      <point x="413" y="204" type="line"/>
+      <point x="372" y="0" type="line"/>
+      <point x="602" y="0" type="line"/>
+      <point x="718" y="582" type="line"/>
+      <point x="488" y="582" type="line"/>
+      <point x="449" y="386" type="line"/>
+      <point x="305" y="386" type="line"/>
+      <point x="344" y="582" type="line"/>
+      <point x="114" y="582" type="line"/>
+      <point x="-2" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="397" y="483" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="300" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="416" y="582" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>H</string>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-11 21:11:09 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
+</glyph>

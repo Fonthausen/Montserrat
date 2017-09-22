@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcedilla" format="1">
+  <advance width="315"/>
+  <outline>
+    <component base="t"/>
+    <component base="cedillacomb" xOffset="-48"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-22 21:16:53 +0000</string>
+    </dict>
+  </lib>
+</glyph>

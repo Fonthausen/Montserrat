@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dlinebelow" format="1">
+  <advance width="671"/>
+  <unicode hex="1E0F"/>
+  <outline>
+    <component base="d"/>
+    <component base="macronbelowcomb" xOffset="28"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-09-19 20:38:17 +0000</string>
+    </dict>
+  </lib>
+</glyph>

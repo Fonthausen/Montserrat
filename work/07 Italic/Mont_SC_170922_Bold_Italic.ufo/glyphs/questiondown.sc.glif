@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questiondown.sc" format="1">
+  <advance width="467"/>
+  <outline>
+    <component base="question.sc" xOffset="467.393" yOffset="486.480" xScale="-1" yScale="-1"/>
+  </outline>
+</glyph>
