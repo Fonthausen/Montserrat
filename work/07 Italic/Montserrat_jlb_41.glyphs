@@ -1,8 +1,5 @@
 {
-.appVersion = "1066";
-DisplayStrings = (
-"/tbar/tbar.ss01"
-);
+.appVersion = "1060";
 classes = (
 {
 automatic = 1;
@@ -122275,6 +122272,7 @@ rightKerningGroup = T;
 );
 instances = (
 {
+exports = 0;
 interpolationWeight = 20;
 instanceInterpolations = {
 UUID0 = 1;
@@ -122283,6 +122281,7 @@ name = Thin;
 weightClass = Thin;
 },
 {
+exports = 0;
 customParameters = (
 {
 name = InterpolationWeightY;
@@ -122302,6 +122301,7 @@ name = ExtraLight;
 weightClass = ExtraLight;
 },
 {
+exports = 0;
 customParameters = (
 {
 name = InterpolationWeightY;
@@ -122317,6 +122317,7 @@ name = Light;
 weightClass = Light;
 },
 {
+exports = 0;
 customParameters = (
 {
 name = InterpolationWeightY;
@@ -122331,6 +122332,7 @@ UUID0 = "{0.76699, 0.75243}";
 name = Regular;
 },
 {
+exports = 0;
 customParameters = (
 {
 name = InterpolationWeightY;
@@ -122346,6 +122348,7 @@ name = Medium;
 weightClass = Medium;
 },
 {
+exports = 0;
 customParameters = (
 {
 name = InterpolationWeightY;
@@ -122361,6 +122364,7 @@ name = SemiBold;
 weightClass = SemiBold;
 },
 {
+exports = 0;
 customParameters = (
 {
 name = InterpolationWeightY;
@@ -122378,6 +122382,7 @@ name = Bold;
 weightClass = Bold;
 },
 {
+exports = 0;
 customParameters = (
 {
 name = InterpolationWeightY;
@@ -122393,6 +122398,7 @@ name = ExtraBold;
 weightClass = ExtraBold;
 },
 {
+exports = 0;
 interpolationWeight = 226;
 instanceInterpolations = {
 "5DA6E103-6A94-47F2-987D-4952DB8EA68E" = 1;
@@ -130270,8 +130276,8 @@ idotless.sc.ss01
 );
 interpolationWeight = 215;
 instanceInterpolations = {
-"5DA6E103-6A94-47F2-987D-4952DB8EA68E" = 0.9466;
-UUID0 = 0.0534;
+"5DA6E103-6A94-47F2-987D-4952DB8EA68E" = 0.94660;
+UUID0 = 0.05340;
 };
 name = Black;
 weightClass = Black;

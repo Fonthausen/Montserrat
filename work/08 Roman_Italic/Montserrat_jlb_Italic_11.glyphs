@@ -1,5 +1,8 @@
 {
 .appVersion = "1060";
+DisplayStrings = (
+"/a.ss01 t\012lllllll/a.ss01/Placeholder lllllll\012nnn/a.ss01/Placeholder nnn\012ooo/a.ss01/Placeholder ooo"
+);
 classes = (
 {
 automatic = 1;
@@ -30007,7 +30010,7 @@ unicode = 014B;
 },
 {
 glyphname = o;
-lastChange = "2017-09-25 10:35:32 +0000";
+lastChange = "2017-09-25 13:59:25 +0000";
 layers = (
 {
 anchors = (
@@ -33318,7 +33321,7 @@ unicode = 0259;
 {
 color = 9;
 glyphname = t;
-lastChange = "2017-09-25 10:35:32 +0000";
+lastChange = "2017-09-25 14:13:05 +0000";
 layers = (
 {
 anchors = (
@@ -146464,6 +146467,10 @@ tcommaaccent = {
 };
 uogonek = {
 "@MMK_R_j" = 70;
+};
+"@MMK_L_a_ita" = {
+"@MMK_R_o" = -15;
+"@MMK_R_t" = -5;
 };
 };
 };
